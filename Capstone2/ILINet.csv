@@ -1,0 +1,3265 @@
+REGION TYPE,REGION,YEAR,WEEK,% WEIGHTED ILI,%UNWEIGHTED ILI,AGE 0-4,AGE 25-49,AGE 25-64,AGE 5-24,AGE 50-64,AGE 65,ILITOTAL,NUM. OF PROVIDERS,TOTAL PATIENTS
+States,California,2010,40,X,1.95412,X,X,X,X,X,X,632,112,32342
+States,District of Columbia,2010,40,X,2.80877,X,X,X,X,X,X,73,4,2599
+States,Florida,2010,40,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2010,40,X,0.26299,X,X,X,X,X,X,37,91,14069
+States,Texas,2010,40,X,2.06514,X,X,X,X,X,X,1050,98,50844
+States,New York City,2010,40,X,1.18222,X,X,X,X,X,X,1059,40,89577
+States,California,2010,41,X,2.15266,X,X,X,X,X,X,742,122,34469
+States,District of Columbia,2010,41,X,2.89079,X,X,X,X,X,X,81,4,2802
+States,Florida,2010,41,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2010,41,X,0.369729,X,X,X,X,X,X,47,89,12712
+States,Texas,2010,41,X,2.09394,X,X,X,X,X,X,1061,97,50670
+States,New York City,2010,41,X,1.4023,X,X,X,X,X,X,1258,41,89710
+States,California,2010,42,X,2.24173,X,X,X,X,X,X,766,126,34170
+States,District of Columbia,2010,42,X,2.41042,X,X,X,X,X,X,74,4,3070
+States,Florida,2010,42,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2010,42,X,0.362121,X,X,X,X,X,X,53,95,14636
+States,Texas,2010,42,X,2.10072,X,X,X,X,X,X,1090,98,51887
+States,New York City,2010,42,X,1.29124,X,X,X,X,X,X,1175,42,90998
+States,California,2010,43,X,1.91748,X,X,X,X,X,X,666,130,34733
+States,District of Columbia,2010,43,X,3.11632,X,X,X,X,X,X,101,4,3241
+States,Florida,2010,43,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2010,43,X,0.358981,X,X,X,X,X,X,53,98,14764
+States,Texas,2010,43,X,2.20655,X,X,X,X,X,X,1117,96,50622
+States,New York City,2010,43,X,1.30236,X,X,X,X,X,X,1207,41,92678
+States,California,2010,44,X,2.52326,X,X,X,X,X,X,887,131,35153
+States,District of Columbia,2010,44,X,2.99118,X,X,X,X,X,X,95,4,3176
+States,Florida,2010,44,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2010,44,X,0.527357,X,X,X,X,X,X,80,104,15170
+States,Texas,2010,44,X,2.36381,X,X,X,X,X,X,1218,99,51527
+States,New York City,2010,44,X,1.51508,X,X,X,X,X,X,1325,42,87454
+States,California,2010,45,X,2.74562,X,X,X,X,X,X,906,126,32998
+States,District of Columbia,2010,45,X,2.32951,X,X,X,X,X,X,69,4,2962
+States,Florida,2010,45,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2010,45,X,0.504756,X,X,X,X,X,X,78,105,15453
+States,Texas,2010,45,X,2.51778,X,X,X,X,X,X,1310,97,52030
+States,New York City,2010,45,X,1.73829,X,X,X,X,X,X,1557,42,89571
+States,California,2010,46,X,2.81963,X,X,X,X,X,X,1020,131,36175
+States,District of Columbia,2010,46,X,1.5844,X,X,X,X,X,X,52,4,3282
+States,Florida,2010,46,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2010,46,X,0.503441,X,X,X,X,X,X,79,107,15692
+States,Texas,2010,46,X,2.24622,X,X,X,X,X,X,1121,95,49906
+States,New York City,2010,46,X,1.92684,X,X,X,X,X,X,1810,43,93936
+States,California,2010,47,X,3.16132,X,X,X,X,X,X,729,134,23060
+States,District of Columbia,2010,47,X,3.33519,X,X,X,X,X,X,60,4,1799
+States,Florida,2010,47,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2010,47,X,0.54919,X,X,X,X,X,X,58,104,10561
+States,Texas,2010,47,X,2.59866,X,X,X,X,X,X,964,90,37096
+States,New York City,2010,47,X,2.33103,X,X,X,X,X,X,1971,43,84555
+States,California,2010,48,X,2.60631,X,X,X,X,X,X,939,135,36028
+States,District of Columbia,2010,48,X,4.15896,X,X,X,X,X,X,135,4,3246
+States,Florida,2010,48,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2010,48,X,1.62591,X,X,X,X,X,X,244,105,15007
+States,Texas,2010,48,X,2.56617,X,X,X,X,X,X,1273,93,49607
+States,New York City,2010,48,X,2.54207,X,X,X,X,X,X,2411,41,94844
+States,California,2010,49,X,3.05613,X,X,X,X,X,X,1072,135,35077
+States,District of Columbia,2010,49,X,3.26052,X,X,X,X,X,X,100,4,3067
+States,Florida,2010,49,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2010,49,X,2.1629,X,X,X,X,X,X,303,103,14009
+States,Texas,2010,49,X,2.40335,X,X,X,X,X,X,1165,93,48474
+States,New York City,2010,49,X,2.73001,X,X,X,X,X,X,2524,41,92454
+States,California,2010,50,X,3.6598,X,X,X,X,X,X,1170,128,31969
+States,District of Columbia,2010,50,X,4.33125,X,X,X,X,X,X,125,4,2886
+States,Florida,2010,50,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2010,50,X,2.68099,X,X,X,X,X,X,357,102,13316
+States,Texas,2010,50,X,2.84097,X,X,X,X,X,X,1350,88,47519
+States,New York City,2010,50,X,3.28095,X,X,X,X,X,X,3113,41,94881
+States,California,2010,51,X,4.62077,X,X,X,X,X,X,1057,127,22875
+States,District of Columbia,2010,51,X,5.76822,X,X,X,X,X,X,110,4,1907
+States,Florida,2010,51,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2010,51,X,3.84844,X,X,X,X,X,X,388,103,10082
+States,Texas,2010,51,X,3.87315,X,X,X,X,X,X,1418,81,36611
+States,New York City,2010,51,X,4.26261,X,X,X,X,X,X,3819,41,89593
+States,California,2010,52,X,4.6895,X,X,X,X,X,X,916,125,19533
+States,District of Columbia,2010,52,X,6.84746,X,X,X,X,X,X,101,4,1475
+States,Florida,2010,52,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2010,52,X,4.19925,X,X,X,X,X,X,349,100,8311
+States,Texas,2010,52,X,3.40711,X,X,X,X,X,X,1293,81,37950
+States,New York City,2010,52,X,4.39746,X,X,X,X,X,X,3625,40,82434
+States,California,2011,1,X,3.56213,X,X,X,X,X,X,1190,129,33407
+States,District of Columbia,2011,1,X,4.75874,X,X,X,X,X,X,143,4,3005
+States,Florida,2011,1,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,1,X,2.87699,X,X,X,X,X,X,352,101,12235
+States,Texas,2011,1,X,3.21248,X,X,X,X,X,X,1524,89,47440
+States,New York City,2011,1,X,3.31107,X,X,X,X,X,X,3297,40,99575
+States,California,2011,2,X,3.79325,X,X,X,X,X,X,1354,132,35695
+States,District of Columbia,2011,2,X,4.8618,X,X,X,X,X,X,146,4,3003
+States,Florida,2011,2,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,2,X,3.45107,X,X,X,X,X,X,383,101,11098
+States,Texas,2011,2,X,4.05996,X,X,X,X,X,X,1950,89,48030
+States,New York City,2011,2,X,3.17028,X,X,X,X,X,X,2840,38,89582
+States,California,2011,3,X,4.02689,X,X,X,X,X,X,1324,130,32879
+States,District of Columbia,2011,3,X,3.89466,X,X,X,X,X,X,105,4,2696
+States,Florida,2011,3,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,3,X,3.07852,X,X,X,X,X,X,356,103,11564
+States,Texas,2011,3,X,4.73202,X,X,X,X,X,X,2518,92,53212
+States,New York City,2011,3,X,2.88202,X,X,X,X,X,X,2588,38,89798
+States,California,2011,4,X,4.60501,X,X,X,X,X,X,1768,132,38393
+States,District of Columbia,2011,4,X,3.92447,X,X,X,X,X,X,106,4,2701
+States,Florida,2011,4,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,4,X,3.35509,X,X,X,X,X,X,437,104,13025
+States,Texas,2011,4,X,5.93439,X,X,X,X,X,X,3381,97,56973
+States,New York City,2011,4,X,2.66343,X,X,X,X,X,X,2302,40,86430
+States,California,2011,5,X,4.33983,X,X,X,X,X,X,1747,133,40255
+States,District of Columbia,2011,5,X,3.35762,X,X,X,X,X,X,106,4,3157
+States,Florida,2011,5,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,5,X,4.04412,X,X,X,X,X,X,528,100,13056
+States,Texas,2011,5,X,6.68052,X,X,X,X,X,X,3086,95,46194
+States,New York City,2011,5,X,2.47319,X,X,X,X,X,X,2198,38,88873
+States,California,2011,6,X,4.88711,X,X,X,X,X,X,1987,138,40658
+States,District of Columbia,2011,6,X,3.47826,X,X,X,X,X,X,108,4,3105
+States,Florida,2011,6,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,6,X,3.89805,X,X,X,X,X,X,572,96,14674
+States,Texas,2011,6,X,8.12867,X,X,X,X,X,X,3280,91,40351
+States,New York City,2011,6,X,2.5069,X,X,X,X,X,X,2354,39,93901
+States,California,2011,7,X,5.07162,X,X,X,X,X,X,2036,136,40145
+States,District of Columbia,2011,7,X,2.7957,X,X,X,X,X,X,78,3,2790
+States,Florida,2011,7,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,7,X,4.03668,X,X,X,X,X,X,537,88,13303
+States,Texas,2011,7,X,8.26519,X,X,X,X,X,X,4821,88,58329
+States,New York City,2011,7,X,2.60075,X,X,X,X,X,X,2475,39,95165
+States,California,2011,8,X,5.17402,X,X,X,X,X,X,1775,134,34306
+States,District of Columbia,2011,8,X,1.64396,X,X,X,X,X,X,35,3,2129
+States,Florida,2011,8,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,8,X,3.74332,X,X,X,X,X,X,420,88,11220
+States,Texas,2011,8,X,6.66045,X,X,X,X,X,X,3641,90,54666
+States,New York City,2011,8,X,2.61527,X,X,X,X,X,X,2397,40,91654
+States,California,2011,9,X,5.00087,X,X,X,X,X,X,2007,138,40133
+States,District of Columbia,2011,9,X,2.02952,X,X,X,X,X,X,55,3,2710
+States,Florida,2011,9,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,9,X,2.72493,X,X,X,X,X,X,328,85,12037
+States,Texas,2011,9,X,4.58565,X,X,X,X,X,X,2401,87,52359
+States,New York City,2011,9,X,2.02996,X,X,X,X,X,X,1885,39,92859
+States,California,2011,10,X,4.69447,X,X,X,X,X,X,1853,136,39472
+States,District of Columbia,2011,10,X,2.30938,X,X,X,X,X,X,63,3,2728
+States,Florida,2011,10,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,10,X,2.7215,X,X,X,X,X,X,313,85,11501
+States,Texas,2011,10,X,3.68025,X,X,X,X,X,X,1784,82,48475
+States,New York City,2011,10,X,1.87236,X,X,X,X,X,X,1723,36,92023
+States,California,2011,11,X,4.4379,X,X,X,X,X,X,1598,134,36008
+States,District of Columbia,2011,11,X,2.99166,X,X,X,X,X,X,61,2,2039
+States,Florida,2011,11,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,11,X,3.02193,X,X,X,X,X,X,339,83,11218
+States,Texas,2011,11,X,2.84749,X,X,X,X,X,X,1231,84,43231
+States,New York City,2011,11,X,1.81647,X,X,X,X,X,X,1676,38,92267
+States,California,2011,12,X,3.29703,X,X,X,X,X,X,1111,127,33697
+States,District of Columbia,2011,12,X,2.89299,X,X,X,X,X,X,83,3,2869
+States,Florida,2011,12,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,12,X,2.3114,X,X,X,X,X,X,254,85,10989
+States,Texas,2011,12,X,3.1125,X,X,X,X,X,X,1082,82,34763
+States,New York City,2011,12,X,1.78756,X,X,X,X,X,X,1605,36,89787
+States,California,2011,13,X,3.2,X,X,X,X,X,X,1160,131,36250
+States,District of Columbia,2011,13,X,2.37252,X,X,X,X,X,X,67,3,2824
+States,Florida,2011,13,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,13,X,2.02105,X,X,X,X,X,X,242,82,11974
+States,Texas,2011,13,X,2.13536,X,X,X,X,X,X,968,79,45332
+States,New York City,2011,13,X,1.78081,X,X,X,X,X,X,1587,37,89117
+States,California,2011,14,X,2.64683,X,X,X,X,X,X,927,121,35023
+States,District of Columbia,2011,14,X,0.195185,X,X,X,X,X,X,3,2,1537
+States,Florida,2011,14,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,14,X,2.22854,X,X,X,X,X,X,251,80,11263
+States,Texas,2011,14,X,1.83216,X,X,X,X,X,X,827,79,45138
+States,New York City,2011,14,X,1.81267,X,X,X,X,X,X,1657,36,91412
+States,California,2011,15,X,2.57193,X,X,X,X,X,X,918,120,35693
+States,District of Columbia,2011,15,X,0.068306,X,X,X,X,X,X,1,2,1464
+States,Florida,2011,15,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,15,X,2.3652,X,X,X,X,X,X,236,78,9978
+States,Texas,2011,15,X,1.67025,X,X,X,X,X,X,770,83,46101
+States,New York City,2011,15,X,1.51109,X,X,X,X,X,X,1326,36,87751
+States,California,2011,16,X,2.24199,X,X,X,X,X,X,736,119,32828
+States,District of Columbia,2011,16,X,0.0754148,X,X,X,X,X,X,1,2,1326
+States,Florida,2011,16,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,16,X,2.23407,X,X,X,X,X,X,197,77,8818
+States,Texas,2011,16,X,1.66212,X,X,X,X,X,X,683,70,41092
+States,New York City,2011,16,X,1.53094,X,X,X,X,X,X,1293,35,84458
+States,California,2011,17,X,2.34436,X,X,X,X,X,X,784,112,33442
+States,District of Columbia,2011,17,X,0,X,X,X,X,X,X,0,2,1381
+States,Florida,2011,17,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,17,X,1.35642,X,X,X,X,X,X,123,72,9068
+States,Texas,2011,17,X,1.4454,X,X,X,X,X,X,605,70,41857
+States,New York City,2011,17,X,1.20351,X,X,X,X,X,X,1073,34,89156
+States,California,2011,18,X,2.14632,X,X,X,X,X,X,734,111,34198
+States,District of Columbia,2011,18,X,0,X,X,X,X,X,X,0,2,1312
+States,Florida,2011,18,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,18,X,1.66576,X,X,X,X,X,X,153,78,9185
+States,Texas,2011,18,X,1.62718,X,X,X,X,X,X,662,61,40684
+States,New York City,2011,18,X,1.1382,X,X,X,X,X,X,1054,33,92602
+States,California,2011,19,X,2.05279,X,X,X,X,X,X,672,110,32736
+States,District of Columbia,2011,19,X,0,X,X,X,X,X,X,0,1,756
+States,Florida,2011,19,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,19,X,1.72106,X,X,X,X,X,X,164,74,9529
+States,Texas,2011,19,X,1.7883,X,X,X,X,X,X,730,68,40821
+States,New York City,2011,19,X,1.19437,X,X,X,X,X,X,1170,33,97960
+States,California,2011,20,X,2.13285,X,X,X,X,X,X,700,113,32820
+States,District of Columbia,2011,20,X,2.1322,X,X,X,X,X,X,40,2,1876
+States,Florida,2011,20,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,20,X,0.703443,X,X,X,X,X,X,57,73,8103
+States,Texas,2011,20,X,1.43878,X,X,X,X,X,X,574,64,39895
+States,New York City,2011,20,X,1.1343,X,X,X,X,X,X,1018,29,89747
+States,California,2011,21,X,2.10667,X,X,X,X,X,X,583,94,27674
+States,District of Columbia,2011,21,X,2.08451,X,X,X,X,X,X,37,2,1775
+States,Florida,2011,21,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,21,X,1.56349,X,X,X,X,X,X,99,61,6332
+States,Texas,2011,21,X,1.18284,X,X,X,X,X,X,459,56,38805
+States,New York City,2011,21,X,1.2915,X,X,X,X,X,X,1178,29,91212
+States,California,2011,22,X,2.5765,X,X,X,X,X,X,581,91,22550
+States,District of Columbia,2011,22,X,2.37671,X,X,X,X,X,X,40,2,1683
+States,Florida,2011,22,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,22,X,1.77814,X,X,X,X,X,X,88,62,4949
+States,Texas,2011,22,X,1.47219,X,X,X,X,X,X,487,55,33080
+States,New York City,2011,22,X,1.17933,X,X,X,X,X,X,1076,30,91238
+States,California,2011,23,X,2.26424,X,X,X,X,X,X,588,87,25969
+States,District of Columbia,2011,23,X,2.39674,X,X,X,X,X,X,47,2,1961
+States,Florida,2011,23,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,23,X,0.14752,X,X,X,X,X,X,8,60,5423
+States,Texas,2011,23,X,1.0381,X,X,X,X,X,X,391,51,37665
+States,New York City,2011,23,X,1.23374,X,X,X,X,X,X,1104,28,89484
+States,California,2011,24,X,1.84762,X,X,X,X,X,X,461,88,24951
+States,District of Columbia,2011,24,X,2.72306,X,X,X,X,X,X,47,2,1726
+States,Florida,2011,24,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,24,X,0.0909091,X,X,X,X,X,X,5,60,5500
+States,Texas,2011,24,X,1.20398,X,X,X,X,X,X,434,51,36047
+States,New York City,2011,24,X,1.20635,X,X,X,X,X,X,1070,28,88697
+States,California,2011,25,X,1.73298,X,X,X,X,X,X,436,88,25159
+States,District of Columbia,2011,25,X,1.94529,X,X,X,X,X,X,32,2,1645
+States,Florida,2011,25,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,25,X,0.134901,X,X,X,X,X,X,7,60,5189
+States,Texas,2011,25,X,1.09499,X,X,X,X,X,X,378,49,34521
+States,New York City,2011,25,X,1.02117,X,X,X,X,X,X,908,27,88918
+States,California,2011,26,X,1.67684,X,X,X,X,X,X,426,80,25405
+States,District of Columbia,2011,26,X,2.40416,X,X,X,X,X,X,37,2,1539
+States,Florida,2011,26,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,26,X,0.13616,X,X,X,X,X,X,7,60,5141
+States,Texas,2011,26,X,1.44139,X,X,X,X,X,X,323,47,22409
+States,New York City,2011,26,X,1.04582,X,X,X,X,X,X,899,25,85961
+States,California,2011,27,X,1.68774,X,X,X,X,X,X,343,82,20323
+States,District of Columbia,2011,27,X,1.82186,X,X,X,X,X,X,27,2,1482
+States,Florida,2011,27,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,27,X,0.0538358,X,X,X,X,X,X,2,59,3715
+States,Texas,2011,27,X,1.09916,X,X,X,X,X,X,333,47,30296
+States,New York City,2011,27,X,0.99031,X,X,X,X,X,X,838,23,84620
+States,California,2011,28,X,1.60432,X,X,X,X,X,X,383,84,23873
+States,District of Columbia,2011,28,X,3.40909,X,X,X,X,X,X,42,1,1232
+States,Florida,2011,28,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,28,X,0.0580608,X,X,X,X,X,X,3,60,5167
+States,Texas,2011,28,X,1.11008,X,X,X,X,X,X,384,46,34592
+States,New York City,2011,28,X,0.851914,X,X,X,X,X,X,729,23,85572
+States,California,2011,29,X,1.45437,X,X,X,X,X,X,327,78,22484
+States,District of Columbia,2011,29,X,1.97669,X,X,X,X,X,X,39,2,1973
+States,Florida,2011,29,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,29,X,0.145591,X,X,X,X,X,X,7,60,4808
+States,Texas,2011,29,X,0.794791,X,X,X,X,X,X,260,45,32713
+States,New York City,2011,29,X,0.739156,X,X,X,X,X,X,629,24,85097
+States,California,2011,30,X,1.35141,X,X,X,X,X,X,303,79,22421
+States,District of Columbia,2011,30,X,2.01149,X,X,X,X,X,X,35,2,1740
+States,Florida,2011,30,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,30,X,0.137255,X,X,X,X,X,X,7,60,5100
+States,Texas,2011,30,X,0.927915,X,X,X,X,X,X,298,44,32115
+States,New York City,2011,30,X,0.77875,X,X,X,X,X,X,674,25,86549
+States,California,2011,31,X,0.553292,X,X,X,X,X,X,91,74,16447
+States,District of Columbia,2011,31,X,1.98068,X,X,X,X,X,X,41,2,2070
+States,Florida,2011,31,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,31,X,0.17105,X,X,X,X,X,X,8,59,4677
+States,Texas,2011,31,X,0.947032,X,X,X,X,X,X,317,45,33473
+States,New York City,2011,31,X,0.767207,X,X,X,X,X,X,630,27,82116
+States,California,2011,32,X,1.35688,X,X,X,X,X,X,295,80,21741
+States,District of Columbia,2011,32,X,1.97224,X,X,X,X,X,X,27,1,1369
+States,Florida,2011,32,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,32,X,0.125418,X,X,X,X,X,X,6,59,4784
+States,Texas,2011,32,X,0.820541,X,X,X,X,X,X,302,43,36805
+States,New York City,2011,32,X,0.79368,X,X,X,X,X,X,653,27,82275
+States,California,2011,33,X,1.1637,X,X,X,X,X,X,284,82,24405
+States,District of Columbia,2011,33,X,2.39398,X,X,X,X,X,X,35,1,1462
+States,Florida,2011,33,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,33,X,0.131926,X,X,X,X,X,X,7,59,5306
+States,Texas,2011,33,X,0.965857,X,X,X,X,X,X,372,45,38515
+States,New York City,2011,33,X,0.796782,X,X,X,X,X,X,620,26,77813
+States,California,2011,34,X,1.34833,X,X,X,X,X,X,350,83,25958
+States,District of Columbia,2011,34,X,2.99927,X,X,X,X,X,X,41,1,1367
+States,Florida,2011,34,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,34,X,0.0888099,X,X,X,X,X,X,6,59,6756
+States,Texas,2011,34,X,1.01165,X,X,X,X,X,X,388,45,38353
+States,New York City,2011,34,X,0.85468,X,X,X,X,X,X,693,26,81083
+States,California,2011,35,X,1.47857,X,X,X,X,X,X,376,79,25430
+States,District of Columbia,2011,35,X,2.41935,X,X,X,X,X,X,33,1,1364
+States,Florida,2011,35,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,35,X,0.157159,X,X,X,X,X,X,10,51,6363
+States,Texas,2011,35,X,1.43408,X,X,X,X,X,X,550,47,38352
+States,New York City,2011,35,X,0.794999,X,X,X,X,X,X,641,27,80629
+States,California,2011,36,X,1.60215,X,X,X,X,X,X,322,77,20098
+States,District of Columbia,2011,36,X,4.17007,X,X,X,X,X,X,51,1,1223
+States,Florida,2011,36,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,36,X,0.152759,X,X,X,X,X,X,8,51,5237
+States,Texas,2011,36,X,1.72981,X,X,X,X,X,X,557,44,32200
+States,New York City,2011,36,X,0.797847,X,X,X,X,X,X,670,27,83976
+States,California,2011,37,X,1.74891,X,X,X,X,X,X,420,76,24015
+States,District of Columbia,2011,37,X,4.24528,X,X,X,X,X,X,72,1,1696
+States,Florida,2011,37,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,37,X,0.127805,X,X,X,X,X,X,9,51,7042
+States,Texas,2011,37,X,1.65811,X,X,X,X,X,X,591,44,35643
+States,New York City,2011,37,X,0.881381,X,X,X,X,X,X,768,29,87136
+States,California,2011,38,X,1.75994,X,X,X,X,X,X,445,74,25285
+States,District of Columbia,2011,38,X,5.13532,X,X,X,X,X,X,74,1,1441
+States,Florida,2011,38,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,38,X,0.282595,X,X,X,X,X,X,22,52,7785
+States,Texas,2011,38,X,1.60235,X,X,X,X,X,X,568,42,35448
+States,New York City,2011,38,X,0.837761,X,X,X,X,X,X,749,27,89405
+States,California,2011,39,X,1.84745,X,X,X,X,X,X,474,73,25657
+States,District of Columbia,2011,39,X,4.66228,X,X,X,X,X,X,78,1,1673
+States,Florida,2011,39,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,39,X,0.323494,X,X,X,X,X,X,24,54,7419
+States,Texas,2011,39,X,1.4147,X,X,X,X,X,X,510,45,36050
+States,New York City,2011,39,X,1.10942,X,X,X,X,X,X,1023,26,92210
+States,California,2011,40,X,1.80295,X,X,X,X,X,X,568,116,31504
+States,District of Columbia,2011,40,X,3.87097,X,X,X,X,X,X,96,3,2480
+States,Florida,2011,40,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,40,X,0.532345,X,X,X,X,X,X,79,108,14840
+States,Texas,2011,40,X,1.86712,X,X,X,X,X,X,772,71,41347
+States,New York City,2011,40,X,1.50103,X,X,X,X,X,X,1544,98,102863
+States,California,2011,41,X,2.06534,X,X,X,X,X,X,703,122,34038
+States,District of Columbia,2011,41,X,4.13112,X,X,X,X,X,X,92,3,2227
+States,Florida,2011,41,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,41,X,0.553468,X,X,X,X,X,X,81,107,14635
+States,Texas,2011,41,X,1.67872,X,X,X,X,X,X,692,70,41222
+States,New York City,2011,41,X,1.70548,X,X,X,X,X,X,1743,97,102200
+States,California,2011,42,X,2.38294,X,X,X,X,X,X,801,116,33614
+States,District of Columbia,2011,42,X,4.86462,X,X,X,X,X,X,106,3,2179
+States,Florida,2011,42,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,42,X,0.440685,X,X,X,X,X,X,62,101,14069
+States,Texas,2011,42,X,2.03903,X,X,X,X,X,X,792,73,38842
+States,New York City,2011,42,X,1.69853,X,X,X,X,X,X,1703,96,100263
+States,California,2011,43,X,2.29128,X,X,X,X,X,X,797,118,34784
+States,District of Columbia,2011,43,X,4.17001,X,X,X,X,X,X,104,3,2494
+States,Florida,2011,43,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,43,X,0.41135,X,X,X,X,X,X,59,98,14343
+States,Texas,2011,43,X,2.02721,X,X,X,X,X,X,833,71,41091
+States,New York City,2011,43,X,1.74476,X,X,X,X,X,X,1718,96,98466
+States,California,2011,44,X,2.48358,X,X,X,X,X,X,866,125,34869
+States,District of Columbia,2011,44,X,3.91914,X,X,X,X,X,X,95,3,2424
+States,Florida,2011,44,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,44,X,0.527118,X,X,X,X,X,X,83,109,15746
+States,Texas,2011,44,X,1.87592,X,X,X,X,X,X,768,71,40940
+States,New York City,2011,44,X,2.07693,X,X,X,X,X,X,2080,93,100148
+States,California,2011,45,X,2.1744,X,X,X,X,X,X,784,127,36056
+States,District of Columbia,2011,45,X,5.40657,X,X,X,X,X,X,125,3,2312
+States,Florida,2011,45,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,45,X,0.399433,X,X,X,X,X,X,62,109,15522
+States,Texas,2011,45,X,2.08825,X,X,X,X,X,X,876,72,41949
+States,New York City,2011,45,X,2.0803,X,X,X,X,X,X,2131,93,102437
+States,California,2011,46,X,2.6274,X,X,X,X,X,X,992,123,37756
+States,District of Columbia,2011,46,X,5.67207,X,X,X,X,X,X,119,2,2098
+States,Florida,2011,46,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,46,X,0.443537,X,X,X,X,X,X,63,99,14204
+States,Texas,2011,46,X,2.17252,X,X,X,X,X,X,915,68,42117
+States,New York City,2011,46,X,2.08287,X,X,X,X,X,X,2156,93,103511
+States,California,2011,47,X,2.51216,X,X,X,X,X,X,594,125,23645
+States,District of Columbia,2011,47,X,6.2333,X,X,X,X,X,X,70,2,1123
+States,Florida,2011,47,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,47,X,0.36716,X,X,X,X,X,X,36,99,9805
+States,Texas,2011,47,X,2.21466,X,X,X,X,X,X,722,70,32601
+States,New York City,2011,47,X,2.4584,X,X,X,X,X,X,2216,93,90140
+States,California,2011,48,X,1.6858,X,X,X,X,X,X,511,125,30312
+States,District of Columbia,2011,48,X,4.62874,X,X,X,X,X,X,96,2,2074
+States,Florida,2011,48,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,48,X,0.61654,X,X,X,X,X,X,87,97,14111
+States,Texas,2011,48,X,2.01649,X,X,X,X,X,X,802,67,39772
+States,New York City,2011,48,X,2.4683,X,X,X,X,X,X,2517,89,101973
+States,California,2011,49,X,2.7037,X,X,X,X,X,X,883,128,32659
+States,District of Columbia,2011,49,X,5.20887,X,X,X,X,X,X,101,2,1939
+States,Florida,2011,49,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,49,X,0.696024,X,X,X,X,X,X,101,100,14511
+States,Texas,2011,49,X,1.89337,X,X,X,X,X,X,608,65,32112
+States,New York City,2011,49,X,2.51266,X,X,X,X,X,X,2586,96,102919
+States,California,2011,50,X,3.02135,X,X,X,X,X,X,951,127,31476
+States,District of Columbia,2011,50,X,4.59471,X,X,X,X,X,X,106,2,2307
+States,Florida,2011,50,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,50,X,0.58086,X,X,X,X,X,X,82,101,14117
+States,Texas,2011,50,X,2.08667,X,X,X,X,X,X,781,66,37428
+States,New York City,2011,50,X,2.52157,X,X,X,X,X,X,2592,94,102793
+States,California,2011,51,X,3.60781,X,X,X,X,X,X,843,121,23366
+States,District of Columbia,2011,51,X,4.07767,X,X,X,X,X,X,63,2,1545
+States,Florida,2011,51,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,51,X,0.491337,X,X,X,X,X,X,57,102,11601
+States,Texas,2011,51,X,2.27904,X,X,X,X,X,X,779,63,34181
+States,New York City,2011,51,X,2.76592,X,X,X,X,X,X,2690,94,97255
+States,California,2011,52,X,4.3531,X,X,X,X,X,X,718,117,16494
+States,District of Columbia,2011,52,X,6.99931,X,X,X,X,X,X,101,2,1443
+States,Florida,2011,52,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2011,52,X,0.455005,X,X,X,X,X,X,36,96,7912
+States,Texas,2011,52,X,2.32308,X,X,X,X,X,X,713,65,30692
+States,New York City,2011,52,X,2.77299,X,X,X,X,X,X,2606,90,93978
+States,California,2012,1,X,3.50589,X,X,X,X,X,X,854,122,24359
+States,District of Columbia,2012,1,X,5.34629,X,X,X,X,X,X,88,2,1646
+States,Florida,2012,1,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,1,X,0.657054,X,X,X,X,X,X,72,103,10958
+States,Texas,2012,1,X,1.97471,X,X,X,X,X,X,745,71,37727
+States,New York City,2012,1,X,2.47646,X,X,X,X,X,X,2525,95,101960
+States,California,2012,2,X,2.94298,X,X,X,X,X,X,958,124,32552
+States,District of Columbia,2012,2,X,3.88206,X,X,X,X,X,X,79,2,2035
+States,Florida,2012,2,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,2,X,0.719363,X,X,X,X,X,X,84,100,11677
+States,Texas,2012,2,X,2.1558,X,X,X,X,X,X,859,72,39846
+States,New York City,2012,2,X,2.00634,X,X,X,X,X,X,2032,93,101279
+States,California,2012,3,X,2.73705,X,X,X,X,X,X,855,125,31238
+States,District of Columbia,2012,3,X,3.56537,X,X,X,X,X,X,63,2,1767
+States,Florida,2012,3,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,3,X,0.6694,X,X,X,X,X,X,80,102,11951
+States,Texas,2012,3,X,2.30727,X,X,X,X,X,X,923,70,40004
+States,New York City,2012,3,X,2.17501,X,X,X,X,X,X,2105,92,96781
+States,California,2012,4,X,3.53247,X,X,X,X,X,X,1224,126,34650
+States,District of Columbia,2012,4,X,3.98374,X,X,X,X,X,X,98,2,2460
+States,Florida,2012,4,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,4,X,0.509789,X,X,X,X,X,X,69,100,13535
+States,Texas,2012,4,X,2.25494,X,X,X,X,X,X,899,72,39868
+States,New York City,2012,4,X,2.09783,X,X,X,X,X,X,2041,90,97291
+States,California,2012,5,X,3.85357,X,X,X,X,X,X,1359,129,35266
+States,District of Columbia,2012,5,X,3.61897,X,X,X,X,X,X,87,2,2404
+States,Florida,2012,5,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,5,X,0.593152,X,X,X,X,X,X,88,106,14836
+States,Texas,2012,5,X,2.52889,X,X,X,X,X,X,1046,70,41362
+States,New York City,2012,5,X,2.07838,X,X,X,X,X,X,2030,91,97672
+States,California,2012,6,X,3.29788,X,X,X,X,X,X,1265,130,38358
+States,District of Columbia,2012,6,X,3.97065,X,X,X,X,X,X,92,2,2317
+States,Florida,2012,6,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,6,X,0.508223,X,X,X,X,X,X,72,105,14167
+States,Texas,2012,6,X,2.65401,X,X,X,X,X,X,1124,70,42351
+States,New York City,2012,6,X,2.03964,X,X,X,X,X,X,2017,90,98890
+States,California,2012,7,X,3.57343,X,X,X,X,X,X,1278,130,35764
+States,District of Columbia,2012,7,X,4.63646,X,X,X,X,X,X,88,2,1898
+States,Florida,2012,7,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,7,X,0.586107,X,X,X,X,X,X,81,103,13820
+States,Texas,2012,7,X,2.95371,X,X,X,X,X,X,1241,70,42015
+States,New York City,2012,7,X,2.08228,X,X,X,X,X,X,2052,90,98546
+States,California,2012,8,X,4.20562,X,X,X,X,X,X,1300,125,30911
+States,District of Columbia,2012,8,X,4.34116,X,X,X,X,X,X,85,2,1958
+States,Florida,2012,8,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,8,X,0.988678,X,X,X,X,X,X,124,102,12542
+States,Texas,2012,8,X,3.23367,X,X,X,X,X,X,1141,70,35285
+States,New York City,2012,8,X,2.26111,X,X,X,X,X,X,2230,92,98624
+States,California,2012,9,X,3.54025,X,X,X,X,X,X,1253,127,35393
+States,District of Columbia,2012,9,X,3.37948,X,X,X,X,X,X,83,2,2456
+States,Florida,2012,9,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,9,X,0.785869,X,X,X,X,X,X,109,104,13870
+States,Texas,2012,9,X,3.32506,X,X,X,X,X,X,1434,69,43127
+States,New York City,2012,9,X,2.05097,X,X,X,X,X,X,2057,87,100294
+States,California,2012,10,X,2.69266,X,X,X,X,X,X,812,128,30156
+States,District of Columbia,2012,10,X,2.81987,X,X,X,X,X,X,67,2,2376
+States,Florida,2012,10,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,10,X,0.745669,X,X,X,X,X,X,102,106,13679
+States,Texas,2012,10,X,2.87245,X,X,X,X,X,X,960,67,33421
+States,New York City,2012,10,X,1.97496,X,X,X,X,X,X,2044,84,103496
+States,California,2012,11,X,3.12447,X,X,X,X,X,X,920,128,29445
+States,District of Columbia,2012,11,X,3.61045,X,X,X,X,X,X,76,2,2105
+States,Florida,2012,11,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,11,X,0.996782,X,X,X,X,X,X,127,103,12741
+States,Texas,2012,11,X,3.59362,X,X,X,X,X,X,1278,67,35563
+States,New York City,2012,11,X,2.17971,X,X,X,X,X,X,2304,87,105702
+States,California,2012,12,X,2.83205,X,X,X,X,X,X,819,124,28919
+States,District of Columbia,2012,12,X,3.39294,X,X,X,X,X,X,74,2,2181
+States,Florida,2012,12,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,12,X,0.686682,X,X,X,X,X,X,86,96,12524
+States,Texas,2012,12,X,2.79685,X,X,X,X,X,X,1149,67,41082
+States,New York City,2012,12,X,2.0823,X,X,X,X,X,X,2216,86,106421
+States,California,2012,13,X,3.89886,X,X,X,X,X,X,1229,127,31522
+States,District of Columbia,2012,13,X,2.29661,X,X,X,X,X,X,59,2,2569
+States,Florida,2012,13,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,13,X,0.598435,X,X,X,X,X,X,78,96,13034
+States,Texas,2012,13,X,2.7007,X,X,X,X,X,X,1057,64,39138
+States,New York City,2012,13,X,2.01098,X,X,X,X,X,X,2059,82,102388
+States,California,2012,14,X,2.99164,X,X,X,X,X,X,952,120,31822
+States,District of Columbia,2012,14,X,1.90011,X,X,X,X,X,X,35,2,1842
+States,Florida,2012,14,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,14,X,0.796178,X,X,X,X,X,X,95,99,11932
+States,Texas,2012,14,X,2.5217,X,X,X,X,X,X,947,62,37554
+States,New York City,2012,14,X,2.06684,X,X,X,X,X,X,2041,75,98750
+States,California,2012,15,X,2.87193,X,X,X,X,X,X,927,118,32278
+States,District of Columbia,2012,15,X,2.80857,X,X,X,X,X,X,76,2,2706
+States,Florida,2012,15,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,15,X,0.812633,X,X,X,X,X,X,88,99,10829
+States,Texas,2012,15,X,2.13492,X,X,X,X,X,X,851,61,39861
+States,New York City,2012,15,X,1.93912,X,X,X,X,X,X,1904,77,98189
+States,California,2012,16,X,2.15102,X,X,X,X,X,X,717,116,33333
+States,District of Columbia,2012,16,X,2.22902,X,X,X,X,X,X,51,2,2288
+States,Florida,2012,16,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,16,X,0.689763,X,X,X,X,X,X,88,96,12758
+States,Texas,2012,16,X,2.16547,X,X,X,X,X,X,842,60,38883
+States,New York City,2012,16,X,1.74484,X,X,X,X,X,X,1875,75,107460
+States,California,2012,17,X,2.15365,X,X,X,X,X,X,693,113,32178
+States,District of Columbia,2012,17,X,3.0024,X,X,X,X,X,X,75,2,2498
+States,Florida,2012,17,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,17,X,0.665368,X,X,X,X,X,X,82,95,12324
+States,Texas,2012,17,X,2.05988,X,X,X,X,X,X,765,59,37138
+States,New York City,2012,17,X,1.56293,X,X,X,X,X,X,1532,80,98021
+States,California,2012,18,X,2.36106,X,X,X,X,X,X,732,107,31003
+States,District of Columbia,2012,18,X,2.75182,X,X,X,X,X,X,53,1,1926
+States,Florida,2012,18,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,18,X,0.46507,X,X,X,X,X,X,47,76,10106
+States,Texas,2012,18,X,2.09649,X,X,X,X,X,X,737,57,35154
+States,New York City,2012,18,X,1.68538,X,X,X,X,X,X,1644,77,97545
+States,California,2012,19,X,2.17778,X,X,X,X,X,X,673,99,30903
+States,District of Columbia,2012,19,X,2.64901,X,X,X,X,X,X,48,1,1812
+States,Florida,2012,19,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,19,X,0.557581,X,X,X,X,X,X,52,70,9326
+States,Texas,2012,19,X,2.0889,X,X,X,X,X,X,751,57,35952
+States,New York City,2012,19,X,1.77798,X,X,X,X,X,X,1794,80,100901
+States,California,2012,20,X,2.04531,X,X,X,X,X,X,613,94,29971
+States,District of Columbia,2012,20,X,2.61932,X,X,X,X,X,X,45,1,1718
+States,Florida,2012,20,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,20,X,0.560839,X,X,X,X,X,X,46,72,8202
+States,Texas,2012,20,X,2.26203,X,X,X,X,X,X,750,55,33156
+States,New York City,2012,20,X,1.64471,X,X,X,X,X,X,1672,79,101659
+States,California,2012,21,X,2.22589,X,X,X,X,X,X,593,91,26641
+States,District of Columbia,2012,21,X,3.20513,X,X,X,X,X,X,60,1,1872
+States,Florida,2012,21,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,21,X,0.416259,X,X,X,X,X,X,34,73,8168
+States,Texas,2012,21,X,2.19944,X,X,X,X,X,X,781,53,35509
+States,New York City,2012,21,X,1.59546,X,X,X,X,X,X,1576,78,98780
+States,California,2012,22,X,2.21439,X,X,X,X,X,X,465,89,20999
+States,District of Columbia,2012,22,X,2.42588,X,X,X,X,X,X,36,1,1484
+States,Florida,2012,22,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,22,X,0.394802,X,X,X,X,X,X,24,68,6079
+States,Texas,2012,22,X,2.95784,X,X,X,X,X,X,611,49,20657
+States,New York City,2012,22,X,1.49906,X,X,X,X,X,X,1471,79,98128
+States,California,2012,23,X,2.01533,X,X,X,X,X,X,497,88,24661
+States,District of Columbia,2012,23,X,3.42707,X,X,X,X,X,X,78,1,2276
+States,Florida,2012,23,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,23,X,0.291215,X,X,X,X,X,X,18,66,6181
+States,Texas,2012,23,X,1.60563,X,X,X,X,X,X,552,49,34379
+States,New York City,2012,23,X,1.48473,X,X,X,X,X,X,1471,80,99075
+States,California,2012,24,X,1.81274,X,X,X,X,X,X,466,88,25707
+States,District of Columbia,2012,24,X,3.27124,X,X,X,X,X,X,72,1,2201
+States,Florida,2012,24,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,24,X,0.163845,X,X,X,X,X,X,9,61,5493
+States,Texas,2012,24,X,1.5692,X,X,X,X,X,X,520,50,33138
+States,New York City,2012,24,X,1.45167,X,X,X,X,X,X,1432,77,98645
+States,California,2012,25,X,2.03814,X,X,X,X,X,X,482,85,23649
+States,District of Columbia,2012,25,X,2.3798,X,X,X,X,X,X,49,1,2059
+States,Florida,2012,25,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,25,X,0.224875,X,X,X,X,X,X,13,62,5781
+States,Texas,2012,25,X,1.68002,X,X,X,X,X,X,539,48,32083
+States,New York City,2012,25,X,1.54553,X,X,X,X,X,X,1507,75,97507
+States,California,2012,26,X,1.875,X,X,X,X,X,X,411,80,21920
+States,District of Columbia,2012,26,X,3.64931,X,X,X,X,X,X,82,1,2247
+States,Florida,2012,26,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,26,X,0.155581,X,X,X,X,X,X,8,61,5142
+States,Texas,2012,26,X,2.77603,X,X,X,X,X,X,572,48,20605
+States,New York City,2012,26,X,1.52182,X,X,X,X,X,X,1507,73,99026
+States,California,2012,27,X,1.93357,X,X,X,X,X,X,365,81,18877
+States,District of Columbia,2012,27,X,3.06588,X,X,X,X,X,X,47,1,1533
+States,Florida,2012,27,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,27,X,0.29796,X,X,X,X,X,X,13,61,4363
+States,Texas,2012,27,X,1.85638,X,X,X,X,X,X,516,48,27796
+States,New York City,2012,27,X,1.37382,X,X,X,X,X,X,1308,73,95209
+States,California,2012,28,X,1.82661,X,X,X,X,X,X,390,74,21351
+States,District of Columbia,2012,28,X,2.62541,X,X,X,X,X,X,56,1,2133
+States,Florida,2012,28,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,28,X,0.13872,X,X,X,X,X,X,8,62,5767
+States,Texas,2012,28,X,1.52724,X,X,X,X,X,X,467,43,30578
+States,New York City,2012,28,X,1.38497,X,X,X,X,X,X,1375,78,99280
+States,California,2012,29,X,1.69307,X,X,X,X,X,X,357,76,21086
+States,District of Columbia,2012,29,X,2.8072,X,X,X,X,X,X,53,1,1888
+States,Florida,2012,29,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,29,X,0.124978,X,X,X,X,X,X,7,63,5601
+States,Texas,2012,29,X,1.50484,X,X,X,X,X,X,471,44,31299
+States,New York City,2012,29,X,1.27012,X,X,X,X,X,X,1198,76,94322
+States,California,2012,30,X,1.68499,X,X,X,X,X,X,354,76,21009
+States,District of Columbia,2012,30,X,2.99252,X,X,X,X,X,X,60,1,2005
+States,Florida,2012,30,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,30,X,0.0886682,X,X,X,X,X,X,5,62,5639
+States,Texas,2012,30,X,1.42374,X,X,X,X,X,X,438,45,30764
+States,New York City,2012,30,X,1.17396,X,X,X,X,X,X,1123,76,95659
+States,California,2012,31,X,1.75422,X,X,X,X,X,X,362,77,20636
+States,District of Columbia,2012,31,X,3.13253,X,X,X,X,X,X,65,1,2075
+States,Florida,2012,31,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,31,X,0.170487,X,X,X,X,X,X,9,59,5279
+States,Texas,2012,31,X,1.45901,X,X,X,X,X,X,491,45,33653
+States,New York City,2012,31,X,1.10202,X,X,X,X,X,X,1011,65,91741
+States,California,2012,32,X,1.61435,X,X,X,X,X,X,343,74,21247
+States,District of Columbia,2012,32,X,3.10749,X,X,X,X,X,X,61,1,1963
+States,Florida,2012,32,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,32,X,0.092302,X,X,X,X,X,X,5,59,5417
+States,Texas,2012,32,X,1.44944,X,X,X,X,X,X,500,45,34496
+States,New York City,2012,32,X,1.01143,X,X,X,X,X,X,978,75,96695
+States,California,2012,33,X,1.07686,X,X,X,X,X,X,160,70,14858
+States,District of Columbia,2012,33,X,2.42424,X,X,X,X,X,X,44,1,1815
+States,Florida,2012,33,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,33,X,0.125045,X,X,X,X,X,X,7,61,5598
+States,Texas,2012,33,X,1.42747,X,X,X,X,X,X,519,45,36358
+States,New York City,2012,33,X,1.06097,X,X,X,X,X,X,979,65,92274
+States,California,2012,34,X,1.88368,X,X,X,X,X,X,411,73,21819
+States,District of Columbia,2012,34,X,3.32397,X,X,X,X,X,X,71,1,2136
+States,Florida,2012,34,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,34,X,0.0612089,X,X,X,X,X,X,4,61,6535
+States,Texas,2012,34,X,1.4741,X,X,X,X,X,X,561,44,38057
+States,New York City,2012,34,X,1.24091,X,X,X,X,X,X,1172,65,94447
+States,California,2012,35,X,2.0159,X,X,X,X,X,X,525,74,26043
+States,District of Columbia,2012,35,X,2.81474,X,X,X,X,X,X,55,1,1954
+States,Florida,2012,35,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,35,X,0.083692,X,X,X,X,X,X,7,61,8364
+States,Texas,2012,35,X,1.42978,X,X,X,X,X,X,542,45,37908
+States,New York City,2012,35,X,1.0461,X,X,X,X,X,X,959,60,91674
+States,California,2012,36,X,2.3227,X,X,X,X,X,X,543,76,23378
+States,District of Columbia,2012,36,X,3.358,X,X,X,X,X,X,59,1,1757
+States,Florida,2012,36,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,36,X,0.117768,X,X,X,X,X,X,8,62,6793
+States,Texas,2012,36,X,1.75285,X,X,X,X,X,X,579,45,33032
+States,New York City,2012,36,X,1.09383,X,X,X,X,X,X,1010,63,92336
+States,California,2012,37,X,2.2445,X,X,X,X,X,X,627,75,27935
+States,District of Columbia,2012,37,X,2.93057,X,X,X,X,X,X,65,1,2218
+States,Florida,2012,37,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,37,X,0.173953,X,X,X,X,X,X,15,61,8623
+States,Texas,2012,37,X,2.14994,X,X,X,X,X,X,780,44,36280
+States,New York City,2012,37,X,1.26664,X,X,X,X,X,X,1201,69,94818
+States,California,2012,38,X,2.43955,X,X,X,X,X,X,678,73,27792
+States,District of Columbia,2012,38,X,3.38897,X,X,X,X,X,X,67,1,1977
+States,Florida,2012,38,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,38,X,0.108998,X,X,X,X,X,X,9,62,8257
+States,Texas,2012,38,X,2.12454,X,X,X,X,X,X,782,45,36808
+States,New York City,2012,38,X,1.46317,X,X,X,X,X,X,1374,63,93906
+States,California,2012,39,X,2.40973,X,X,X,X,X,X,656,69,27223
+States,District of Columbia,2012,39,X,2.98913,X,X,X,X,X,X,66,1,2208
+States,Florida,2012,39,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,39,X,0.283052,X,X,X,X,X,X,24,60,8479
+States,Texas,2012,39,X,2.08406,X,X,X,X,X,X,778,44,37331
+States,New York City,2012,39,X,1.41944,X,X,X,X,X,X,1354,67,95390
+States,California,2012,40,X,2.10133,X,X,X,X,X,X,720,123,34264
+States,District of Columbia,2012,40,X,2.84238,X,X,X,X,X,X,55,2,1935
+States,Florida,2012,40,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,40,X,0.293219,X,X,X,X,X,X,48,211,16370
+States,Texas,2012,40,X,1.98396,X,X,X,X,X,X,794,62,40021
+States,New York City,2012,40,X,1.45904,X,X,X,X,X,X,1453,84,99586
+States,California,2012,41,X,2.26502,X,X,X,X,X,X,781,123,34481
+States,District of Columbia,2012,41,X,3.72421,X,X,X,X,X,X,74,2,1987
+States,Florida,2012,41,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,41,X,0.572891,X,X,X,X,X,X,94,213,16408
+States,Texas,2012,41,X,2.35146,X,X,X,X,X,X,951,61,40443
+States,New York City,2012,41,X,1.58339,X,X,X,X,X,X,1555,84,98207
+States,California,2012,42,X,2.35697,X,X,X,X,X,X,840,126,35639
+States,District of Columbia,2012,42,X,3.27949,X,X,X,X,X,X,67,2,2043
+States,Florida,2012,42,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,42,X,1.00283,X,X,X,X,X,X,156,211,15556
+States,Texas,2012,42,X,1.94499,X,X,X,X,X,X,768,63,39486
+States,New York City,2012,42,X,1.62795,X,X,X,X,X,X,1691,89,103873
+States,California,2012,43,X,2.37177,X,X,X,X,X,X,812,122,34236
+States,District of Columbia,2012,43,X,4.59653,X,X,X,X,X,X,90,2,1958
+States,Florida,2012,43,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,43,X,0.778846,X,X,X,X,X,X,124,206,15921
+States,Texas,2012,43,X,2.55229,X,X,X,X,X,X,981,62,38436
+States,New York City,2012,43,X,1.70925,X,X,X,X,X,X,1750,85,102384
+States,California,2012,44,X,2.45736,X,X,X,X,X,X,853,119,34712
+States,District of Columbia,2012,44,X,3.64146,X,X,X,X,X,X,52,2,1428
+States,Florida,2012,44,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,44,X,0.633484,X,X,X,X,X,X,84,205,13260
+States,Texas,2012,44,X,2.7858,X,X,X,X,X,X,1080,63,38768
+States,New York City,2012,44,X,1.82661,X,X,X,X,X,X,1450,72,79382
+States,California,2012,45,X,2.56157,X,X,X,X,X,X,909,120,35486
+States,District of Columbia,2012,45,X,4.85437,X,X,X,X,X,X,95,2,1957
+States,Florida,2012,45,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,45,X,0.832931,X,X,X,X,X,X,138,209,16568
+States,Texas,2012,45,X,3.20738,X,X,X,X,X,X,1314,65,40968
+States,New York City,2012,45,X,1.59117,X,X,X,X,X,X,1438,83,90374
+States,California,2012,46,X,2.51209,X,X,X,X,X,X,857,123,34115
+States,District of Columbia,2012,46,X,4.64865,X,X,X,X,X,X,86,2,1850
+States,Florida,2012,46,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,46,X,0.991707,X,X,X,X,X,X,171,211,17243
+States,Texas,2012,46,X,3.22458,X,X,X,X,X,X,1269,61,39354
+States,New York City,2012,46,X,1.69433,X,X,X,X,X,X,1627,85,96026
+States,California,2012,47,X,2.73042,X,X,X,X,X,X,639,123,23403
+States,District of Columbia,2012,47,X,6.81606,X,X,X,X,X,X,73,2,1071
+States,Florida,2012,47,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,47,X,1.70477,X,X,X,X,X,X,176,209,10324
+States,Texas,2012,47,X,5.1617,X,X,X,X,X,X,1644,63,31850
+States,New York City,2012,47,X,2.1401,X,X,X,X,X,X,1900,81,88781
+States,California,2012,48,X,2.56313,X,X,X,X,X,X,946,129,36908
+States,District of Columbia,2012,48,X,6.44302,X,X,X,X,X,X,121,2,1878
+States,Florida,2012,48,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,48,X,1.67709,X,X,X,X,X,X,260,210,15503
+States,Texas,2012,48,X,3.96355,X,X,X,X,X,X,1692,63,42689
+States,New York City,2012,48,X,2.33752,X,X,X,X,X,X,2367,84,101261
+States,California,2012,49,X,2.45937,X,X,X,X,X,X,905,128,36798
+States,District of Columbia,2012,49,X,6.32514,X,X,X,X,X,X,121,2,1913
+States,Florida,2012,49,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,49,X,2.11123,X,X,X,X,X,X,380,211,17999
+States,Texas,2012,49,X,5.21819,X,X,X,X,X,X,2229,64,42716
+States,New York City,2012,49,X,2.85764,X,X,X,X,X,X,2939,79,102847
+States,California,2012,50,X,2.70899,X,X,X,X,X,X,920,126,33961
+States,District of Columbia,2012,50,X,8.11623,X,X,X,X,X,X,162,2,1996
+States,Florida,2012,50,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,50,X,3.03139,X,X,X,X,X,X,506,212,16692
+States,Texas,2012,50,X,6.03698,X,X,X,X,X,X,2524,64,41809
+States,New York City,2012,50,X,3.29368,X,X,X,X,X,X,3411,77,103562
+States,California,2012,51,X,3.37338,X,X,X,X,X,X,1025,117,30385
+States,District of Columbia,2012,51,X,8.49941,X,X,X,X,X,X,145,2,1706
+States,Florida,2012,51,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,51,X,3.62908,X,X,X,X,X,X,562,209,15486
+States,Texas,2012,51,X,7.99241,X,X,X,X,X,X,3327,60,41627
+States,New York City,2012,51,X,4.09728,X,X,X,X,X,X,4318,83,105387
+States,California,2012,52,X,5.49621,X,X,X,X,X,X,957,110,17412
+States,District of Columbia,2012,52,X,8.92086,X,X,X,X,X,X,62,1,695
+States,Florida,2012,52,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2012,52,X,5.95238,X,X,X,X,X,X,475,207,7980
+States,Texas,2012,52,X,9.69432,X,X,X,X,X,X,2924,61,30162
+States,New York City,2012,52,X,5.05315,X,X,X,X,X,X,4701,79,93031
+States,California,2013,1,X,3.62306,X,X,X,X,X,X,812,123,22412
+States,District of Columbia,2013,1,X,6.20821,X,X,X,X,X,X,65,3,1047
+States,Florida,2013,1,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,1,X,3.99638,X,X,X,X,X,X,397,207,9934
+States,Texas,2013,1,X,8.24784,X,X,X,X,X,X,3023,65,36652
+States,New York City,2013,1,X,4.79065,X,X,X,X,X,X,4785,75,99882
+States,California,2013,2,X,3.7083,X,X,X,X,X,X,1255,125,33843
+States,District of Columbia,2013,2,X,6.84584,X,X,X,X,X,X,135,3,1972
+States,Florida,2013,2,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,2,X,4.13807,X,X,X,X,X,X,627,209,15152
+States,Texas,2013,2,X,7.61521,X,X,X,X,X,X,3518,65,46197
+States,New York City,2013,2,X,5.52524,X,X,X,X,X,X,5963,73,107923
+States,California,2013,3,X,4.98923,X,X,X,X,X,X,1783,126,35737
+States,District of Columbia,2013,3,X,7.19162,X,X,X,X,X,X,158,3,2197
+States,Florida,2013,3,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,3,X,4.53812,X,X,X,X,X,X,647,210,14257
+States,Texas,2013,3,X,7.688,X,X,X,X,X,X,3430,66,44615
+States,New York City,2013,3,X,6.13491,X,X,X,X,X,X,6543,77,106652
+States,California,2013,4,X,5.83965,X,X,X,X,X,X,2043,124,34985
+States,District of Columbia,2013,4,X,6.97269,X,X,X,X,X,X,120,3,1721
+States,Florida,2013,4,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,4,X,4.06893,X,X,X,X,X,X,621,206,15262
+States,Texas,2013,4,X,7.58763,X,X,X,X,X,X,3284,64,43281
+States,New York City,2013,4,X,5.14435,X,X,X,X,X,X,4918,76,95600
+States,California,2013,5,X,6.10146,X,X,X,X,X,X,2349,126,38499
+States,District of Columbia,2013,5,X,5.30071,X,X,X,X,X,X,104,3,1962
+States,Florida,2013,5,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,5,X,2.9484,X,X,X,X,X,X,468,207,15873
+States,Texas,2013,5,X,5.83695,X,X,X,X,X,X,2367,64,40552
+States,New York City,2013,5,X,4.19967,X,X,X,X,X,X,4120,74,98103
+States,California,2013,6,X,5.4357,X,X,X,X,X,X,1993,115,36665
+States,District of Columbia,2013,6,X,5.28531,X,X,X,X,X,X,113,3,2138
+States,Florida,2013,6,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,6,X,2.7859,X,X,X,X,X,X,419,202,15040
+States,Texas,2013,6,X,4.63083,X,X,X,X,X,X,1822,65,39345
+States,New York City,2013,6,X,3.75588,X,X,X,X,X,X,3442,66,91643
+States,California,2013,7,X,4.86921,X,X,X,X,X,X,1746,120,35858
+States,District of Columbia,2013,7,X,4.76893,X,X,X,X,X,X,97,3,2034
+States,Florida,2013,7,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,7,X,3.39217,X,X,X,X,X,X,540,203,15919
+States,Texas,2013,7,X,3.98526,X,X,X,X,X,X,1514,64,37990
+States,New York City,2013,7,X,3.05157,X,X,X,X,X,X,2883,61,94476
+States,California,2013,8,X,4.14831,X,X,X,X,X,X,1365,123,32905
+States,District of Columbia,2013,8,X,4.53053,X,X,X,X,X,X,69,3,1523
+States,Florida,2013,8,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,8,X,3.48492,X,X,X,X,X,X,551,214,15811
+States,Texas,2013,8,X,3.23762,X,X,X,X,X,X,1247,61,38516
+States,New York City,2013,8,X,3.40389,X,X,X,X,X,X,3189,74,93687
+States,California,2013,9,X,3.70949,X,X,X,X,X,X,1354,123,36501
+States,District of Columbia,2013,9,X,4.42177,X,X,X,X,X,X,91,3,2058
+States,Florida,2013,9,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,9,X,2.67505,X,X,X,X,X,X,434,212,16224
+States,Texas,2013,9,X,3.29329,X,X,X,X,X,X,1272,63,38624
+States,New York City,2013,9,X,2.91814,X,X,X,X,X,X,2843,74,97425
+States,California,2013,10,X,3.98337,X,X,X,X,X,X,1399,121,35121
+States,District of Columbia,2013,10,X,4.90134,X,X,X,X,X,X,77,3,1571
+States,Florida,2013,10,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,10,X,2.38434,X,X,X,X,X,X,369,208,15476
+States,Texas,2013,10,X,3.38592,X,X,X,X,X,X,1350,61,39871
+States,New York City,2013,10,X,3.02633,X,X,X,X,X,X,2931,74,96850
+States,California,2013,11,X,3.45064,X,X,X,X,X,X,1159,115,33588
+States,District of Columbia,2013,11,X,5.33869,X,X,X,X,X,X,93,3,1742
+States,Florida,2013,11,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,11,X,2.70502,X,X,X,X,X,X,378,206,13974
+States,Texas,2013,11,X,3.0704,X,X,X,X,X,X,1028,58,33481
+States,New York City,2013,11,X,2.73555,X,X,X,X,X,X,2694,74,98481
+States,California,2013,12,X,3.237,X,X,X,X,X,X,1017,116,31418
+States,District of Columbia,2013,12,X,4.39252,X,X,X,X,X,X,94,3,2140
+States,Florida,2013,12,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,12,X,2.2772,X,X,X,X,X,X,289,195,12691
+States,Texas,2013,12,X,2.68087,X,X,X,X,X,X,1042,59,38868
+States,New York City,2013,12,X,2.58595,X,X,X,X,X,X,2464,69,95284
+States,California,2013,13,X,2.96289,X,X,X,X,X,X,871,117,29397
+States,District of Columbia,2013,13,X,2.7278,X,X,X,X,X,X,47,3,1723
+States,Florida,2013,13,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,13,X,1.6205,X,X,X,X,X,X,179,187,11046
+States,Texas,2013,13,X,2.54637,X,X,X,X,X,X,913,58,35855
+States,New York City,2013,13,X,2.34374,X,X,X,X,X,X,2182,72,93099
+States,California,2013,14,X,2.50403,X,X,X,X,X,X,715,108,28554
+States,District of Columbia,2013,14,X,4.4098,X,X,X,X,X,X,99,3,2245
+States,Florida,2013,14,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,14,X,1.58092,X,X,X,X,X,X,173,185,10943
+States,Texas,2013,14,X,2.46144,X,X,X,X,X,X,806,55,32745
+States,New York City,2013,14,X,2.06217,X,X,X,X,X,X,1957,70,94900
+States,California,2013,15,X,1.97829,X,X,X,X,X,X,687,109,34727
+States,District of Columbia,2013,15,X,4.06863,X,X,X,X,X,X,83,2,2040
+States,Florida,2013,15,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,15,X,1.33984,X,X,X,X,X,X,162,184,12091
+States,Texas,2013,15,X,2.34755,X,X,X,X,X,X,835,55,35569
+States,New York City,2013,15,X,1.72724,X,X,X,X,X,X,1690,70,97844
+States,California,2013,16,X,1.82625,X,X,X,X,X,X,609,106,33347
+States,District of Columbia,2013,16,X,3.61174,X,X,X,X,X,X,48,1,1329
+States,Florida,2013,16,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,16,X,1.47142,X,X,X,X,X,X,183,183,12437
+States,Texas,2013,16,X,2.28962,X,X,X,X,X,X,847,56,36993
+States,New York City,2013,16,X,1.72304,X,X,X,X,X,X,1685,66,97792
+States,California,2013,17,X,1.7337,X,X,X,X,X,X,600,111,34608
+States,District of Columbia,2013,17,X,5.45455,X,X,X,X,X,X,87,1,1595
+States,Florida,2013,17,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,17,X,1.19106,X,X,X,X,X,X,146,183,12258
+States,Texas,2013,17,X,2.10066,X,X,X,X,X,X,745,54,35465
+States,New York City,2013,17,X,1.64981,X,X,X,X,X,X,1551,59,94011
+States,California,2013,18,X,1.6856,X,X,X,X,X,X,561,106,33282
+States,District of Columbia,2013,18,X,5.7732,X,X,X,X,X,X,84,1,1455
+States,Florida,2013,18,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,18,X,0.979474,X,X,X,X,X,X,115,181,11741
+States,Texas,2013,18,X,1.91757,X,X,X,X,X,X,670,53,34940
+States,New York City,2013,18,X,1.64971,X,X,X,X,X,X,1597,60,96805
+States,California,2013,19,X,1.62542,X,X,X,X,X,X,528,107,32484
+States,District of Columbia,2013,19,X,4.74198,X,X,X,X,X,X,68,1,1434
+States,Florida,2013,19,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,19,X,0.859476,X,X,X,X,X,X,100,177,11635
+States,Texas,2013,19,X,2.04946,X,X,X,X,X,X,702,51,34253
+States,New York City,2013,19,X,1.61222,X,X,X,X,X,X,1560,59,96761
+States,California,2013,20,X,1.69397,X,X,X,X,X,X,545,100,32173
+States,District of Columbia,2013,20,X,4.96503,X,X,X,X,X,X,71,1,1430
+States,Florida,2013,20,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,20,X,0.830614,X,X,X,X,X,X,84,175,10113
+States,Texas,2013,20,X,1.9264,X,X,X,X,X,X,680,50,35299
+States,New York City,2013,20,X,1.53328,X,X,X,X,X,X,1522,66,99264
+States,California,2013,21,X,1.59179,X,X,X,X,X,X,495,96,31097
+States,District of Columbia,2013,21,X,5.93645,X,X,X,X,X,X,71,1,1196
+States,Florida,2013,21,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,21,X,0.678931,X,X,X,X,X,X,62,179,9132
+States,Texas,2013,21,X,1.72047,X,X,X,X,X,X,598,51,34758
+States,New York City,2013,21,X,1.47278,X,X,X,X,X,X,1392,55,94515
+States,California,2013,22,X,1.52385,X,X,X,X,X,X,390,98,25593
+States,District of Columbia,2013,22,X,3.99628,X,X,X,X,X,X,43,1,1076
+States,Florida,2013,22,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,22,X,1.19891,X,X,X,X,X,X,88,178,7340
+States,Texas,2013,22,X,1.9246,X,X,X,X,X,X,585,51,30396
+States,New York City,2013,22,X,1.47378,X,X,X,X,X,X,1343,62,91126
+States,California,2013,23,X,1.54648,X,X,X,X,X,X,454,98,29357
+States,District of Columbia,2013,23,X,5.26742,X,X,X,X,X,X,65,1,1234
+States,Florida,2013,23,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,23,X,0.893277,X,X,X,X,X,X,76,178,8508
+States,Texas,2013,23,X,1.66351,X,X,X,X,X,X,545,49,32762
+States,New York City,2013,23,X,1.30581,X,X,X,X,X,X,1228,61,94041
+States,California,2013,24,X,1.58567,X,X,X,X,X,X,433,92,27307
+States,District of Columbia,2013,24,X,3.99079,X,X,X,X,X,X,52,1,1303
+States,Florida,2013,24,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,24,X,0.881857,X,X,X,X,X,X,68,177,7711
+States,Texas,2013,24,X,1.57641,X,X,X,X,X,X,510,47,32352
+States,New York City,2013,24,X,1.37941,X,X,X,X,X,X,1282,62,92938
+States,California,2013,25,X,1.59109,X,X,X,X,X,X,407,90,25580
+States,District of Columbia,2013,25,X,5.07084,X,X,X,X,X,X,68,1,1341
+States,Florida,2013,25,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,25,X,0.564902,X,X,X,X,X,X,46,176,8143
+States,Texas,2013,25,X,2.07494,X,X,X,X,X,X,644,47,31037
+States,New York City,2013,25,X,1.31122,X,X,X,X,X,X,1243,62,94797
+States,California,2013,26,X,1.41541,X,X,X,X,X,X,355,89,25081
+States,District of Columbia,2013,26,X,3.9968,X,X,X,X,X,X,50,1,1251
+States,Florida,2013,26,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,26,X,0.606616,X,X,X,X,X,X,53,176,8737
+States,Texas,2013,26,X,1.84375,X,X,X,X,X,X,569,46,30861
+States,New York City,2013,26,X,1.17955,X,X,X,X,X,X,1092,52,92578
+States,California,2013,27,X,1.43255,X,X,X,X,X,X,288,91,20104
+States,District of Columbia,2013,27,X,4.26885,X,X,X,X,X,X,47,1,1101
+States,Florida,2013,27,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,27,X,0.826295,X,X,X,X,X,X,45,176,5446
+States,Texas,2013,27,X,1.99341,X,X,X,X,X,X,508,46,25484
+States,New York City,2013,27,X,1.23853,X,X,X,X,X,X,1108,49,89461
+States,California,2013,28,X,1.25056,X,X,X,X,X,X,334,92,26708
+States,District of Columbia,2013,28,X,4.6396,X,X,X,X,X,X,56,1,1207
+States,Florida,2013,28,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,28,X,0.635846,X,X,X,X,X,X,48,174,7549
+States,Texas,2013,28,X,1.87277,X,X,X,X,X,X,547,45,29208
+States,New York City,2013,28,X,1.14439,X,X,X,X,X,X,1090,58,95247
+States,California,2013,29,X,1.30391,X,X,X,X,X,X,325,88,24925
+States,District of Columbia,2013,29,X,3.4846,X,X,X,X,X,X,43,1,1234
+States,Florida,2013,29,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,29,X,0.449186,X,X,X,X,X,X,40,174,8905
+States,Texas,2013,29,X,1.75622,X,X,X,X,X,X,522,45,29723
+States,New York City,2013,29,X,1.06048,X,X,X,X,X,X,991,62,93448
+States,California,2013,30,X,1.3224,X,X,X,X,X,X,324,85,24501
+States,District of Columbia,2013,30,X,4.42073,X,X,X,X,X,X,58,1,1312
+States,Florida,2013,30,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,30,X,0.784753,X,X,X,X,X,X,56,173,7136
+States,Texas,2013,30,X,1.55077,X,X,X,X,X,X,469,45,30243
+States,New York City,2013,30,X,0.98942,X,X,X,X,X,X,894,51,90356
+States,California,2013,31,X,1.22818,X,X,X,X,X,X,299,82,24345
+States,District of Columbia,2013,31,X,6.70978,X,X,X,X,X,X,83,1,1237
+States,Florida,2013,31,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,31,X,0.43209,X,X,X,X,X,X,30,175,6943
+States,Texas,2013,31,X,1.71643,X,X,X,X,X,X,518,56,30179
+States,New York City,2013,31,X,0.995388,X,X,X,X,X,X,872,50,87604
+States,California,2013,32,X,1.32131,X,X,X,X,X,X,299,78,22629
+States,District of Columbia,2013,32,X,5.18653,X,X,X,X,X,X,57,1,1099
+States,Florida,2013,32,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,32,X,0.561798,X,X,X,X,X,X,40,173,7120
+States,Texas,2013,32,X,1.42036,X,X,X,X,X,X,425,54,29922
+States,New York City,2013,32,X,0.902398,X,X,X,X,X,X,782,41,86658
+States,California,2013,33,X,1.21946,X,X,X,X,X,X,285,75,23371
+States,District of Columbia,2013,33,X,5.05576,X,X,X,X,X,X,68,1,1345
+States,Florida,2013,33,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,33,X,0.367747,X,X,X,X,X,X,27,173,7342
+States,Texas,2013,33,X,1.64627,X,X,X,X,X,X,491,50,29825
+States,New York City,2013,33,X,0.801465,X,X,X,X,X,X,687,40,85718
+States,California,2013,34,X,1.19376,X,X,X,X,X,X,294,73,24628
+States,District of Columbia,2013,34,X,5.8296,X,X,X,X,X,X,65,1,1115
+States,Florida,2013,34,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,34,X,0.455093,X,X,X,X,X,X,34,173,7471
+States,Texas,2013,34,X,1.65108,X,X,X,X,X,X,542,53,32827
+States,New York City,2013,34,X,0.875043,X,X,X,X,X,X,732,37,83653
+States,California,2013,35,X,1.53035,X,X,X,X,X,X,389,75,25419
+States,District of Columbia,2013,35,X,5.1149,X,X,X,X,X,X,69,1,1349
+States,Florida,2013,35,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,35,X,0.396396,X,X,X,X,X,X,33,170,8325
+States,Texas,2013,35,X,2.14174,X,X,X,X,X,X,741,57,34598
+States,New York City,2013,35,X,0.846482,X,X,X,X,X,X,728,48,86003
+States,California,2013,36,X,1.63164,X,X,X,X,X,X,354,76,21696
+States,District of Columbia,2013,36,X,4.07659,X,X,X,X,X,X,66,1,1619
+States,Florida,2013,36,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,36,X,0.347315,X,X,X,X,X,X,26,163,7486
+States,Texas,2013,36,X,2.89449,X,X,X,X,X,X,908,55,31370
+States,New York City,2013,36,X,0.843707,X,X,X,X,X,X,734,46,86997
+States,California,2013,37,X,1.70543,X,X,X,X,X,X,440,75,25800
+States,District of Columbia,2013,37,X,5.61511,X,X,X,X,X,X,110,1,1959
+States,Florida,2013,37,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,37,X,0.32359,X,X,X,X,X,X,30,163,9271
+States,Texas,2013,37,X,2.86301,X,X,X,X,X,X,1129,73,39434
+States,New York City,2013,37,X,0.919671,X,X,X,X,X,X,806,47,87640
+States,California,2013,38,X,1.67839,X,X,X,X,X,X,451,77,26871
+States,District of Columbia,2013,38,X,5.92142,X,X,X,X,X,X,107,1,1807
+States,Florida,2013,38,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,38,X,0.38431,X,X,X,X,X,X,29,133,7546
+States,Texas,2013,38,X,3.05223,X,X,X,X,X,X,1181,74,38693
+States,New York City,2013,38,X,1.30989,X,X,X,X,X,X,1209,58,92298
+States,California,2013,39,X,1.94581,X,X,X,X,X,X,530,80,27238
+States,District of Columbia,2013,39,X,5.34351,X,X,X,X,X,X,112,1,2096
+States,Florida,2013,39,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,39,X,0.266016,X,X,X,X,X,X,24,137,9022
+States,Texas,2013,39,X,3.29382,X,X,X,X,X,X,1256,100,38132
+States,New York City,2013,39,X,1.55648,X,X,X,X,X,X,1483,59,95279
+States,California,2013,40,X,1.52479,X,X,X,X,X,X,633,137,41514
+States,District of Columbia,2013,40,X,5.41463,X,X,X,X,X,X,111,3,2050
+States,Florida,2013,40,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,40,X,0.582589,X,X,X,X,X,X,88,137,15105
+States,Texas,2013,40,X,2.2366,X,X,X,X,X,X,954,120,42654
+States,New York City,2013,40,X,1.52274,X,X,X,X,X,X,1496,61,98244
+States,California,2013,41,X,1.75269,X,X,X,X,X,X,744,137,42449
+States,District of Columbia,2013,41,X,6.02353,X,X,X,X,X,X,128,3,2125
+States,Florida,2013,41,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,41,X,0.552562,X,X,X,X,X,X,81,139,14659
+States,Texas,2013,41,X,2.39646,X,X,X,X,X,X,1078,125,44983
+States,New York City,2013,41,X,1.42045,X,X,X,X,X,X,1354,62,95322
+States,California,2013,42,X,1.74662,X,X,X,X,X,X,687,133,39333
+States,District of Columbia,2013,42,X,5.67605,X,X,X,X,X,X,123,3,2167
+States,Florida,2013,42,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,42,X,0.573782,X,X,X,X,X,X,85,141,14814
+States,Texas,2013,42,X,2.65115,X,X,X,X,X,X,1087,122,41001
+States,New York City,2013,42,X,1.50881,X,X,X,X,X,X,1453,71,96301
+States,California,2013,43,X,1.77965,X,X,X,X,X,X,744,133,41806
+States,District of Columbia,2013,43,X,6.50195,X,X,X,X,X,X,150,3,2307
+States,Florida,2013,43,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,43,X,0.753849,X,X,X,X,X,X,118,140,15653
+States,Texas,2013,43,X,2.45818,X,X,X,X,X,X,1102,123,44830
+States,New York City,2013,43,X,1.69964,X,X,X,X,X,X,1646,71,96844
+States,California,2013,44,X,1.99307,X,X,X,X,X,X,828,139,41544
+States,District of Columbia,2013,44,X,5.20038,X,X,X,X,X,X,109,3,2096
+States,Florida,2013,44,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,44,X,0.719563,X,X,X,X,X,X,112,145,15565
+States,Texas,2013,44,X,2.54797,X,X,X,X,X,X,1118,123,43878
+States,New York City,2013,44,X,1.81474,X,X,X,X,X,X,1717,70,94614
+States,California,2013,45,X,2.29774,X,X,X,X,X,X,977,147,42520
+States,District of Columbia,2013,45,X,7.20887,X,X,X,X,X,X,156,3,2164
+States,Florida,2013,45,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,45,X,0.850487,X,X,X,X,X,X,138,144,16226
+States,Texas,2013,45,X,2.98433,X,X,X,X,X,X,1202,110,40277
+States,New York City,2013,45,X,1.90385,X,X,X,X,X,X,1744,73,91604
+States,California,2013,46,X,2.29161,X,X,X,X,X,X,888,146,38750
+States,District of Columbia,2013,46,X,7.79841,X,X,X,X,X,X,147,3,1885
+States,Florida,2013,46,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,46,X,0.809817,X,X,X,X,X,X,130,143,16053
+States,Texas,2013,46,X,3.57321,X,X,X,X,X,X,1649,124,46149
+States,New York City,2013,46,X,1.95433,X,X,X,X,X,X,1787,71,91438
+States,California,2013,47,X,2.13404,X,X,X,X,X,X,868,138,40674
+States,District of Columbia,2013,47,X,8.19936,X,X,X,X,X,X,153,3,1866
+States,Florida,2013,47,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,47,X,0.915243,X,X,X,X,X,X,142,143,15515
+States,Texas,2013,47,X,4.24138,X,X,X,X,X,X,1975,120,46565
+States,New York City,2013,47,X,2.06103,X,X,X,X,X,X,1927,71,93497
+States,California,2013,48,X,2.59558,X,X,X,X,X,X,702,138,27046
+States,District of Columbia,2013,48,X,9.6956,X,X,X,X,X,X,86,3,887
+States,Florida,2013,48,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,48,X,0.990182,X,X,X,X,X,X,118,157,11917
+States,Texas,2013,48,X,5.07503,X,X,X,X,X,X,1576,121,31054
+States,New York City,2013,48,X,2.41456,X,X,X,X,X,X,1976,73,81837
+States,California,2013,49,X,2.32553,X,X,X,X,X,X,970,139,41711
+States,District of Columbia,2013,49,X,11.0972,X,X,X,X,X,X,177,3,1595
+States,Florida,2013,49,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,49,X,0.958767,X,X,X,X,X,X,173,158,18044
+States,Texas,2013,49,X,5.62401,X,X,X,X,X,X,2492,122,44310
+States,New York City,2013,49,X,2.56005,X,X,X,X,X,X,2541,76,99256
+States,California,2013,50,X,2.77058,X,X,X,X,X,X,1080,141,38981
+States,District of Columbia,2013,50,X,9.10415,X,X,X,X,X,X,125,3,1373
+States,Florida,2013,50,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,50,X,1.03744,X,X,X,X,X,X,174,159,16772
+States,Texas,2013,50,X,6.56142,X,X,X,X,X,X,2797,121,42628
+States,New York City,2013,50,X,2.6628,X,X,X,X,X,X,2377,71,89267
+States,California,2013,51,X,3.1557,X,X,X,X,X,X,1137,137,36030
+States,District of Columbia,2013,51,X,10.6426,X,X,X,X,X,X,159,3,1494
+States,Florida,2013,51,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,51,X,1.35515,X,X,X,X,X,X,193,145,14242
+States,Texas,2013,51,X,10.0139,X,X,X,X,X,X,4616,118,46096
+States,New York City,2013,51,X,2.87206,X,X,X,X,X,X,2679,73,93278
+States,California,2013,52,X,5.10491,X,X,X,X,X,X,1107,130,21685
+States,District of Columbia,2013,52,X,13.7076,X,X,X,X,X,X,105,3,766
+States,Florida,2013,52,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2013,52,X,2.99457,X,X,X,X,X,X,259,152,8649
+States,Texas,2013,52,X,11.0449,X,X,X,X,X,X,3594,119,32540
+States,New York City,2013,52,X,3.51214,X,X,X,X,X,X,2979,68,84820
+States,California,2014,1,X,5.1101,X,X,X,X,X,X,1397,137,27338
+States,District of Columbia,2014,1,X,16.3476,X,X,X,X,X,X,111,3,679
+States,Florida,2014,1,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,1,X,2.97304,X,X,X,X,X,X,258,152,8678
+States,Texas,2014,1,X,9.17567,X,X,X,X,X,X,3415,121,37218
+States,New York City,2014,1,X,3.54888,X,X,X,X,X,X,2850,68,80307
+States,California,2014,2,X,4.61744,X,X,X,X,X,X,1866,138,40412
+States,District of Columbia,2014,2,X,13.3748,X,X,X,X,X,X,172,3,1286
+States,Florida,2014,2,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,2,X,1.99698,X,X,X,X,X,X,278,153,13921
+States,Texas,2014,2,X,7.02738,X,X,X,X,X,X,3160,122,44967
+States,New York City,2014,2,X,2.93798,X,X,X,X,X,X,2783,70,94725
+States,California,2014,3,X,4.57287,X,X,X,X,X,X,1903,140,41615
+States,District of Columbia,2014,3,X,8.77411,X,X,X,X,X,X,141,3,1607
+States,Florida,2014,3,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,3,X,2.80846,X,X,X,X,X,X,450,153,16023
+States,Texas,2014,3,X,5.47173,X,X,X,X,X,X,2495,120,45598
+States,New York City,2014,3,X,3.1625,X,X,X,X,X,X,3062,69,96822
+States,California,2014,4,X,5.04872,X,X,X,X,X,X,2005,138,39713
+States,District of Columbia,2014,4,X,9.20716,X,X,X,X,X,X,108,3,1173
+States,Florida,2014,4,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,4,X,2.91725,X,X,X,X,X,X,459,154,15734
+States,Texas,2014,4,X,4.97024,X,X,X,X,X,X,2046,117,41165
+States,New York City,2014,4,X,3.09483,X,X,X,X,X,X,2651,72,85659
+States,California,2014,5,X,4.28707,X,X,X,X,X,X,1813,131,42290
+States,District of Columbia,2014,5,X,8.93569,X,X,X,X,X,X,157,3,1757
+States,Florida,2014,5,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,5,X,3.13798,X,X,X,X,X,X,574,157,18292
+States,Texas,2014,5,X,4.69254,X,X,X,X,X,X,1920,120,40916
+States,New York City,2014,5,X,2.66786,X,X,X,X,X,X,2388,71,89510
+States,California,2014,6,X,3.83781,X,X,X,X,X,X,1628,137,42420
+States,District of Columbia,2014,6,X,9.0053,X,X,X,X,X,X,153,3,1699
+States,Florida,2014,6,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,6,X,3.65359,X,X,X,X,X,X,586,162,16039
+States,Texas,2014,6,X,4.15233,X,X,X,X,X,X,1774,119,42723
+States,New York City,2014,6,X,2.58455,X,X,X,X,X,X,2337,70,90422
+States,California,2014,7,X,3.46235,X,X,X,X,X,X,1357,131,39193
+States,District of Columbia,2014,7,X,7.20721,X,X,X,X,X,X,112,3,1554
+States,Florida,2014,7,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,7,X,2.90014,X,X,X,X,X,X,449,163,15482
+States,Texas,2014,7,X,4.02182,X,X,X,X,X,X,1659,117,41250
+States,New York City,2014,7,X,2.37673,X,X,X,X,X,X,2011,66,84612
+States,California,2014,8,X,3.38719,X,X,X,X,X,X,1176,127,34719
+States,District of Columbia,2014,8,X,7.97153,X,X,X,X,X,X,112,3,1405
+States,Florida,2014,8,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,8,X,1.88879,X,X,X,X,X,X,304,164,16095
+States,Texas,2014,8,X,3.86342,X,X,X,X,X,X,1713,118,44339
+States,New York City,2014,8,X,2.28816,X,X,X,X,X,X,2055,68,89810
+States,California,2014,9,X,3.03955,X,X,X,X,X,X,1165,125,38328
+States,District of Columbia,2014,9,X,8.52626,X,X,X,X,X,X,151,2,1771
+States,Florida,2014,9,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,9,X,1.54231,X,X,X,X,X,X,271,163,17571
+States,Texas,2014,9,X,3.97478,X,X,X,X,X,X,1677,113,42191
+States,New York City,2014,9,X,2.01194,X,X,X,X,X,X,1834,68,91156
+States,California,2014,10,X,2.72134,X,X,X,X,X,X,1034,122,37996
+States,District of Columbia,2014,10,X,7.78073,X,X,X,X,X,X,88,2,1131
+States,Florida,2014,10,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,10,X,1.78227,X,X,X,X,X,X,296,160,16608
+States,Texas,2014,10,X,3.78548,X,X,X,X,X,X,1555,114,41078
+States,New York City,2014,10,X,2.41774,X,X,X,X,X,X,2191,61,90622
+States,California,2014,11,X,2.31375,X,X,X,X,X,X,882,119,38120
+States,District of Columbia,2014,11,X,8.17052,X,X,X,X,X,X,92,2,1126
+States,Florida,2014,11,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,11,X,1.9047,X,X,X,X,X,X,277,151,14543
+States,Texas,2014,11,X,3.66299,X,X,X,X,X,X,1323,112,36118
+States,New York City,2014,11,X,2.8097,X,X,X,X,X,X,2748,58,97804
+States,California,2014,12,X,2.39688,X,X,X,X,X,X,892,121,37215
+States,District of Columbia,2014,12,X,9.03674,X,X,X,X,X,X,91,2,1007
+States,Florida,2014,12,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,12,X,2.19795,X,X,X,X,X,X,338,151,15378
+States,Texas,2014,12,X,3.39706,X,X,X,X,X,X,1386,112,40800
+States,New York City,2014,12,X,3.5795,X,X,X,X,X,X,3627,70,101327
+States,California,2014,13,X,1.99261,X,X,X,X,X,X,685,118,34377
+States,District of Columbia,2014,13,X,11.3695,X,X,X,X,X,X,132,2,1161
+States,Florida,2014,13,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,13,X,2.73789,X,X,X,X,X,X,471,151,17203
+States,Texas,2014,13,X,3.34885,X,X,X,X,X,X,1338,111,39954
+States,New York City,2014,13,X,3.74441,X,X,X,X,X,X,3962,66,105811
+States,California,2014,14,X,2.01378,X,X,X,X,X,X,672,116,33370
+States,District of Columbia,2014,14,X,9.7337,X,X,X,X,X,X,106,2,1089
+States,Florida,2014,14,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,14,X,3.06605,X,X,X,X,X,X,460,148,15003
+States,Texas,2014,14,X,3.21687,X,X,X,X,X,X,1277,108,39697
+States,New York City,2014,14,X,3.63529,X,X,X,X,X,X,3812,64,104861
+States,California,2014,15,X,1.84637,X,X,X,X,X,X,655,112,35475
+States,District of Columbia,2014,15,X,7.63274,X,X,X,X,X,X,69,2,904
+States,Florida,2014,15,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,15,X,3.09776,X,X,X,X,X,X,501,143,16173
+States,Texas,2014,15,X,3.35918,X,X,X,X,X,X,1343,106,39980
+States,New York City,2014,15,X,3.27608,X,X,X,X,X,X,3418,65,104332
+States,California,2014,16,X,1.87291,X,X,X,X,X,X,611,106,32623
+States,District of Columbia,2014,16,X,6.62162,X,X,X,X,X,X,98,2,1480
+States,Florida,2014,16,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,16,X,2.37233,X,X,X,X,X,X,321,148,13531
+States,Texas,2014,16,X,3.0909,X,X,X,X,X,X,1204,107,38953
+States,New York City,2014,16,X,2.52071,X,X,X,X,X,X,2404,61,95370
+States,California,2014,17,X,1.83302,X,X,X,X,X,X,602,98,32842
+States,District of Columbia,2014,17,X,6.63073,X,X,X,X,X,X,123,2,1855
+States,Florida,2014,17,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,17,X,1.50943,X,X,X,X,X,X,232,149,15370
+States,Texas,2014,17,X,2.84024,X,X,X,X,X,X,1128,106,39715
+States,New York City,2014,17,X,1.9973,X,X,X,X,X,X,1923,65,96280
+States,California,2014,18,X,1.69241,X,X,X,X,X,X,562,95,33207
+States,District of Columbia,2014,18,X,4.7014,X,X,X,X,X,X,37,1,787
+States,Florida,2014,18,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,18,X,1.59652,X,X,X,X,X,X,253,147,15847
+States,Texas,2014,18,X,2.41511,X,X,X,X,X,X,963,104,39874
+States,New York City,2014,18,X,1.64839,X,X,X,X,X,X,1550,65,94031
+States,California,2014,19,X,1.72803,X,X,X,X,X,X,551,92,31886
+States,District of Columbia,2014,19,X,5.53746,X,X,X,X,X,X,68,1,1228
+States,Florida,2014,19,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,19,X,1.362,X,X,X,X,X,X,216,147,15859
+States,Texas,2014,19,X,2.52891,X,X,X,X,X,X,982,102,38831
+States,New York City,2014,19,X,1.66449,X,X,X,X,X,X,1671,66,100391
+States,California,2014,20,X,1.80206,X,X,X,X,X,X,569,88,31575
+States,District of Columbia,2014,20,X,7.2335,X,X,X,X,X,X,57,1,788
+States,Florida,2014,20,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,20,X,1.32629,X,X,X,X,X,X,201,141,15155
+States,Texas,2014,20,X,2.6284,X,X,X,X,X,X,978,104,37209
+States,New York City,2014,20,X,1.55204,X,X,X,X,X,X,1591,63,102510
+States,California,2014,21,X,2.0838,X,X,X,X,X,X,563,88,27018
+States,District of Columbia,2014,21,X,9.6064,X,X,X,X,X,X,144,1,1499
+States,Florida,2014,21,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,21,X,1.06975,X,X,X,X,X,X,148,140,13835
+States,Texas,2014,21,X,2.77493,X,X,X,X,X,X,1028,101,37046
+States,New York City,2014,21,X,1.57367,X,X,X,X,X,X,1572,62,99894
+States,California,2014,22,X,1.86448,X,X,X,X,X,X,454,86,24350
+States,District of Columbia,2014,22,X,9.62464,X,X,X,X,X,X,100,1,1039
+States,Florida,2014,22,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,22,X,0.905888,X,X,X,X,X,X,90,138,9935
+States,Texas,2014,22,X,2.77039,X,X,X,X,X,X,896,101,32342
+States,New York City,2014,22,X,1.54584,X,X,X,X,X,X,1454,57,94059
+States,California,2014,23,X,1.88064,X,X,X,X,X,X,531,88,28235
+States,District of Columbia,2014,23,X,7.63077,X,X,X,X,X,X,124,1,1625
+States,Florida,2014,23,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,23,X,1.02176,X,X,X,X,X,X,116,135,11353
+States,Texas,2014,23,X,2.5365,X,X,X,X,X,X,879,98,34654
+States,New York City,2014,23,X,1.49711,X,X,X,X,X,X,1417,59,94649
+States,California,2014,24,X,1.80584,X,X,X,X,X,X,508,87,28131
+States,District of Columbia,2014,24,X,8.20084,X,X,X,X,X,X,98,1,1195
+States,Florida,2014,24,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,24,X,1.28228,X,X,X,X,X,X,144,131,11230
+States,Texas,2014,24,X,2.22052,X,X,X,X,X,X,784,98,35307
+States,New York City,2014,24,X,1.31701,X,X,X,X,X,X,1252,55,95064
+States,California,2014,25,X,1.77155,X,X,X,X,X,X,458,84,25853
+States,District of Columbia,2014,25,X,8.50291,X,X,X,X,X,X,117,1,1376
+States,Florida,2014,25,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,25,X,1.08052,X,X,X,X,X,X,126,129,11661
+States,Texas,2014,25,X,2.00295,X,X,X,X,X,X,678,96,33850
+States,New York City,2014,25,X,1.60143,X,X,X,X,X,X,1538,60,96039
+States,California,2014,26,X,1.76479,X,X,X,X,X,X,473,84,26802
+States,District of Columbia,2014,26,X,7.06349,X,X,X,X,X,X,89,1,1260
+States,Florida,2014,26,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,26,X,0.863077,X,X,X,X,X,X,96,128,11123
+States,Texas,2014,26,X,3.19926,X,X,X,X,X,X,657,92,20536
+States,New York City,2014,26,X,1.48212,X,X,X,X,X,X,1425,60,96146
+States,California,2014,27,X,1.80666,X,X,X,X,X,X,405,86,22417
+States,District of Columbia,2014,27,X,6.23116,X,X,X,X,X,X,62,1,995
+States,Florida,2014,27,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,27,X,0.96,X,X,X,X,X,X,90,128,9375
+States,Texas,2014,27,X,1.9334,X,X,X,X,X,X,544,92,28137
+States,New York City,2014,27,X,1.40725,X,X,X,X,X,X,1274,59,90531
+States,California,2014,28,X,1.49365,X,X,X,X,X,X,402,89,26914
+States,District of Columbia,2014,28,X,6.8328,X,X,X,X,X,X,85,1,1244
+States,Florida,2014,28,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,28,X,0.662061,X,X,X,X,X,X,69,129,10422
+States,Texas,2014,28,X,1.90947,X,X,X,X,X,X,634,94,33203
+States,New York City,2014,28,X,1.23012,X,X,X,X,X,X,1185,60,96332
+States,California,2014,29,X,1.48858,X,X,X,X,X,X,382,83,25662
+States,District of Columbia,2014,29,X,4.14747,X,X,X,X,X,X,36,1,868
+States,Florida,2014,29,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,29,X,0.7849,X,X,X,X,X,X,84,129,10702
+States,Texas,2014,29,X,1.76986,X,X,X,X,X,X,564,93,31867
+States,New York City,2014,29,X,1.11591,X,X,X,X,X,X,1047,58,93825
+States,California,2014,30,X,1.26523,X,X,X,X,X,X,325,85,25687
+States,District of Columbia,2014,30,X,3.85233,X,X,X,X,X,X,48,1,1246
+States,Florida,2014,30,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,30,X,0.633318,X,X,X,X,X,X,69,129,10895
+States,Texas,2014,30,X,1.57256,X,X,X,X,X,X,496,89,31541
+States,New York City,2014,30,X,1.04352,X,X,X,X,X,X,981,58,94009
+States,California,2014,31,X,1.27847,X,X,X,X,X,X,339,87,26516
+States,District of Columbia,2014,31,X,3.63077,X,X,X,X,X,X,59,1,1625
+States,Florida,2014,31,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,31,X,0.790175,X,X,X,X,X,X,83,128,10504
+States,Texas,2014,31,X,1.68632,X,X,X,X,X,X,532,89,31548
+States,New York City,2014,31,X,1.09667,X,X,X,X,X,X,1022,58,93191
+States,California,2014,32,X,1.05709,X,X,X,X,X,X,267,85,25258
+States,District of Columbia,2014,32,X,4.67405,X,X,X,X,X,X,38,1,813
+States,Florida,2014,32,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,32,X,0.585309,X,X,X,X,X,X,60,125,10251
+States,Texas,2014,32,X,1.37986,X,X,X,X,X,X,452,91,32757
+States,New York City,2014,32,X,1.07978,X,X,X,X,X,X,1013,59,93815
+States,California,2014,33,X,1.05714,X,X,X,X,X,X,242,74,22892
+States,District of Columbia,2014,33,X,4.08035,X,X,X,X,X,X,65,1,1593
+States,Florida,2014,33,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,33,X,0.552118,X,X,X,X,X,X,58,123,10505
+States,Texas,2014,33,X,1.41906,X,X,X,X,X,X,469,91,33050
+States,New York City,2014,33,X,1.06601,X,X,X,X,X,X,992,60,93057
+States,California,2014,34,X,1.20447,X,X,X,X,X,X,291,72,24160
+States,District of Columbia,2014,34,X,4.91071,X,X,X,X,X,X,44,1,896
+States,Florida,2014,34,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,34,X,0.449357,X,X,X,X,X,X,50,123,11127
+States,Texas,2014,34,X,1.52139,X,X,X,X,X,X,536,91,35231
+States,New York City,2014,34,X,1.0006,X,X,X,X,X,X,930,63,92944
+States,California,2014,35,X,1.31574,X,X,X,X,X,X,357,76,27133
+States,District of Columbia,2014,35,X,5.2103,X,X,X,X,X,X,83,1,1593
+States,Florida,2014,35,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,35,X,0.530206,X,X,X,X,X,X,66,124,12448
+States,Texas,2014,35,X,1.5349,X,X,X,X,X,X,551,91,35898
+States,New York City,2014,35,X,0.916645,X,X,X,X,X,X,845,61,92184
+States,California,2014,36,X,1.58283,X,X,X,X,X,X,348,70,21986
+States,District of Columbia,2014,36,X,5.62771,X,X,X,X,X,X,65,1,1155
+States,Florida,2014,36,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,36,X,0.337711,X,X,X,X,X,X,36,124,10660
+States,Texas,2014,36,X,1.9311,X,X,X,X,X,X,583,89,30190
+States,New York City,2014,36,X,0.941927,X,X,X,X,X,X,889,63,94381
+States,California,2014,37,X,1.87174,X,X,X,X,X,X,481,67,25698
+States,District of Columbia,2014,37,X,6.77349,X,X,X,X,X,X,93,1,1373
+States,Florida,2014,37,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,37,X,0.645665,X,X,X,X,X,X,91,125,14094
+States,Texas,2014,37,X,2.21526,X,X,X,X,X,X,792,89,35752
+States,New York City,2014,37,X,1.10362,X,X,X,X,X,X,1061,63,96138
+States,California,2014,38,X,1.86948,X,X,X,X,X,X,487,68,26050
+States,District of Columbia,2014,38,X,8.36785,X,X,X,X,X,X,101,1,1207
+States,Florida,2014,38,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,38,X,0.835488,X,X,X,X,X,X,126,127,15081
+States,Texas,2014,38,X,2.25158,X,X,X,X,X,X,784,88,34820
+States,New York City,2014,38,X,1.61514,X,X,X,X,X,X,1652,62,102282
+States,California,2014,39,X,1.78656,X,X,X,X,X,X,453,66,25356
+States,District of Columbia,2014,39,X,8.56793,X,X,X,X,X,X,140,1,1634
+States,Florida,2014,39,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,39,X,0.796167,X,X,X,X,X,X,108,125,13565
+States,Texas,2014,39,X,2.33845,X,X,X,X,X,X,828,83,35408
+States,New York City,2014,39,X,1.60663,X,X,X,X,X,X,1619,62,100770
+States,California,2014,40,X,1.9089,X,X,X,X,X,X,831,129,43533
+States,District of Columbia,2014,40,X,5.85054,X,X,X,X,X,X,119,2,2034
+States,Florida,2014,40,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,40,X,0.693823,X,X,X,X,X,X,124,153,17872
+States,Texas,2014,40,X,1.61545,X,X,X,X,X,X,623,95,38565
+States,New York City,2014,40,X,1.54549,X,X,X,X,X,X,1613,94,104368
+States,California,2014,41,X,2.01872,X,X,X,X,X,X,936,136,46366
+States,District of Columbia,2014,41,X,5.46912,X,X,X,X,X,X,116,2,2121
+States,Florida,2014,41,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,41,X,0.609081,X,X,X,X,X,X,110,155,18060
+States,Texas,2014,41,X,1.73191,X,X,X,X,X,X,672,94,38801
+States,New York City,2014,41,X,1.61982,X,X,X,X,X,X,1621,80,100073
+States,California,2014,42,X,1.88158,X,X,X,X,X,X,886,139,47088
+States,District of Columbia,2014,42,X,5.03445,X,X,X,X,X,X,95,2,1887
+States,Florida,2014,42,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,42,X,0.76846,X,X,X,X,X,X,138,157,17958
+States,Texas,2014,42,X,1.97601,X,X,X,X,X,X,761,95,38512
+States,New York City,2014,42,X,1.73901,X,X,X,X,X,X,1742,94,100172
+States,California,2014,43,X,1.84197,X,X,X,X,X,X,873,147,47395
+States,District of Columbia,2014,43,X,5.6615,X,X,X,X,X,X,95,2,1678
+States,Florida,2014,43,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,43,X,0.872553,X,X,X,X,X,X,160,159,18337
+States,Texas,2014,43,X,2.1727,X,X,X,X,X,X,860,98,39582
+States,New York City,2014,43,X,1.72474,X,X,X,X,X,X,1727,93,100131
+States,California,2014,44,X,1.88603,X,X,X,X,X,X,844,154,44750
+States,District of Columbia,2014,44,X,6.35436,X,X,X,X,X,X,137,2,2156
+States,Florida,2014,44,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,44,X,0.95177,X,X,X,X,X,X,178,161,18702
+States,Texas,2014,44,X,2.26836,X,X,X,X,X,X,861,96,37957
+States,New York City,2014,44,X,1.79443,X,X,X,X,X,X,1798,95,100199
+States,California,2014,45,X,2.22964,X,X,X,X,X,X,1048,157,47003
+States,District of Columbia,2014,45,X,7.22467,X,X,X,X,X,X,164,2,2270
+States,Florida,2014,45,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,45,X,1.10596,X,X,X,X,X,X,210,161,18988
+States,Texas,2014,45,X,2.31548,X,X,X,X,X,X,885,99,38221
+States,New York City,2014,45,X,1.87235,X,X,X,X,X,X,1884,95,100622
+States,California,2014,46,X,2.21797,X,X,X,X,X,X,858,141,38684
+States,District of Columbia,2014,46,X,5.93824,X,X,X,X,X,X,150,2,2526
+States,Florida,2014,46,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,46,X,1.11014,X,X,X,X,X,X,191,160,17205
+States,Texas,2014,46,X,2.2432,X,X,X,X,X,X,765,75,34103
+States,New York City,2014,46,X,1.77205,X,X,X,X,X,X,1695,61,95652
+States,California,2014,47,X,2.48984,X,X,X,X,X,X,1176,160,47232
+States,District of Columbia,2014,47,X,7.19027,X,X,X,X,X,X,130,2,1808
+States,Florida,2014,47,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,47,X,1.38222,X,X,X,X,X,X,259,163,18738
+States,Texas,2014,47,X,4.10392,X,X,X,X,X,X,1556,99,37915
+States,New York City,2014,47,X,1.88456,X,X,X,X,X,X,1753,94,93019
+States,California,2014,48,X,2.72718,X,X,X,X,X,X,840,159,30801
+States,District of Columbia,2014,48,X,9.61123,X,X,X,X,X,X,89,2,926
+States,Florida,2014,48,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,48,X,1.84683,X,X,X,X,X,X,218,163,11804
+States,Texas,2014,48,X,4.66631,X,X,X,X,X,X,1390,100,29788
+States,New York City,2014,48,X,2.09412,X,X,X,X,X,X,1849,96,88295
+States,California,2014,49,X,2.40936,X,X,X,X,X,X,1129,165,46859
+States,District of Columbia,2014,49,X,11.7008,X,X,X,X,X,X,183,2,1564
+States,Florida,2014,49,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,49,X,1.41337,X,X,X,X,X,X,259,163,18325
+States,Texas,2014,49,X,4.91288,X,X,X,X,X,X,2030,101,41320
+States,New York City,2014,49,X,2.24143,X,X,X,X,X,X,2324,96,103684
+States,California,2014,50,X,2.57737,X,X,X,X,X,X,1151,159,44658
+States,District of Columbia,2014,50,X,9.75309,X,X,X,X,X,X,158,2,1620
+States,Florida,2014,50,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,50,X,1.64571,X,X,X,X,X,X,267,153,16224
+States,Texas,2014,50,X,8.96964,X,X,X,X,X,X,2414,101,26913
+States,New York City,2014,50,X,2.39186,X,X,X,X,X,X,2385,89,99713
+States,California,2014,51,X,2.90369,X,X,X,X,X,X,1171,152,40328
+States,District of Columbia,2014,51,X,12.9854,X,X,X,X,X,X,204,2,1571
+States,Florida,2014,51,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,51,X,2.65033,X,X,X,X,X,X,398,149,15017
+States,Texas,2014,51,X,12.9375,X,X,X,X,X,X,2595,83,20058
+States,New York City,2014,51,X,2.57445,X,X,X,X,X,X,2673,93,103828
+States,California,2014,52,X,4.47729,X,X,X,X,X,X,1048,151,23407
+States,District of Columbia,2014,52,X,13.6364,X,X,X,X,X,X,108,2,792
+States,Florida,2014,52,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,52,X,6.18794,X,X,X,X,X,X,592,150,9567
+States,Texas,2014,52,X,7.69326,X,X,X,X,X,X,1242,73,16144
+States,New York City,2014,52,X,3.29122,X,X,X,X,X,X,3079,91,93552
+States,California,2014,53,X,4.77128,X,X,X,X,X,X,1284,152,26911
+States,District of Columbia,2014,53,X,14.8148,X,X,X,X,X,X,68,2,459
+States,Florida,2014,53,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2014,53,X,4.54991,X,X,X,X,X,X,418,147,9187
+States,Texas,2014,53,X,11.3225,X,X,X,X,X,X,1684,80,14873
+States,New York City,2014,53,X,3.4571,X,X,X,X,X,X,3269,66,94559
+States,California,2015,1,X,3.99683,X,X,X,X,X,X,1865,157,46662
+States,District of Columbia,2015,1,X,12.6485,X,X,X,X,X,X,181,2,1431
+States,Florida,2015,1,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,1,X,4.20694,X,X,X,X,X,X,370,84,8795
+States,Texas,2015,1,X,9.06724,X,X,X,X,X,X,1776,84,19587
+States,New York City,2015,1,X,2.97957,X,X,X,X,X,X,3029,93,101659
+States,California,2015,2,X,4.33141,X,X,X,X,X,X,2065,152,47675
+States,District of Columbia,2015,2,X,10.8407,X,X,X,X,X,X,196,2,1808
+States,Florida,2015,2,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,2,X,5.391,X,X,X,X,X,X,526,86,9757
+States,Texas,2015,2,X,9.74748,X,X,X,X,X,X,2675,97,27443
+States,New York City,2015,2,X,3.23343,X,X,X,X,X,X,3364,92,104038
+States,California,2015,3,X,4.88005,X,X,X,X,X,X,2140,152,43852
+States,District of Columbia,2015,3,X,6.64606,X,X,X,X,X,X,86,2,1294
+States,Florida,2015,3,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,3,X,5.58831,X,X,X,X,X,X,635,82,11363
+States,Texas,2015,3,X,7.17791,X,X,X,X,X,X,2984,99,41572
+States,New York City,2015,3,X,3.53847,X,X,X,X,X,X,3861,94,109115
+States,California,2015,4,X,5.01063,X,X,X,X,X,X,2452,155,48936
+States,District of Columbia,2015,4,X,8.43223,X,X,X,X,X,X,135,2,1601
+States,Florida,2015,4,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,4,X,6.32707,X,X,X,X,X,X,744,85,11759
+States,Texas,2015,4,X,6.20728,X,X,X,X,X,X,2652,103,42724
+States,New York City,2015,4,X,3.17927,X,X,X,X,X,X,2982,83,93795
+States,California,2015,5,X,4.505,X,X,X,X,X,X,2192,144,48657
+States,District of Columbia,2015,5,X,10.2489,X,X,X,X,X,X,140,2,1366
+States,Florida,2015,5,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,5,X,6.69472,X,X,X,X,X,X,700,80,10456
+States,Texas,2015,5,X,5.65253,X,X,X,X,X,X,2351,102,41592
+States,New York City,2015,5,X,2.99822,X,X,X,X,X,X,2903,93,96824
+States,California,2015,6,X,4.0094,X,X,X,X,X,X,1774,141,44246
+States,District of Columbia,2015,6,X,6.7302,X,X,X,X,X,X,113,2,1679
+States,Florida,2015,6,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,6,X,5.70743,X,X,X,X,X,X,666,82,11669
+States,Texas,2015,6,X,5.05952,X,X,X,X,X,X,2104,102,41585
+States,New York City,2015,6,X,2.65508,X,X,X,X,X,X,2587,86,97436
+States,California,2015,7,X,3.44632,X,X,X,X,X,X,1396,147,40507
+States,District of Columbia,2015,7,X,6.72269,X,X,X,X,X,X,64,2,952
+States,Florida,2015,7,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,7,X,4.02477,X,X,X,X,X,X,403,79,10013
+States,Texas,2015,7,X,4.73512,X,X,X,X,X,X,1953,101,41245
+States,New York City,2015,7,X,2.14247,X,X,X,X,X,X,1899,80,88636
+States,California,2015,8,X,3.17311,X,X,X,X,X,X,1488,149,46894
+States,District of Columbia,2015,8,X,5.82294,X,X,X,X,X,X,98,2,1683
+States,Florida,2015,8,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,8,X,2.72662,X,X,X,X,X,X,305,82,11186
+States,Texas,2015,8,X,4.00071,X,X,X,X,X,X,1580,104,39493
+States,New York City,2015,8,X,1.85326,X,X,X,X,X,X,1849,95,99770
+States,California,2015,9,X,3.07302,X,X,X,X,X,X,1369,148,44549
+States,District of Columbia,2015,9,X,5.53977,X,X,X,X,X,X,78,2,1408
+States,Florida,2015,9,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,9,X,2.51903,X,X,X,X,X,X,278,83,11036
+States,Texas,2015,9,X,4.28631,X,X,X,X,X,X,1751,104,40851
+States,New York City,2015,9,X,1.62769,X,X,X,X,X,X,1545,88,94920
+States,California,2015,10,X,3.17645,X,X,X,X,X,X,1472,142,46341
+States,District of Columbia,2015,10,X,7.28424,X,X,X,X,X,X,92,2,1263
+States,Florida,2015,10,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,10,X,1.8082,X,X,X,X,X,X,191,81,10563
+States,Texas,2015,10,X,4.17538,X,X,X,X,X,X,1577,104,37769
+States,New York City,2015,10,X,1.72961,X,X,X,X,X,X,1788,93,103376
+States,California,2015,11,X,2.9528,X,X,X,X,X,X,1278,138,43281
+States,District of Columbia,2015,11,X,5.33507,X,X,X,X,X,X,82,2,1537
+States,Florida,2015,11,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,11,X,2.28283,X,X,X,X,X,X,226,77,9900
+States,Texas,2015,11,X,3.60072,X,X,X,X,X,X,1374,106,38159
+States,New York City,2015,11,X,1.75095,X,X,X,X,X,X,1697,93,96919
+States,California,2015,12,X,2.65624,X,X,X,X,X,X,1097,137,41299
+States,District of Columbia,2015,12,X,5.54156,X,X,X,X,X,X,88,2,1588
+States,Florida,2015,12,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,12,X,2.15005,X,X,X,X,X,X,237,81,11023
+States,Texas,2015,12,X,3.35832,X,X,X,X,X,X,1362,104,40556
+States,New York City,2015,12,X,1.90063,X,X,X,X,X,X,1887,91,99283
+States,California,2015,13,X,2.655,X,X,X,X,X,X,1050,138,39548
+States,District of Columbia,2015,13,X,6.58328,X,X,X,X,X,X,100,2,1519
+States,Florida,2015,13,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,13,X,2.7072,X,X,X,X,X,X,244,79,9013
+States,Texas,2015,13,X,3.18727,X,X,X,X,X,X,1182,96,37085
+States,New York City,2015,13,X,1.84952,X,X,X,X,X,X,1810,83,97863
+States,California,2015,14,X,2.39851,X,X,X,X,X,X,950,139,39608
+States,District of Columbia,2015,14,X,4.45092,X,X,X,X,X,X,107,2,2404
+States,Florida,2015,14,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,14,X,2.46135,X,X,X,X,X,X,199,78,8085
+States,Texas,2015,14,X,2.63374,X,X,X,X,X,X,1024,95,38880
+States,New York City,2015,14,X,1.67838,X,X,X,X,X,X,1631,89,97177
+States,California,2015,15,X,2.11801,X,X,X,X,X,X,906,139,42776
+States,District of Columbia,2015,15,X,4.66667,X,X,X,X,X,X,70,2,1500
+States,Florida,2015,15,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,15,X,1.91507,X,X,X,X,X,X,184,77,9608
+States,Texas,2015,15,X,2.74126,X,X,X,X,X,X,1051,95,38340
+States,New York City,2015,15,X,1.41306,X,X,X,X,X,X,1438,87,101765
+States,California,2015,16,X,2.13528,X,X,X,X,X,X,858,125,40182
+States,District of Columbia,2015,16,X,4.90358,X,X,X,X,X,X,89,2,1815
+States,Florida,2015,16,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,16,X,1.4716,X,X,X,X,X,X,150,75,10193
+States,Texas,2015,16,X,1.67388,X,X,X,X,X,X,654,97,39071
+States,New York City,2015,16,X,1.47683,X,X,X,X,X,X,1454,83,98454
+States,California,2015,17,X,2.14816,X,X,X,X,X,X,912,129,42455
+States,District of Columbia,2015,17,X,5.77689,X,X,X,X,X,X,87,2,1506
+States,Florida,2015,17,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,17,X,1.58698,X,X,X,X,X,X,155,74,9767
+States,Texas,2015,17,X,2.65661,X,X,X,X,X,X,1000,94,37642
+States,New York City,2015,17,X,1.47229,X,X,X,X,X,X,1466,84,99573
+States,California,2015,18,X,2.22859,X,X,X,X,X,X,910,125,40833
+States,District of Columbia,2015,18,X,5.03401,X,X,X,X,X,X,74,2,1470
+States,Florida,2015,18,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,18,X,1.8077,X,X,X,X,X,X,185,73,10234
+States,Texas,2015,18,X,2.39644,X,X,X,X,X,X,895,94,37347
+States,New York City,2015,18,X,1.58144,X,X,X,X,X,X,1697,85,107307
+States,California,2015,19,X,2.26505,X,X,X,X,X,X,905,125,39955
+States,District of Columbia,2015,19,X,5.25909,X,X,X,X,X,X,68,2,1293
+States,Florida,2015,19,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,19,X,1.18835,X,X,X,X,X,X,113,71,9509
+States,Texas,2015,19,X,2.3067,X,X,X,X,X,X,821,95,35592
+States,New York City,2015,19,X,1.50672,X,X,X,X,X,X,1586,84,105262
+States,California,2015,20,X,2.10943,X,X,X,X,X,X,768,123,36408
+States,District of Columbia,2015,20,X,6.64305,X,X,X,X,X,X,75,2,1129
+States,Florida,2015,20,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,20,X,1.3621,X,X,X,X,X,X,101,66,7415
+States,Texas,2015,20,X,2.3767,X,X,X,X,X,X,838,94,35259
+States,New York City,2015,20,X,1.60494,X,X,X,X,X,X,1616,85,100689
+States,California,2015,21,X,2.07654,X,X,X,X,X,X,643,120,30965
+States,District of Columbia,2015,21,X,7.95148,X,X,X,X,X,X,59,1,742
+States,Florida,2015,21,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,21,X,1.64894,X,X,X,X,X,X,93,64,5640
+States,Texas,2015,21,X,2.15255,X,X,X,X,X,X,620,84,28803
+States,New York City,2015,21,X,1.55348,X,X,X,X,X,X,1483,73,95463
+States,California,2015,22,X,2.17739,X,X,X,X,X,X,680,98,31230
+States,District of Columbia,2015,22,X,8.86076,X,X,X,X,X,X,35,1,395
+States,Florida,2015,22,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,22,X,1.80865,X,X,X,X,X,X,107,62,5916
+States,Texas,2015,22,X,2.59259,X,X,X,X,X,X,490,80,18900
+States,New York City,2015,22,X,1.3896,X,X,X,X,X,X,1330,83,95711
+States,California,2015,23,X,1.96065,X,X,X,X,X,X,576,100,29378
+States,District of Columbia,2015,23,X,7.70053,X,X,X,X,X,X,72,1,935
+States,Florida,2015,23,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,23,X,1.2451,X,X,X,X,X,X,73,60,5863
+States,Texas,2015,23,X,1.7597,X,X,X,X,X,X,546,81,31028
+States,New York City,2015,23,X,1.43984,X,X,X,X,X,X,1460,83,101400
+States,California,2015,24,X,1.86878,X,X,X,X,X,X,507,99,27130
+States,District of Columbia,2015,24,X,6.80174,X,X,X,X,X,X,47,1,691
+States,Florida,2015,24,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,24,X,0.441726,X,X,X,X,X,X,26,60,5886
+States,Texas,2015,24,X,1.75866,X,X,X,X,X,X,513,82,29170
+States,New York City,2015,24,X,1.19085,X,X,X,X,X,X,1187,80,99677
+States,California,2015,25,X,1.65902,X,X,X,X,X,X,459,97,27667
+States,District of Columbia,2015,25,X,7.2093,X,X,X,X,X,X,62,1,860
+States,Florida,2015,25,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,25,X,0.823114,X,X,X,X,X,X,49,61,5953
+States,Texas,2015,25,X,1.47285,X,X,X,X,X,X,450,84,30553
+States,New York City,2015,25,X,1.35141,X,X,X,X,X,X,1305,82,96566
+States,California,2015,26,X,1.64078,X,X,X,X,X,X,393,97,23952
+States,District of Columbia,2015,26,X,7.3913,X,X,X,X,X,X,51,1,690
+States,Florida,2015,26,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,26,X,1.23305,X,X,X,X,X,X,60,60,4866
+States,Texas,2015,26,X,1.58033,X,X,X,X,X,X,414,83,26197
+States,New York City,2015,26,X,1.26974,X,X,X,X,X,X,1146,80,90255
+States,California,2015,27,X,1.4891,X,X,X,X,X,X,420,96,28205
+States,District of Columbia,2015,27,X,5.58539,X,X,X,X,X,X,52,1,931
+States,Florida,2015,27,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,27,X,1.31579,X,X,X,X,X,X,71,60,5396
+States,Texas,2015,27,X,1.26985,X,X,X,X,X,X,383,85,30161
+States,New York City,2015,27,X,1.02627,X,X,X,X,X,X,1000,80,97440
+States,California,2015,28,X,1.27019,X,X,X,X,X,X,339,94,26689
+States,District of Columbia,2015,28,X,5.64617,X,X,X,X,X,X,45,1,797
+States,Florida,2015,28,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,28,X,1.17908,X,X,X,X,X,X,69,60,5852
+States,Texas,2015,28,X,1.29911,X,X,X,X,X,X,371,80,28558
+States,New York City,2015,28,X,1.00334,X,X,X,X,X,X,963,80,95979
+States,California,2015,29,X,1.07618,X,X,X,X,X,X,293,96,27226
+States,District of Columbia,2015,29,X,5.39906,X,X,X,X,X,X,46,1,852
+States,Florida,2015,29,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,29,X,0.900576,X,X,X,X,X,X,50,58,5552
+States,Texas,2015,29,X,1.28852,X,X,X,X,X,X,388,84,30112
+States,New York City,2015,29,X,0.983771,X,X,X,X,X,X,942,83,95754
+States,California,2015,30,X,1.07527,X,X,X,X,X,X,282,90,26226
+States,District of Columbia,2015,30,X,6.2422,X,X,X,X,X,X,50,1,801
+States,Florida,2015,30,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,30,X,1.36986,X,X,X,X,X,X,71,60,5183
+States,Texas,2015,30,X,1.0823,X,X,X,X,X,X,265,66,24485
+States,New York City,2015,30,X,1.10546,X,X,X,X,X,X,1069,83,96702
+States,California,2015,31,X,1.06028,X,X,X,X,X,X,283,93,26691
+States,District of Columbia,2015,31,0,0,X,X,X,X,X,X,0,0,0
+States,Florida,2015,31,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,31,X,1.50362,X,X,X,X,X,X,81,60,5387
+States,Texas,2015,31,X,1.12071,X,X,X,X,X,X,353,83,31498
+States,New York City,2015,31,X,1.16756,X,X,X,X,X,X,1148,82,98325
+States,California,2015,32,X,1.22321,X,X,X,X,X,X,351,103,28695
+States,District of Columbia,2015,32,0,0,X,X,X,X,X,X,0,0,0
+States,Florida,2015,32,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,32,X,1.48782,X,X,X,X,X,X,80,58,5377
+States,Texas,2015,32,X,1.14597,X,X,X,X,X,X,355,80,30978
+States,New York City,2015,32,X,1.0448,X,X,X,X,X,X,1015,79,97148
+States,California,2015,33,X,1.15595,X,X,X,X,X,X,350,98,30278
+States,District of Columbia,2015,33,0,0,X,X,X,X,X,X,0,0,0
+States,Florida,2015,33,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,33,X,0.839793,X,X,X,X,X,X,52,57,6192
+States,Texas,2015,33,X,1.58142,X,X,X,X,X,X,542,83,34273
+States,New York City,2015,33,X,1.01007,X,X,X,X,X,X,982,79,97221
+States,California,2015,34,X,1.30353,X,X,X,X,X,X,431,99,33064
+States,District of Columbia,2015,34,0,0,X,X,X,X,X,X,0,0,0
+States,Florida,2015,34,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,34,X,1.27684,X,X,X,X,X,X,88,56,6892
+States,Texas,2015,34,X,1.1363,X,X,X,X,X,X,402,83,35378
+States,New York City,2015,34,X,0.946831,X,X,X,X,X,X,918,79,96955
+States,California,2015,35,X,1.26281,X,X,X,X,X,X,419,97,33180
+States,District of Columbia,2015,35,0,0,X,X,X,X,X,X,0,0,0
+States,Florida,2015,35,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,35,X,0.708316,X,X,X,X,X,X,50,55,7059
+States,Texas,2015,35,X,1.52525,X,X,X,X,X,X,531,84,34814
+States,New York City,2015,35,X,0.941907,X,X,X,X,X,X,925,79,98205
+States,California,2015,36,X,0.909243,X,X,X,X,X,X,218,95,23976
+States,District of Columbia,2015,36,0,0,X,X,X,X,X,X,0,0,0
+States,Florida,2015,36,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,36,X,0.690934,X,X,X,X,X,X,41,55,5934
+States,Texas,2015,36,X,2.01858,X,X,X,X,X,X,578,79,28634
+States,New York City,2015,36,X,0.92019,X,X,X,X,X,X,872,77,94763
+States,California,2015,37,X,1.4079,X,X,X,X,X,X,471,100,33454
+States,District of Columbia,2015,37,0,0,X,X,X,X,X,X,0,0,0
+States,Florida,2015,37,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,37,X,1.23784,X,X,X,X,X,X,84,54,6786
+States,Texas,2015,37,X,1.8631,X,X,X,X,X,X,641,82,34405
+States,New York City,2015,37,X,1.12442,X,X,X,X,X,X,1130,80,100496
+States,California,2015,38,X,1.34636,X,X,X,X,X,X,463,97,34389
+States,District of Columbia,2015,38,0,0,X,X,X,X,X,X,0,0,0
+States,Florida,2015,38,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,38,X,1.01226,X,X,X,X,X,X,71,55,7014
+States,Texas,2015,38,X,2.09836,X,X,X,X,X,X,710,82,33836
+States,New York City,2015,38,X,1.26741,X,X,X,X,X,X,1281,86,101072
+States,California,2015,39,X,1.21246,X,X,X,X,X,X,348,87,28702
+States,District of Columbia,2015,39,0,0,X,X,X,X,X,X,0,0,0
+States,Florida,2015,39,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,39,X,0.426954,X,X,X,X,X,X,23,23,5387
+States,Texas,2015,39,X,2.17404,X,X,X,X,X,X,775,84,35648
+States,New York City,2015,39,X,1.23467,X,X,X,X,X,X,1179,78,95491
+States,California,2015,40,X,1.38064,X,X,X,X,X,X,558,125,40416
+States,District of Columbia,2015,40,0,0,X,X,X,X,X,X,0,0,0
+States,Florida,2015,40,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,40,X,0.588433,X,X,X,X,X,X,70,80,11896
+States,Texas,2015,40,X,3.1748,X,X,X,X,X,X,1016,126,32002
+States,New York City,2015,40,X,1.23738,X,X,X,X,X,X,1259,87,101747
+States,California,2015,41,X,1.5661,X,X,X,X,X,X,653,138,41696
+States,District of Columbia,2015,41,X,0.108932,X,X,X,X,X,X,1,1,918
+States,Florida,2015,41,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,41,X,0.557203,X,X,X,X,X,X,62,80,11127
+States,Texas,2015,41,X,3.42995,X,X,X,X,X,X,1084,124,31604
+States,New York City,2015,41,X,1.37565,X,X,X,X,X,X,1404,86,102061
+States,California,2015,42,X,1.50411,X,X,X,X,X,X,677,140,45010
+States,District of Columbia,2015,42,X,0.487805,X,X,X,X,X,X,4,1,820
+States,Florida,2015,42,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,42,X,0.85962,X,X,X,X,X,X,115,82,13378
+States,Texas,2015,42,X,3.63057,X,X,X,X,X,X,1162,122,32006
+States,New York City,2015,42,X,1.48518,X,X,X,X,X,X,1485,85,99988
+States,California,2015,43,X,1.61772,X,X,X,X,X,X,715,151,44198
+States,District of Columbia,2015,43,X,2.58663,X,X,X,X,X,X,53,1,2049
+States,Florida,2015,43,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,43,X,0.816171,X,X,X,X,X,X,107,83,13110
+States,Texas,2015,43,X,3.84937,X,X,X,X,X,X,1152,123,29927
+States,New York City,2015,43,X,1.45772,X,X,X,X,X,X,1426,91,97824
+States,California,2015,44,X,1.73589,X,X,X,X,X,X,800,157,46086
+States,District of Columbia,2015,44,X,5.83764,X,X,X,X,X,X,192,2,3289
+States,Florida,2015,44,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,44,X,0.655665,X,X,X,X,X,X,89,84,13574
+States,Texas,2015,44,X,3.47839,X,X,X,X,X,X,1143,126,32860
+States,New York City,2015,44,X,1.44121,X,X,X,X,X,X,1484,92,102969
+States,California,2015,45,X,1.80813,X,X,X,X,X,X,782,156,43249
+States,District of Columbia,2015,45,X,4.2378,X,X,X,X,X,X,139,2,3280
+States,Florida,2015,45,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,45,X,0.723665,X,X,X,X,X,X,97,85,13404
+States,Texas,2015,45,X,3.86243,X,X,X,X,X,X,1214,123,31431
+States,New York City,2015,45,X,1.50803,X,X,X,X,X,X,1507,90,99932
+States,California,2015,46,X,2.14097,X,X,X,X,X,X,996,157,46521
+States,District of Columbia,2015,46,X,6.85539,X,X,X,X,X,X,201,2,2932
+States,Florida,2015,46,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,46,X,1.18498,X,X,X,X,X,X,159,82,13418
+States,Texas,2015,46,X,3.96778,X,X,X,X,X,X,1266,123,31907
+States,New York City,2015,46,X,1.68278,X,X,X,X,X,X,1673,80,99419
+States,California,2015,47,X,2.39866,X,X,X,X,X,X,687,153,28641
+States,District of Columbia,2015,47,X,7.21118,X,X,X,X,X,X,98,2,1359
+States,Florida,2015,47,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,47,X,0.97867,X,X,X,X,X,X,78,83,7970
+States,Texas,2015,47,X,4.81392,X,X,X,X,X,X,1071,122,22248
+States,New York City,2015,47,X,1.78267,X,X,X,X,X,X,1619,80,90819
+States,California,2015,48,X,2.02273,X,X,X,X,X,X,936,152,46274
+States,District of Columbia,2015,48,X,5.67077,X,X,X,X,X,X,175,2,3086
+States,Florida,2015,48,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,48,X,1.1818,X,X,X,X,X,X,141,80,11931
+States,Texas,2015,48,X,4.43529,X,X,X,X,X,X,1411,122,31813
+States,New York City,2015,48,X,2.05034,X,X,X,X,X,X,2135,90,104129
+States,California,2015,49,X,2.07101,X,X,X,X,X,X,938,152,45292
+States,District of Columbia,2015,49,X,6.5342,X,X,X,X,X,X,171,2,2617
+States,Florida,2015,49,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,49,X,1.51335,X,X,X,X,X,X,178,77,11762
+States,Texas,2015,49,X,4.49576,X,X,X,X,X,X,1320,119,29361
+States,New York City,2015,49,X,2.2349,X,X,X,X,X,X,2334,88,104434
+States,California,2015,50,X,2.17017,X,X,X,X,X,X,856,149,39444
+States,District of Columbia,2015,50,X,6.71418,X,X,X,X,X,X,179,2,2666
+States,Florida,2015,50,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,50,X,1.25511,X,X,X,X,X,X,129,80,10278
+States,Texas,2015,50,X,4.67202,X,X,X,X,X,X,1391,121,29773
+States,New York City,2015,50,X,2.35569,X,X,X,X,X,X,2467,91,104725
+States,California,2015,51,X,2.91333,X,X,X,X,X,X,723,145,24817
+States,District of Columbia,2015,51,X,9.51359,X,X,X,X,X,X,133,2,1398
+States,Florida,2015,51,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,51,X,2.14651,X,X,X,X,X,X,126,80,5870
+States,Texas,2015,51,X,5.12797,X,X,X,X,X,X,1110,121,21646
+States,New York City,2015,51,X,2.72745,X,X,X,X,X,X,2520,92,92394
+States,California,2015,52,X,3.27722,X,X,X,X,X,X,806,139,24594
+States,District of Columbia,2015,52,X,8.20996,X,X,X,X,X,X,122,2,1486
+States,Florida,2015,52,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2015,52,X,1.97842,X,X,X,X,X,X,99,78,5004
+States,Texas,2015,52,X,5.70737,X,X,X,X,X,X,1274,120,22322
+States,New York City,2015,52,X,2.91514,X,X,X,X,X,X,2776,86,95227
+States,California,2016,1,X,2.5018,X,X,X,X,X,X,1077,153,43049
+States,District of Columbia,2016,1,X,9.30537,X,X,X,X,X,X,213,2,2289
+States,Florida,2016,1,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,1,X,1.15723,X,X,X,X,X,X,92,75,7950
+States,Texas,2016,1,X,4.68602,X,X,X,X,X,X,1282,120,27358
+States,New York City,2016,1,X,2.38171,X,X,X,X,X,X,2463,90,103413
+States,California,2016,2,X,2.47039,X,X,X,X,X,X,1043,143,42220
+States,District of Columbia,2016,2,X,6.23525,X,X,X,X,X,X,185,2,2967
+States,Florida,2016,2,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,2,X,2.56989,X,X,X,X,X,X,205,78,7977
+States,Texas,2016,2,X,4.16846,X,X,X,X,X,X,1164,121,27924
+States,New York City,2016,2,X,2.23068,X,X,X,X,X,X,2268,91,101673
+States,California,2016,3,X,2.68971,X,X,X,X,X,X,1097,138,40785
+States,District of Columbia,2016,3,X,4.66491,X,X,X,X,X,X,71,2,1522
+States,Florida,2016,3,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,3,X,1.90067,X,X,X,X,X,X,155,82,8155
+States,Texas,2016,3,X,4.36048,X,X,X,X,X,X,1318,123,30226
+States,New York City,2016,3,X,2.26008,X,X,X,X,X,X,2149,91,95085
+States,California,2016,4,X,2.83328,X,X,X,X,X,X,1347,148,47542
+States,District of Columbia,2016,4,X,5.86047,X,X,X,X,X,X,126,2,2150
+States,Florida,2016,4,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,4,X,1.6013,X,X,X,X,X,X,167,81,10429
+States,Texas,2016,4,X,4.96129,X,X,X,X,X,X,1551,122,31262
+States,New York City,2016,4,X,2.43412,X,X,X,X,X,X,2519,92,103487
+States,California,2016,5,X,3.28407,X,X,X,X,X,X,1600,152,48720
+States,District of Columbia,2016,5,X,5.19972,X,X,X,X,X,X,151,2,2904
+States,Florida,2016,5,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,5,X,1.7329,X,X,X,X,X,X,191,83,11022
+States,Texas,2016,5,X,4.89241,X,X,X,X,X,X,1512,123,30905
+States,New York City,2016,5,X,2.59917,X,X,X,X,X,X,2788,94,107265
+States,California,2016,6,X,3.91439,X,X,X,X,X,X,1882,146,48079
+States,District of Columbia,2016,6,X,5.65627,X,X,X,X,X,X,156,2,2758
+States,Florida,2016,6,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,6,X,2.71642,X,X,X,X,X,X,273,80,10050
+States,Texas,2016,6,X,5.62804,X,X,X,X,X,X,1816,122,32267
+States,New York City,2016,6,X,3.00798,X,X,X,X,X,X,3071,90,102095
+States,California,2016,7,X,4.39619,X,X,X,X,X,X,1893,139,43060
+States,District of Columbia,2016,7,X,5.99214,X,X,X,X,X,X,122,2,2036
+States,Florida,2016,7,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,7,X,1.76664,X,X,X,X,X,X,172,80,9736
+States,Texas,2016,7,X,6.36256,X,X,X,X,X,X,2035,120,31984
+States,New York City,2016,7,X,3.26483,X,X,X,X,X,X,3303,88,101169
+States,California,2016,8,X,3.73143,X,X,X,X,X,X,1859,147,49820
+States,District of Columbia,2016,8,X,7.911,X,X,X,X,X,X,192,2,2427
+States,Florida,2016,8,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,8,X,2.83297,X,X,X,X,X,X,288,79,10166
+States,Texas,2016,8,X,4.48169,X,X,X,X,X,X,1147,86,25593
+States,New York City,2016,8,X,3.18542,X,X,X,X,X,X,3450,82,108306
+States,California,2016,9,X,3.63724,X,X,X,X,X,X,1804,148,49598
+States,District of Columbia,2016,9,X,9.23582,X,X,X,X,X,X,197,2,2133
+States,Florida,2016,9,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,9,X,3.41463,X,X,X,X,X,X,357,80,10455
+States,Texas,2016,9,X,4.7195,X,X,X,X,X,X,1203,83,25490
+States,New York City,2016,9,X,3.45799,X,X,X,X,X,X,3767,90,108936
+States,California,2016,10,X,3.69442,X,X,X,X,X,X,1636,129,44283
+States,District of Columbia,2016,10,X,9.33902,X,X,X,X,X,X,219,2,2345
+States,Florida,2016,10,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,10,X,3.41609,X,X,X,X,X,X,366,79,10714
+States,Texas,2016,10,X,4.01485,X,X,X,X,X,X,941,81,23438
+States,New York City,2016,10,X,3.88275,X,X,X,X,X,X,4399,87,113296
+States,California,2016,11,X,3.19283,X,X,X,X,X,X,1293,125,40497
+States,District of Columbia,2016,11,X,9.6564,X,X,X,X,X,X,163,2,1688
+States,Florida,2016,11,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,11,X,3.80303,X,X,X,X,X,X,346,75,9098
+States,Texas,2016,11,X,3.73119,X,X,X,X,X,X,749,81,20074
+States,New York City,2016,11,X,3.28136,X,X,X,X,X,X,3508,90,106907
+States,California,2016,12,X,2.99262,X,X,X,X,X,X,1201,139,40132
+States,District of Columbia,2016,12,X,8.65231,X,X,X,X,X,X,217,2,2508
+States,Florida,2016,12,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,12,X,2.89463,X,X,X,X,X,X,278,72,9604
+States,Texas,2016,12,X,3.46318,X,X,X,X,X,X,777,81,22436
+States,New York City,2016,12,X,2.97008,X,X,X,X,X,X,3050,83,102691
+States,California,2016,13,X,2.80927,X,X,X,X,X,X,1053,131,37483
+States,District of Columbia,2016,13,X,8.34061,X,X,X,X,X,X,191,2,2290
+States,Florida,2016,13,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,13,X,1.59898,X,X,X,X,X,X,113,47,7067
+States,Texas,2016,13,X,3.2444,X,X,X,X,X,X,760,80,23425
+States,New York City,2016,13,X,2.6039,X,X,X,X,X,X,2654,84,101924
+States,California,2016,14,X,2.11652,X,X,X,X,X,X,938,139,44318
+States,District of Columbia,2016,14,X,5.93434,X,X,X,X,X,X,141,2,2376
+States,Florida,2016,14,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,14,X,1.35135,X,X,X,X,X,X,97,45,7178
+States,Texas,2016,14,X,2.83508,X,X,X,X,X,X,569,61,20070
+States,New York City,2016,14,X,2.16411,X,X,X,X,X,X,2122,87,98054
+States,California,2016,15,X,1.92403,X,X,X,X,X,X,855,133,44438
+States,District of Columbia,2016,15,X,5.66696,X,X,X,X,X,X,130,2,2294
+States,Florida,2016,15,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,15,X,1.53967,X,X,X,X,X,X,118,41,7664
+States,Texas,2016,15,X,3.25267,X,X,X,X,X,X,789,77,24257
+States,New York City,2016,15,X,2.22609,X,X,X,X,X,X,2236,88,100445
+States,California,2016,16,X,1.62852,X,X,X,X,X,X,710,128,43598
+States,District of Columbia,2016,16,X,5.81347,X,X,X,X,X,X,139,2,2391
+States,Florida,2016,16,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,16,X,1.09692,X,X,X,X,X,X,79,40,7202
+States,Texas,2016,16,X,3.57929,X,X,X,X,X,X,846,75,23636
+States,New York City,2016,16,X,2.21985,X,X,X,X,X,X,2248,89,101268
+States,California,2016,17,X,1.73597,X,X,X,X,X,X,711,123,40957
+States,District of Columbia,2016,17,X,4.69592,X,X,X,X,X,X,61,2,1299
+States,Florida,2016,17,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,17,X,1.0275,X,X,X,X,X,X,68,40,6618
+States,Texas,2016,17,X,3.0393,X,X,X,X,X,X,747,79,24578
+States,New York City,2016,17,X,1.90698,X,X,X,X,X,X,1816,76,95229
+States,California,2016,18,X,1.84902,X,X,X,X,X,X,726,115,39264
+States,District of Columbia,2016,18,X,9.14668,X,X,X,X,X,X,164,1,1793
+States,Florida,2016,18,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,18,X,0.858972,X,X,X,X,X,X,55,37,6403
+States,Texas,2016,18,X,2.74919,X,X,X,X,X,X,617,77,22443
+States,New York City,2016,18,X,1.54808,X,X,X,X,X,X,1491,88,96313
+States,California,2016,19,X,1.53059,X,X,X,X,X,X,586,109,38286
+States,District of Columbia,2016,19,X,7.1152,X,X,X,X,X,X,147,2,2066
+States,Florida,2016,19,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,19,X,0.552289,X,X,X,X,X,X,31,36,5613
+States,Texas,2016,19,X,2.30401,X,X,X,X,X,X,472,73,20486
+States,New York City,2016,19,X,1.5466,X,X,X,X,X,X,1532,89,99056
+States,California,2016,20,X,1.48681,X,X,X,X,X,X,527,102,35445
+States,District of Columbia,2016,20,X,8.3871,X,X,X,X,X,X,130,2,1550
+States,Florida,2016,20,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,20,X,0.529832,X,X,X,X,X,X,23,34,4341
+States,Texas,2016,20,X,2.35638,X,X,X,X,X,X,459,76,19479
+States,New York City,2016,20,X,1.42314,X,X,X,X,X,X,1415,87,99428
+States,California,2016,21,X,1.44399,X,X,X,X,X,X,515,99,35665
+States,District of Columbia,2016,21,X,9.15649,X,X,X,X,X,X,165,2,1802
+States,Florida,2016,21,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,21,X,0.327198,X,X,X,X,X,X,8,30,2445
+States,Texas,2016,21,X,2.78809,X,X,X,X,X,X,518,74,18579
+States,New York City,2016,21,X,1.41027,X,X,X,X,X,X,1277,45,90550
+States,California,2016,22,X,1.37865,X,X,X,X,X,X,417,105,30247
+States,District of Columbia,2016,22,X,9.33243,X,X,X,X,X,X,137,2,1468
+States,Florida,2016,22,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,22,X,0,X,X,X,X,X,X,0,32,1965
+States,Texas,2016,22,X,2.47401,X,X,X,X,X,X,395,72,15966
+States,New York City,2016,22,X,1.33189,X,X,X,X,X,X,1303,87,97831
+States,California,2016,23,X,1.36671,X,X,X,X,X,X,440,97,32194
+States,District of Columbia,2016,23,X,8.6386,X,X,X,X,X,X,158,2,1829
+States,Florida,2016,23,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,23,X,0,X,X,X,X,X,X,0,32,2372
+States,Texas,2016,23,X,1.99249,X,X,X,X,X,X,276,49,13852
+States,New York City,2016,23,X,1.28153,X,X,X,X,X,X,1284,85,100193
+States,California,2016,24,X,1.2644,X,X,X,X,X,X,395,102,31240
+States,District of Columbia,2016,24,X,7.15123,X,X,X,X,X,X,122,2,1706
+States,Florida,2016,24,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,24,X,0.0979912,X,X,X,X,X,X,2,30,2041
+States,Texas,2016,24,X,2.1005,X,X,X,X,X,X,362,69,17234
+States,New York City,2016,24,X,1.26197,X,X,X,X,X,X,1222,88,96833
+States,California,2016,25,X,1.15867,X,X,X,X,X,X,376,100,32451
+States,District of Columbia,2016,25,X,6.88259,X,X,X,X,X,X,119,2,1729
+States,Florida,2016,25,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,25,X,0.0453926,X,X,X,X,X,X,1,31,2203
+States,Texas,2016,25,X,1.87159,X,X,X,X,X,X,316,68,16884
+States,New York City,2016,25,X,1.20967,X,X,X,X,X,X,1224,86,101185
+States,California,2016,26,X,1.21986,X,X,X,X,X,X,381,96,31233
+States,District of Columbia,2016,26,X,5.40915,X,X,X,X,X,X,78,2,1442
+States,Florida,2016,26,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,26,X,0.0457247,X,X,X,X,X,X,1,31,2187
+States,Texas,2016,26,X,1.84575,X,X,X,X,X,X,297,65,16091
+States,New York City,2016,26,X,1.14689,X,X,X,X,X,X,1125,83,98091
+States,California,2016,27,X,1.14608,X,X,X,X,X,X,299,97,26089
+States,District of Columbia,2016,27,X,4.18195,X,X,X,X,X,X,57,2,1363
+States,Florida,2016,27,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,27,X,0,X,X,X,X,X,X,0,31,1800
+States,Texas,2016,27,X,1.66667,X,X,X,X,X,X,248,68,14880
+States,New York City,2016,27,X,1.01818,X,X,X,X,X,X,956,77,93893
+States,California,2016,28,X,1.04573,X,X,X,X,X,X,324,98,30983
+States,District of Columbia,2016,28,X,4.89039,X,X,X,X,X,X,87,2,1779
+States,Florida,2016,28,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,28,X,0.0838926,X,X,X,X,X,X,2,30,2384
+States,Texas,2016,28,X,1.55492,X,X,X,X,X,X,189,68,12155
+States,New York City,2016,28,X,0.93429,X,X,X,X,X,X,936,84,100183
+States,California,2016,29,X,0.904141,X,X,X,X,X,X,269,96,29752
+States,District of Columbia,2016,29,X,3.53874,X,X,X,X,X,X,58,2,1639
+States,Florida,2016,29,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,29,X,0,X,X,X,X,X,X,0,29,1968
+States,Texas,2016,29,X,1.42177,X,X,X,X,X,X,239,67,16810
+States,New York City,2016,29,X,1.12179,X,X,X,X,X,X,1118,81,99662
+States,California,2016,30,X,0.856349,X,X,X,X,X,X,262,96,30595
+States,District of Columbia,2016,30,X,4.47248,X,X,X,X,X,X,78,2,1744
+States,Florida,2016,30,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,30,X,0,X,X,X,X,X,X,0,30,2143
+States,Texas,2016,30,X,1.57115,X,X,X,X,X,X,261,67,16612
+States,New York City,2016,30,X,1.07888,X,X,X,X,X,X,1066,89,98806
+States,California,2016,31,X,0.85127,X,X,X,X,X,X,246,82,28898
+States,District of Columbia,2016,31,X,4.88677,X,X,X,X,X,X,82,2,1678
+States,Florida,2016,31,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,31,X,0.110742,X,X,X,X,X,X,2,26,1806
+States,Texas,2016,31,X,1.27404,X,X,X,X,X,X,216,67,16954
+States,New York City,2016,31,X,1.0713,X,X,X,X,X,X,1051,83,98105
+States,California,2016,32,X,0.896093,X,X,X,X,X,X,267,83,29796
+States,District of Columbia,2016,32,X,3.7961,X,X,X,X,X,X,70,2,1844
+States,Florida,2016,32,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,32,X,0,X,X,X,X,X,X,0,26,1638
+States,Texas,2016,32,X,1.30064,X,X,X,X,X,X,209,62,16069
+States,New York City,2016,32,X,1.02695,X,X,X,X,X,X,1016,82,98934
+States,California,2016,33,X,1.00994,X,X,X,X,X,X,310,83,30695
+States,District of Columbia,2016,33,X,2.42174,X,X,X,X,X,X,41,2,1693
+States,Florida,2016,33,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,33,X,0.182039,X,X,X,X,X,X,3,23,1648
+States,Texas,2016,33,X,1.31155,X,X,X,X,X,X,224,65,17079
+States,New York City,2016,33,X,0.974464,X,X,X,X,X,X,946,77,97079
+States,California,2016,34,X,1.04709,X,X,X,X,X,X,342,81,32662
+States,District of Columbia,2016,34,X,3.82536,X,X,X,X,X,X,92,2,2405
+States,Florida,2016,34,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,34,X,0.031506,X,X,X,X,X,X,1,21,3174
+States,Texas,2016,34,X,1.76582,X,X,X,X,X,X,336,66,19028
+States,New York City,2016,34,X,1.10199,X,X,X,X,X,X,1074,79,97460
+States,California,2016,35,X,1.30993,X,X,X,X,X,X,447,82,34124
+States,District of Columbia,2016,35,X,3.76569,X,X,X,X,X,X,90,2,2390
+States,Florida,2016,35,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,35,X,0,X,X,X,X,X,X,0,24,4301
+States,Texas,2016,35,X,2.89706,X,X,X,X,X,X,423,64,14601
+States,New York City,2016,35,X,1.01484,X,X,X,X,X,X,1003,82,98833
+States,California,2016,36,X,1.36273,X,X,X,X,X,X,398,81,29206
+States,District of Columbia,2016,36,X,4.79317,X,X,X,X,X,X,73,2,1523
+States,Florida,2016,36,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,36,X,0.0777605,X,X,X,X,X,X,3,24,3858
+States,Texas,2016,36,X,3.0076,X,X,X,X,X,X,534,63,17755
+States,New York City,2016,36,X,0.925212,X,X,X,X,X,X,900,79,97275
+States,California,2016,37,X,1.71708,X,X,X,X,X,X,604,86,35176
+States,District of Columbia,2016,37,X,5.33927,X,X,X,X,X,X,144,2,2697
+States,Florida,2016,37,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,37,X,0.183486,X,X,X,X,X,X,9,24,4905
+States,Texas,2016,37,X,2.60465,X,X,X,X,X,X,509,61,19542
+States,New York City,2016,37,X,1.01259,X,X,X,X,X,X,1036,78,102312
+States,California,2016,38,X,1.78398,X,X,X,X,X,X,624,88,34978
+States,District of Columbia,2016,38,X,5.09926,X,X,X,X,X,X,131,2,2569
+States,Florida,2016,38,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,38,X,0.0412967,X,X,X,X,X,X,2,24,4843
+States,Texas,2016,38,X,2.57309,X,X,X,X,X,X,367,60,14263
+States,New York City,2016,38,X,1.32314,X,X,X,X,X,X,1383,78,104524
+States,California,2016,39,X,1.65703,X,X,X,X,X,X,636,95,38382
+States,District of Columbia,2016,39,X,4.59265,X,X,X,X,X,X,115,2,2504
+States,Florida,2016,39,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,39,X,0.164406,X,X,X,X,X,X,8,25,4866
+States,Texas,2016,39,X,2.75084,X,X,X,X,X,X,400,60,14541
+States,New York City,2016,39,X,1.48174,X,X,X,X,X,X,1456,81,98263
+States,California,2016,40,X,1.25288,X,X,X,X,X,X,668,129,53317
+States,District of Columbia,2016,40,X,5.52486,X,X,X,X,X,X,160,2,2896
+States,Florida,2016,40,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,40,X,0.725918,X,X,X,X,X,X,115,66,15842
+States,Texas,2016,40,X,2.08692,X,X,X,X,X,X,654,120,31338
+States,New York City,2016,40,X,1.52094,X,X,X,X,X,X,1504,78,98886
+States,California,2016,41,X,1.39291,X,X,X,X,X,X,760,134,54562
+States,District of Columbia,2016,41,X,4.954,X,X,X,X,X,X,140,2,2826
+States,Florida,2016,41,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,41,X,0.945864,X,X,X,X,X,X,141,64,14907
+States,Texas,2016,41,X,1.95234,X,X,X,X,X,X,571,117,29247
+States,New York City,2016,41,X,1.50792,X,X,X,X,X,X,1491,75,98878
+States,California,2016,42,X,1.51631,X,X,X,X,X,X,812,131,53551
+States,District of Columbia,2016,42,X,5.25217,X,X,X,X,X,X,151,2,2875
+States,Florida,2016,42,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,42,X,1.10167,X,X,X,X,X,X,175,65,15885
+States,Texas,2016,42,X,1.84806,X,X,X,X,X,X,541,114,29274
+States,New York City,2016,42,X,1.61301,X,X,X,X,X,X,1659,78,102851
+States,California,2016,43,X,1.52383,X,X,X,X,X,X,833,130,54665
+States,District of Columbia,2016,43,X,5.56901,X,X,X,X,X,X,161,2,2891
+States,Florida,2016,43,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,43,X,0.898849,X,X,X,X,X,X,146,67,16243
+States,Texas,2016,43,X,2.06247,X,X,X,X,X,X,589,114,28558
+States,New York City,2016,43,X,1.66295,X,X,X,X,X,X,1627,82,97838
+States,California,2016,44,X,1.57619,X,X,X,X,X,X,849,132,53864
+States,District of Columbia,2016,44,X,4.80318,X,X,X,X,X,X,133,2,2769
+States,Florida,2016,44,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,44,X,0.918,X,X,X,X,X,X,148,71,16122
+States,Texas,2016,44,X,2.01191,X,X,X,X,X,X,581,112,28878
+States,New York City,2016,44,X,1.90913,X,X,X,X,X,X,1929,79,101041
+States,California,2016,45,X,1.74694,X,X,X,X,X,X,942,136,53923
+States,District of Columbia,2016,45,X,5.06375,X,X,X,X,X,X,139,2,2745
+States,Florida,2016,45,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,45,X,1.22738,X,X,X,X,X,X,194,69,15806
+States,Texas,2016,45,X,2.08512,X,X,X,X,X,X,607,116,29111
+States,New York City,2016,45,X,2.06473,X,X,X,X,X,X,2044,78,98996
+States,California,2016,46,X,1.7768,X,X,X,X,X,X,993,133,55887
+States,District of Columbia,2016,46,X,5.50796,X,X,X,X,X,X,135,2,2451
+States,Florida,2016,46,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,46,X,1.12103,X,X,X,X,X,X,182,70,16235
+States,Texas,2016,46,X,2.24903,X,X,X,X,X,X,673,116,29924
+States,New York City,2016,46,X,2.09269,X,X,X,X,X,X,2143,76,102404
+States,California,2016,47,X,2.14459,X,X,X,X,X,X,865,133,40334
+States,District of Columbia,2016,47,X,6.54804,X,X,X,X,X,X,92,2,1405
+States,Florida,2016,47,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,47,X,1.74806,X,X,X,X,X,X,194,72,11098
+States,Texas,2016,47,X,2.59299,X,X,X,X,X,X,550,114,21211
+States,New York City,2016,47,X,2.40664,X,X,X,X,X,X,2124,80,88256
+States,California,2016,48,X,2.00773,X,X,X,X,X,X,1091,132,54340
+States,District of Columbia,2016,48,X,6.7311,X,X,X,X,X,X,195,2,2897
+States,Florida,2016,48,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,48,X,1.62637,X,X,X,X,X,X,261,71,16048
+States,Texas,2016,48,X,2.49507,X,X,X,X,X,X,696,112,27895
+States,New York City,2016,48,X,2.40428,X,X,X,X,X,X,2464,70,102484
+States,California,2016,49,X,2.07484,X,X,X,X,X,X,1114,133,53691
+States,District of Columbia,2016,49,X,5.18868,X,X,X,X,X,X,154,2,2968
+States,Florida,2016,49,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,49,X,1.45618,X,X,X,X,X,X,223,70,15314
+States,Texas,2016,49,X,3.06871,X,X,X,X,X,X,816,113,26591
+States,New York City,2016,49,X,2.66627,X,X,X,X,X,X,2779,83,104228
+States,California,2016,50,X,2.37525,X,X,X,X,X,X,1190,124,50100
+States,District of Columbia,2016,50,X,7.7642,X,X,X,X,X,X,216,2,2782
+States,Florida,2016,50,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,50,X,1.47612,X,X,X,X,X,X,208,69,14091
+States,Texas,2016,50,X,3.41272,X,X,X,X,X,X,887,111,25991
+States,New York City,2016,50,X,2.99057,X,X,X,X,X,X,3020,81,100984
+States,California,2016,51,X,2.87829,X,X,X,X,X,X,1233,122,42838
+States,District of Columbia,2016,51,X,8.41715,X,X,X,X,X,X,159,2,1889
+States,Florida,2016,51,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,51,X,3.14039,X,X,X,X,X,X,389,68,12387
+States,Texas,2016,51,X,4.10321,X,X,X,X,X,X,951,108,23177
+States,New York City,2016,51,X,3.70624,X,X,X,X,X,X,3896,86,105120
+States,California,2016,52,X,3.52608,X,X,X,X,X,X,1419,128,40243
+States,District of Columbia,2016,52,X,8.3007,X,X,X,X,X,X,106,2,1277
+States,Florida,2016,52,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2016,52,X,5.42753,X,X,X,X,X,X,537,64,9894
+States,Texas,2016,52,X,4.32471,X,X,X,X,X,X,960,109,22198
+States,New York City,2016,52,X,4.75291,X,X,X,X,X,X,4859,65,102232
+States,California,2017,1,X,3.2667,X,X,X,X,X,X,1559,133,47724
+States,District of Columbia,2017,1,X,7.84964,X,X,X,X,X,X,142,2,1809
+States,Florida,2017,1,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,1,X,5.17272,X,X,X,X,X,X,584,65,11290
+States,Texas,2017,1,X,4.19085,X,X,X,X,X,X,1076,113,25675
+States,New York City,2017,1,X,3.58987,X,X,X,X,X,X,3776,73,105185
+States,California,2017,2,X,2.9995,X,X,X,X,X,X,1490,129,49675
+States,District of Columbia,2017,2,X,8.478,X,X,X,X,X,X,210,2,2477
+States,Florida,2017,2,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,2,X,5.93932,X,X,X,X,X,X,736,67,12392
+States,Texas,2017,2,X,5.06267,X,X,X,X,X,X,1450,112,28641
+States,New York City,2017,2,X,3.64388,X,X,X,X,X,X,3774,72,103571
+States,California,2017,3,X,2.77799,X,X,X,X,X,X,1441,129,51872
+States,District of Columbia,2017,3,X,4.99426,X,X,X,X,X,X,87,2,1742
+States,Florida,2017,3,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,3,X,6.78861,X,X,X,X,X,X,913,68,13449
+States,Texas,2017,3,X,5.47691,X,X,X,X,X,X,1563,112,28538
+States,New York City,2017,3,X,4.0849,X,X,X,X,X,X,4359,78,106710
+States,California,2017,4,X,3.11572,X,X,X,X,X,X,1700,129,54562
+States,District of Columbia,2017,4,X,7.38916,X,X,X,X,X,X,195,2,2639
+States,Florida,2017,4,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,4,X,7.54014,X,X,X,X,X,X,1174,69,15570
+States,Texas,2017,4,X,6.20619,X,X,X,X,X,X,1868,109,30099
+States,New York City,2017,4,X,3.86655,X,X,X,X,X,X,4091,86,105805
+States,California,2017,5,X,3.19202,X,X,X,X,X,X,1667,121,52224
+States,District of Columbia,2017,5,X,8.94928,X,X,X,X,X,X,247,2,2760
+States,Florida,2017,5,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,5,X,8.68115,X,X,X,X,X,X,1431,69,16484
+States,Texas,2017,5,X,8.48188,X,X,X,X,X,X,2774,112,32705
+States,New York City,2017,5,X,3.75647,X,X,X,X,X,X,3892,88,103608
+States,California,2017,6,X,2.69419,X,X,X,X,X,X,1395,118,51778
+States,District of Columbia,2017,6,X,9.39163,X,X,X,X,X,X,247,2,2630
+States,Florida,2017,6,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,6,X,9.81455,X,X,X,X,X,X,1466,68,14937
+States,Texas,2017,6,X,10.2826,X,X,X,X,X,X,3508,113,34116
+States,New York City,2017,6,X,3.73489,X,X,X,X,X,X,3744,84,100244
+States,California,2017,7,X,2.52341,X,X,X,X,X,X,1245,113,49338
+States,District of Columbia,2017,7,X,8.46287,X,X,X,X,X,X,196,2,2316
+States,Florida,2017,7,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,7,X,8.27769,X,X,X,X,X,X,1153,66,13929
+States,Texas,2017,7,X,9.2512,X,X,X,X,X,X,2592,90,28018
+States,New York City,2017,7,X,2.99254,X,X,X,X,X,X,3016,76,100784
+States,California,2017,8,X,2.38854,X,X,X,X,X,X,1080,107,45216
+States,District of Columbia,2017,8,X,7.23746,X,X,X,X,X,X,153,2,2114
+States,Florida,2017,8,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,8,X,6.33198,X,X,X,X,X,X,811,67,12808
+States,Texas,2017,8,X,8.99901,X,X,X,X,X,X,2635,106,29281
+States,New York City,2017,8,X,2.68279,X,X,X,X,X,X,2655,75,98964
+States,California,2017,9,X,2.14593,X,X,X,X,X,X,1082,112,50421
+States,District of Columbia,2017,9,X,7.39146,X,X,X,X,X,X,206,2,2787
+States,Florida,2017,9,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,9,X,2.9721,X,X,X,X,X,X,407,67,13694
+States,Texas,2017,9,X,7.50649,X,X,X,X,X,X,2256,107,30054
+States,New York City,2017,9,X,2.17591,X,X,X,X,X,X,2157,83,99131
+States,California,2017,10,X,2.17089,X,X,X,X,X,X,1091,111,50256
+States,District of Columbia,2017,10,X,8.17884,X,X,X,X,X,X,225,2,2751
+States,Florida,2017,10,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,10,X,3.20508,X,X,X,X,X,X,419,66,13073
+States,Texas,2017,10,X,7.26928,X,X,X,X,X,X,2107,105,28985
+States,New York City,2017,10,X,1.90741,X,X,X,X,X,X,1829,71,95889
+States,California,2017,11,X,2.33598,X,X,X,X,X,X,1155,112,49444
+States,District of Columbia,2017,11,X,9.05088,X,X,X,X,X,X,185,2,2044
+States,Florida,2017,11,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,11,X,3.91216,X,X,X,X,X,X,383,64,9790
+States,Texas,2017,11,X,5.85242,X,X,X,X,X,X,1403,104,23973
+States,New York City,2017,11,X,2.07658,X,X,X,X,X,X,1890,80,91015
+States,California,2017,12,X,1.95979,X,X,X,X,X,X,925,104,47199
+States,District of Columbia,2017,12,X,7.8258,X,X,X,X,X,X,239,2,3054
+States,Florida,2017,12,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,12,X,3.57547,X,X,X,X,X,X,505,68,14124
+States,Texas,2017,12,X,4.48645,X,X,X,X,X,X,1258,104,28040
+States,New York City,2017,12,X,2.09783,X,X,X,X,X,X,2185,83,104155
+States,California,2017,13,X,1.96521,X,X,X,X,X,X,845,102,42998
+States,District of Columbia,2017,13,X,7.14286,X,X,X,X,X,X,207,2,2898
+States,Florida,2017,13,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,13,X,4.58545,X,X,X,X,X,X,568,66,12387
+States,Texas,2017,13,X,4.00722,X,X,X,X,X,X,1065,101,26577
+States,New York City,2017,13,X,2.50397,X,X,X,X,X,X,2602,84,103915
+States,California,2017,14,X,1.73982,X,X,X,X,X,X,809,104,46499
+States,District of Columbia,2017,14,X,6.73207,X,X,X,X,X,X,199,2,2956
+States,Florida,2017,14,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,14,X,4.82565,X,X,X,X,X,X,584,62,12102
+States,Texas,2017,14,X,3.50145,X,X,X,X,X,X,906,101,25875
+States,New York City,2017,14,X,2.43152,X,X,X,X,X,X,2569,81,105654
+States,California,2017,15,X,1.59589,X,X,X,X,X,X,746,103,46745
+States,District of Columbia,2017,15,X,0.15674,X,X,X,X,X,X,1,1,638
+States,Florida,2017,15,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,15,X,3.25149,X,X,X,X,X,X,343,58,10549
+States,Texas,2017,15,X,3.41597,X,X,X,X,X,X,835,99,24444
+States,New York City,2017,15,X,2.19451,X,X,X,X,X,X,2189,79,99749
+States,California,2017,16,X,1.62994,X,X,X,X,X,X,776,103,47609
+States,District of Columbia,2017,16,X,4.52506,X,X,X,X,X,X,121,2,2674
+States,Florida,2017,16,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,16,X,1.9606,X,X,X,X,X,X,209,56,10660
+States,Texas,2017,16,X,3.39009,X,X,X,X,X,X,665,83,19616
+States,New York City,2017,16,X,1.76737,X,X,X,X,X,X,1801,81,101903
+States,California,2017,17,X,1.6618,X,X,X,X,X,X,797,103,47960
+States,District of Columbia,2017,17,X,0,X,X,X,X,X,X,0,1,557
+States,Florida,2017,17,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,17,X,1.9738,X,X,X,X,X,X,217,57,10994
+States,Texas,2017,17,X,2.76932,X,X,X,X,X,X,755,101,27263
+States,New York City,2017,17,X,1.58041,X,X,X,X,X,X,1626,82,102885
+States,California,2017,18,X,1.46371,X,X,X,X,X,X,660,92,45091
+States,District of Columbia,2017,18,X,4.68417,X,X,X,X,X,X,132,2,2818
+States,Florida,2017,18,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,18,X,1.96009,X,X,X,X,X,X,221,56,11275
+States,Texas,2017,18,X,2.62245,X,X,X,X,X,X,665,97,25358
+States,New York City,2017,18,X,1.49119,X,X,X,X,X,X,1558,80,104480
+States,California,2017,19,X,1.43326,X,X,X,X,X,X,629,95,43886
+States,District of Columbia,2017,19,X,3.6162,X,X,X,X,X,X,75,2,2074
+States,Florida,2017,19,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,19,X,1.4525,X,X,X,X,X,X,163,55,11222
+States,Texas,2017,19,X,1.72152,X,X,X,X,X,X,419,98,24339
+States,New York City,2017,19,X,1.69646,X,X,X,X,X,X,1773,82,104512
+States,California,2017,20,X,1.4245,X,X,X,X,X,X,640,96,44928
+States,District of Columbia,2017,20,X,0,X,X,X,X,X,X,0,1,289
+States,Florida,2017,20,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,20,X,1.47045,X,X,X,X,X,X,154,54,10473
+States,Texas,2017,20,X,2.30259,X,X,X,X,X,X,552,98,23973
+States,New York City,2017,20,X,1.74635,X,X,X,X,X,X,1827,80,104618
+States,California,2017,21,X,1.39117,X,X,X,X,X,X,551,85,39607
+States,District of Columbia,2017,21,X,5.7554,X,X,X,X,X,X,152,2,2641
+States,Florida,2017,21,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,21,X,1.64255,X,X,X,X,X,X,143,44,8706
+States,Texas,2017,21,X,2.14023,X,X,X,X,X,X,471,94,22007
+States,New York City,2017,21,X,1.46691,X,X,X,X,X,X,1461,73,99597
+States,California,2017,22,X,1.39993,X,X,X,X,X,X,449,75,32073
+States,District of Columbia,2017,22,X,4.49556,X,X,X,X,X,X,86,2,1913
+States,Florida,2017,22,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,22,X,1.66997,X,X,X,X,X,X,101,43,6048
+States,Texas,2017,22,X,1.79865,X,X,X,X,X,X,360,93,20015
+States,New York City,2017,22,X,1.60678,X,X,X,X,X,X,1569,83,97649
+States,California,2017,23,X,1.6159,X,X,X,X,X,X,608,81,37626
+States,District of Columbia,2017,23,X,5.08685,X,X,X,X,X,X,123,2,2418
+States,Florida,2017,23,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,23,X,1.43437,X,X,X,X,X,X,106,42,7390
+States,Texas,2017,23,X,1.79529,X,X,X,X,X,X,385,96,21445
+States,New York City,2017,23,X,1.7015,X,X,X,X,X,X,1716,81,100852
+States,California,2017,24,X,1.2838,X,X,X,X,X,X,470,75,36610
+States,District of Columbia,2017,24,X,0,X,X,X,X,X,X,0,1,159
+States,Florida,2017,24,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,24,X,1.36968,X,X,X,X,X,X,104,43,7593
+States,Texas,2017,24,X,1.57771,X,X,X,X,X,X,329,95,20853
+States,New York City,2017,24,X,1.40884,X,X,X,X,X,X,1423,77,101005
+States,California,2017,25,X,1.25237,X,X,X,X,X,X,463,77,36970
+States,District of Columbia,2017,25,X,5.97222,X,X,X,X,X,X,129,2,2160
+States,Florida,2017,25,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,25,X,1.38908,X,X,X,X,X,X,100,42,7199
+States,Texas,2017,25,X,1.50002,X,X,X,X,X,X,302,92,20133
+States,New York City,2017,25,X,1.32519,X,X,X,X,X,X,1306,52,98552
+States,California,2017,26,X,1.39657,X,X,X,X,X,X,470,75,33654
+States,District of Columbia,2017,26,X,4.11423,X,X,X,X,X,X,85,2,2066
+States,Florida,2017,26,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,26,X,1.18149,X,X,X,X,X,X,83,43,7025
+States,Texas,2017,26,X,1.52211,X,X,X,X,X,X,252,78,16556
+States,New York City,2017,26,X,1.33116,X,X,X,X,X,X,1329,81,99838
+States,California,2017,27,X,1.31237,X,X,X,X,X,X,369,74,28117
+States,District of Columbia,2017,27,X,3.87978,X,X,X,X,X,X,71,2,1830
+States,Florida,2017,27,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,27,X,1.1153,X,X,X,X,X,X,74,43,6635
+States,Texas,2017,27,X,1.39677,X,X,X,X,X,X,256,94,18328
+States,New York City,2017,27,X,1.35496,X,X,X,X,X,X,1237,78,91294
+States,California,2017,28,X,1.12425,X,X,X,X,X,X,366,73,32555
+States,District of Columbia,2017,28,X,3.33201,X,X,X,X,X,X,84,2,2521
+States,Florida,2017,28,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,28,X,0.998308,X,X,X,X,X,X,59,43,5910
+States,Texas,2017,28,X,1.21989,X,X,X,X,X,X,238,95,19510
+States,New York City,2017,28,X,1.13887,X,X,X,X,X,X,1067,67,93689
+States,California,2017,29,X,1.09387,X,X,X,X,X,X,397,72,36293
+States,District of Columbia,2017,29,X,3.20073,X,X,X,X,X,X,70,2,2187
+States,Florida,2017,29,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,29,X,1.07903,X,X,X,X,X,X,74,42,6858
+States,Texas,2017,29,X,1.33324,X,X,X,X,X,X,182,77,13651
+States,New York City,2017,29,X,1.06683,X,X,X,X,X,X,1013,70,94954
+States,California,2017,30,X,0.979101,X,X,X,X,X,X,342,67,34930
+States,District of Columbia,2017,30,X,4.19548,X,X,X,X,X,X,91,2,2169
+States,Florida,2017,30,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,30,X,0.944611,X,X,X,X,X,X,66,41,6987
+States,Texas,2017,30,X,1.33018,X,X,X,X,X,X,264,94,19847
+States,New York City,2017,30,X,1.136,X,X,X,X,X,X,1053,69,92694
+States,California,2017,31,X,0.853916,X,X,X,X,X,X,307,69,35952
+States,District of Columbia,2017,31,X,4.59722,X,X,X,X,X,X,109,2,2371
+States,Florida,2017,31,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,31,X,0.961125,X,X,X,X,X,X,67,41,6971
+States,Texas,2017,31,X,1.27357,X,X,X,X,X,X,260,95,20415
+States,New York City,2017,31,X,1.10074,X,X,X,X,X,X,1011,69,91847
+States,California,2017,32,X,0.936918,X,X,X,X,X,X,337,70,35969
+States,District of Columbia,2017,32,X,3.37255,X,X,X,X,X,X,86,2,2550
+States,Florida,2017,32,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,32,X,0.904343,X,X,X,X,X,X,71,41,7851
+States,Texas,2017,32,X,1.04005,X,X,X,X,X,X,214,94,20576
+States,New York City,2017,32,X,1.14798,X,X,X,X,X,X,1056,69,91988
+States,California,2017,33,X,1.01272,X,X,X,X,X,X,340,68,33573
+States,District of Columbia,2017,33,X,3.15789,X,X,X,X,X,X,81,2,2565
+States,Florida,2017,33,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,33,X,0.893612,X,X,X,X,X,X,74,40,8281
+States,Texas,2017,33,X,1.10367,X,X,X,X,X,X,206,80,18665
+States,New York City,2017,33,X,1.02766,X,X,X,X,X,X,904,70,87967
+States,California,2017,34,X,1.13787,X,X,X,X,X,X,439,70,38581
+States,District of Columbia,2017,34,X,3.98796,X,X,X,X,X,X,106,2,2658
+States,Florida,2017,34,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,34,X,0.899017,X,X,X,X,X,X,86,41,9566
+States,Texas,2017,34,X,1.8906,X,X,X,X,X,X,347,77,18354
+States,New York City,2017,34,X,1.07071,X,X,X,X,X,X,962,69,89847
+States,California,2017,35,X,1.19891,X,X,X,X,X,X,506,72,42205
+States,District of Columbia,2017,35,X,5.74447,X,X,X,X,X,X,174,2,3029
+States,Florida,2017,35,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,35,X,0.795934,X,X,X,X,X,X,83,40,10428
+States,Texas,2017,35,X,1.895,X,X,X,X,X,X,331,76,17467
+States,New York City,2017,35,X,1.10389,X,X,X,X,X,X,982,67,88958
+States,California,2017,36,X,1.28088,X,X,X,X,X,X,490,74,38255
+States,District of Columbia,2017,36,X,6.05607,X,X,X,X,X,X,162,2,2675
+States,Florida,2017,36,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,36,X,0.932594,X,X,X,X,X,X,79,41,8471
+States,Texas,2017,36,X,2.01905,X,X,X,X,X,X,371,75,18375
+States,New York City,2017,36,X,1.03898,X,X,X,X,X,X,937,67,90185
+States,California,2017,37,X,1.547,X,X,X,X,X,X,652,78,42146
+States,District of Columbia,2017,37,X,5.07881,X,X,X,X,X,X,174,2,3426
+States,Florida,2017,37,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,37,X,0.904698,X,X,X,X,X,X,88,40,9727
+States,Texas,2017,37,X,1.93658,X,X,X,X,X,X,477,92,24631
+States,New York City,2017,37,X,1.18334,X,X,X,X,X,X,1164,67,98366
+States,California,2017,38,X,1.52105,X,X,X,X,X,X,621,71,40827
+States,District of Columbia,2017,38,X,5.05875,X,X,X,X,X,X,155,2,3064
+States,Florida,2017,38,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,38,X,0.938622,X,X,X,X,X,X,102,41,10867
+States,Texas,2017,38,X,1.77468,X,X,X,X,X,X,448,93,25244
+States,New York City,2017,38,X,1.44513,X,X,X,X,X,X,1396,70,96600
+States,California,2017,39,X,1.55626,X,X,X,X,X,X,659,72,42345
+States,District of Columbia,2017,39,X,5.92809,X,X,X,X,X,X,183,2,3087
+States,Florida,2017,39,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,39,X,1.24783,X,X,X,X,X,X,122,39,9777
+States,Texas,2017,39,X,1.9715,X,X,X,X,X,X,494,90,25057
+States,New York City,2017,39,X,1.36351,X,X,X,X,X,X,1394,71,102236
+States,California,2017,40,X,1.75421,X,X,X,X,X,X,852,102,48569
+States,District of Columbia,2017,40,X,1.91672,X,X,X,X,X,X,284,5,14817
+States,Florida,2017,40,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,40,X,1.19834,X,X,X,X,X,X,147,52,12267
+States,Texas,2017,40,X,2.15321,X,X,X,X,X,X,642,111,29816
+States,New York City,2017,40,X,1.31333,X,X,X,X,X,X,1337,78,101802
+States,California,2017,41,X,1.53534,X,X,X,X,X,X,733,106,47742
+States,District of Columbia,2017,41,X,1.96893,X,X,X,X,X,X,275,5,13967
+States,Florida,2017,41,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,41,X,1.0355,X,X,X,X,X,X,133,55,12844
+States,Texas,2017,41,X,2.22464,X,X,X,X,X,X,654,113,29398
+States,New York City,2017,41,X,1.43478,X,X,X,X,X,X,1453,75,101270
+States,California,2017,42,X,1.56714,X,X,X,X,X,X,823,117,52516
+States,District of Columbia,2017,42,X,2.0171,X,X,X,X,X,X,302,5,14972
+States,Florida,2017,42,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,42,X,1.37308,X,X,X,X,X,X,187,53,13619
+States,Texas,2017,42,X,2.13774,X,X,X,X,X,X,641,111,29985
+States,New York City,2017,42,X,1.62815,X,X,X,X,X,X,1684,77,103430
+States,California,2017,43,X,1.72325,X,X,X,X,X,X,906,118,52575
+States,District of Columbia,2017,43,X,1.85678,X,X,X,X,X,X,279,5,15026
+States,Florida,2017,43,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,43,X,1.36996,X,X,X,X,X,X,198,56,14453
+States,Texas,2017,43,X,2.34254,X,X,X,X,X,X,710,111,30309
+States,New York City,2017,43,X,1.73179,X,X,X,X,X,X,1798,78,103823
+States,California,2017,44,X,1.98355,X,X,X,X,X,X,948,120,47793
+States,District of Columbia,2017,44,X,1.65856,X,X,X,X,X,X,232,5,13988
+States,Florida,2017,44,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,44,X,1.50787,X,X,X,X,X,X,204,54,13529
+States,Texas,2017,44,X,3.24542,X,X,X,X,X,X,774,76,23849
+States,New York City,2017,44,X,1.75785,X,X,X,X,X,X,1772,77,100805
+States,California,2017,45,X,1.90851,X,X,X,X,X,X,950,124,49777
+States,District of Columbia,2017,45,X,2.23842,X,X,X,X,X,X,304,5,13581
+States,Florida,2017,45,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,45,X,1.61033,X,X,X,X,X,X,232,56,14407
+States,Texas,2017,45,X,3.67219,X,X,X,X,X,X,1109,109,30200
+States,New York City,2017,45,X,1.70506,X,X,X,X,X,X,1707,74,100114
+States,California,2017,46,X,1.99801,X,X,X,X,X,X,1024,126,51251
+States,District of Columbia,2017,46,X,2.31138,X,X,X,X,X,X,352,5,15229
+States,Florida,2017,46,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,46,X,1.6294,X,X,X,X,X,X,239,56,14668
+States,Texas,2017,46,X,4.41976,X,X,X,X,X,X,1365,110,30884
+States,New York City,2017,46,X,2.28041,X,X,X,X,X,X,2342,78,102701
+States,California,2017,47,X,2.2189,X,X,X,X,X,X,817,120,36820
+States,District of Columbia,2017,47,X,2.19801,X,X,X,X,X,X,230,5,10464
+States,Florida,2017,47,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,47,X,1.90003,X,X,X,X,X,X,195,56,10263
+States,Texas,2017,47,X,4.57186,X,X,X,X,X,X,1023,111,22376
+States,New York City,2017,47,X,2.11503,X,X,X,X,X,X,1974,77,93332
+States,California,2017,48,X,1.94918,X,X,X,X,X,X,988,124,50688
+States,District of Columbia,2017,48,X,2.64412,X,X,X,X,X,X,394,5,14901
+States,Florida,2017,48,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,48,X,2.09801,X,X,X,X,X,X,277,55,13203
+States,Texas,2017,48,X,5.26676,X,X,X,X,X,X,1541,112,29259
+States,New York City,2017,48,X,1.73613,X,X,X,X,X,X,1870,79,107711
+States,California,2017,49,X,2.49813,X,X,X,X,X,X,1236,128,49477
+States,District of Columbia,2017,49,X,2.49746,X,X,X,X,X,X,368,5,14735
+States,Florida,2017,49,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,49,X,2.39118,X,X,X,X,X,X,334,58,13968
+States,Texas,2017,49,X,5.83165,X,X,X,X,X,X,1678,111,28774
+States,New York City,2017,49,X,2.52512,X,X,X,X,X,X,2611,75,103401
+States,California,2017,50,X,3.39179,X,X,X,X,X,X,1671,122,49266
+States,District of Columbia,2017,50,X,2.54612,X,X,X,X,X,X,363,5,14257
+States,Florida,2017,50,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,50,X,2.65723,X,X,X,X,X,X,349,55,13134
+States,Texas,2017,50,X,9.36695,X,X,X,X,X,X,2764,110,29508
+States,New York City,2017,50,X,2.61228,X,X,X,X,X,X,2543,73,97348
+States,California,2017,51,X,4.58891,X,X,X,X,X,X,2069,117,45087
+States,District of Columbia,2017,51,X,2.25352,X,X,X,X,X,X,296,5,13135
+States,Florida,2017,51,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,51,X,3.81745,X,X,X,X,X,X,445,52,11657
+States,Texas,2017,51,X,13.449,X,X,X,X,X,X,3938,106,29281
+States,New York City,2017,51,X,3.03445,X,X,X,X,X,X,3060,73,100842
+States,California,2017,52,X,6.84245,X,X,X,X,X,X,2512,118,36712
+States,District of Columbia,2017,52,X,2.78897,X,X,X,X,X,X,270,5,9681
+States,Florida,2017,52,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2017,52,X,3.58402,X,X,X,X,X,X,366,52,10212
+States,Texas,2017,52,X,10.9528,X,X,X,X,X,X,1830,68,16708
+States,New York City,2017,52,X,3.6026,X,X,X,X,X,X,3273,67,90851
+States,California,2018,1,X,6.66513,X,X,X,X,X,X,2310,118,34658
+States,District of Columbia,2018,1,X,2.90916,X,X,X,X,X,X,310,5,10656
+States,Florida,2018,1,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,1,X,4.56376,X,X,X,X,X,X,340,51,7450
+States,Texas,2018,1,X,12.5909,X,X,X,X,X,X,3428,108,27226
+States,New York City,2018,1,X,3.60085,X,X,X,X,X,X,3221,73,89451
+States,California,2018,2,X,4.69123,X,X,X,X,X,X,2361,123,50328
+States,District of Columbia,2018,2,X,2.88391,X,X,X,X,X,X,394,5,13662
+States,Florida,2018,2,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,2,X,6.19621,X,X,X,X,X,X,648,51,10458
+States,Texas,2018,2,X,12.8689,X,X,X,X,X,X,4047,107,31448
+States,New York City,2018,2,X,3.81133,X,X,X,X,X,X,4167,76,109332
+States,California,2018,3,X,3.93592,X,X,X,X,X,X,1963,124,49874
+States,District of Columbia,2018,3,X,3.53351,X,X,X,X,X,X,436,5,12339
+States,Florida,2018,3,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,3,X,7.44408,X,X,X,X,X,X,842,54,11311
+States,Texas,2018,3,X,13.0336,X,X,X,X,X,X,3966,110,30429
+States,New York City,2018,3,X,5.14838,X,X,X,X,X,X,5666,75,110054
+States,California,2018,4,X,3.89779,X,X,X,X,X,X,2038,122,52286
+States,District of Columbia,2018,4,X,4.23887,X,X,X,X,X,X,658,5,15523
+States,Florida,2018,4,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,4,X,9.17524,X,X,X,X,X,X,1355,56,14768
+States,Texas,2018,4,X,14.5657,X,X,X,X,X,X,5203,110,35721
+States,New York City,2018,4,X,6.39478,X,X,X,X,X,X,7542,74,117940
+States,California,2018,5,X,4.25872,X,X,X,X,X,X,2369,121,55627
+States,District of Columbia,2018,5,X,5.25907,X,X,X,X,X,X,813,5,15459
+States,Florida,2018,5,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,5,X,10.9383,X,X,X,X,X,X,1674,53,15304
+States,Texas,2018,5,X,13.9335,X,X,X,X,X,X,4996,109,35856
+States,New York City,2018,5,X,7.5074,X,X,X,X,X,X,8829,74,117604
+States,California,2018,6,X,3.81901,X,X,X,X,X,X,2116,121,55407
+States,District of Columbia,2018,6,X,5.08086,X,X,X,X,X,X,776,5,15273
+States,Florida,2018,6,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,6,X,10.7166,X,X,X,X,X,X,1678,55,15658
+States,Texas,2018,6,X,12.9045,X,X,X,X,X,X,4450,110,34484
+States,New York City,2018,6,X,8.45818,X,X,X,X,X,X,10196,73,120546
+States,California,2018,7,X,3.71403,X,X,X,X,X,X,1879,112,50592
+States,District of Columbia,2018,7,X,5.29988,X,X,X,X,X,X,790,5,14906
+States,Florida,2018,7,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,7,X,10.3037,X,X,X,X,X,X,1588,55,15412
+States,Texas,2018,7,X,10.9435,X,X,X,X,X,X,3598,109,32878
+States,New York City,2018,7,X,8.36329,X,X,X,X,X,X,8981,40,107386
+States,California,2018,8,X,3.51102,X,X,X,X,X,X,1619,119,46112
+States,District of Columbia,2018,8,X,3.88872,X,X,X,X,X,X,499,5,12832
+States,Florida,2018,8,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,8,X,6.97767,X,X,X,X,X,X,875,55,12540
+States,Texas,2018,8,X,8.27868,X,X,X,X,X,X,2638,109,31865
+States,New York City,2018,8,X,5.9571,X,X,X,X,X,X,6376,74,107032
+States,California,2018,9,X,3.64857,X,X,X,X,X,X,1870,120,51253
+States,District of Columbia,2018,9,X,2.60078,X,X,X,X,X,X,360,5,13842
+States,Florida,2018,9,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,9,X,5.04069,X,X,X,X,X,X,576,54,11427
+States,Texas,2018,9,X,6.07416,X,X,X,X,X,X,1833,106,30177
+States,New York City,2018,9,X,3.55216,X,X,X,X,X,X,3278,39,92282
+States,California,2018,10,X,3.39303,X,X,X,X,X,X,1813,118,53433
+States,District of Columbia,2018,10,X,2.40906,X,X,X,X,X,X,349,5,14487
+States,Florida,2018,10,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,10,X,3.71947,X,X,X,X,X,X,402,53,10808
+States,Texas,2018,10,X,4.85631,X,X,X,X,X,X,1286,103,26481
+States,New York City,2018,10,X,2.79972,X,X,X,X,X,X,2711,72,96831
+States,California,2018,11,X,3.21007,X,X,X,X,X,X,1658,114,51650
+States,District of Columbia,2018,11,X,2.73463,X,X,X,X,X,X,375,5,13713
+States,Florida,2018,11,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,11,X,3.37375,X,X,X,X,X,X,345,53,10226
+States,Texas,2018,11,X,3.72125,X,X,X,X,X,X,817,102,21955
+States,New York City,2018,11,X,2.39802,X,X,X,X,X,X,2398,75,99999
+States,California,2018,12,X,2.9579,X,X,X,X,X,X,1457,107,49258
+States,District of Columbia,2018,12,X,2.73201,X,X,X,X,X,X,330,5,12079
+States,Florida,2018,12,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,12,X,2.35595,X,X,X,X,X,X,249,52,10569
+States,Texas,2018,12,X,3.07753,X,X,X,X,X,X,853,104,27717
+States,New York City,2018,12,X,2.40825,X,X,X,X,X,X,2334,73,96917
+States,California,2018,13,X,2.76154,X,X,X,X,X,X,1167,112,42259
+States,District of Columbia,2018,13,X,2.21192,X,X,X,X,X,X,291,5,13156
+States,Florida,2018,13,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,13,X,2.59165,X,X,X,X,X,X,275,48,10611
+States,Texas,2018,13,X,3.51379,X,X,X,X,X,X,762,101,21686
+States,New York City,2018,13,X,2.25106,X,X,X,X,X,X,2231,72,99109
+States,California,2018,14,X,2.30591,X,X,X,X,X,X,1082,108,46923
+States,District of Columbia,2018,14,X,1.97112,X,X,X,X,X,X,273,5,13850
+States,Florida,2018,14,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,14,X,2.34435,X,X,X,X,X,X,212,50,9043
+States,Texas,2018,14,X,2.93401,X,X,X,X,X,X,530,88,18064
+States,New York City,2018,14,X,1.90031,X,X,X,X,X,X,1811,72,95300
+States,California,2018,15,X,1.81038,X,X,X,X,X,X,903,111,49879
+States,District of Columbia,2018,15,X,1.68436,X,X,X,X,X,X,238,5,14130
+States,Florida,2018,15,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,15,X,2.19619,X,X,X,X,X,X,240,51,10928
+States,Texas,2018,15,X,2.45258,X,X,X,X,X,X,437,85,17818
+States,New York City,2018,15,X,1.72544,X,X,X,X,X,X,1736,73,100612
+States,California,2018,16,X,1.83904,X,X,X,X,X,X,888,109,48286
+States,District of Columbia,2018,16,X,1.47955,X,X,X,X,X,X,204,5,13788
+States,Florida,2018,16,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,16,X,2.22306,X,X,X,X,X,X,237,48,10661
+States,Texas,2018,16,X,2.46861,X,X,X,X,X,X,696,103,28194
+States,New York City,2018,16,X,1.62757,X,X,X,X,X,X,1555,71,95541
+States,California,2018,17,X,1.90959,X,X,X,X,X,X,934,110,48911
+States,District of Columbia,2018,17,X,1.60439,X,X,X,X,X,X,231,5,14398
+States,Florida,2018,17,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,17,X,1.59244,X,X,X,X,X,X,177,48,11115
+States,Texas,2018,17,X,2.29361,X,X,X,X,X,X,624,102,27206
+States,New York City,2018,17,X,1.62306,X,X,X,X,X,X,1649,73,101598
+States,California,2018,18,X,1.859,X,X,X,X,X,X,876,104,47122
+States,District of Columbia,2018,18,X,1.48168,X,X,X,X,X,X,216,5,14578
+States,Florida,2018,18,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,18,X,2.20051,X,X,X,X,X,X,232,46,10543
+States,Texas,2018,18,X,2.30994,X,X,X,X,X,X,570,98,24676
+States,New York City,2018,18,X,1.64429,X,X,X,X,X,X,1726,72,104969
+States,California,2018,19,X,1.7816,X,X,X,X,X,X,828,100,46475
+States,District of Columbia,2018,19,X,1.78303,X,X,X,X,X,X,261,5,14638
+States,Florida,2018,19,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,19,X,1.50123,X,X,X,X,X,X,165,44,10991
+States,Texas,2018,19,X,2.16706,X,X,X,X,X,X,509,96,23488
+States,New York City,2018,19,X,1.5639,X,X,X,X,X,X,1705,69,109022
+States,California,2018,20,X,1.59208,X,X,X,X,X,X,708,101,44470
+States,District of Columbia,2018,20,X,1.48411,X,X,X,X,X,X,205,5,13813
+States,Florida,2018,20,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,20,X,1.42733,X,X,X,X,X,X,131,41,9178
+States,Texas,2018,20,X,1.69425,X,X,X,X,X,X,391,95,23078
+States,New York City,2018,20,X,1.59395,X,X,X,X,X,X,1618,67,101509
+States,California,2018,21,X,1.69035,X,X,X,X,X,X,690,91,40820
+States,District of Columbia,2018,21,X,1.63837,X,X,X,X,X,X,221,5,13489
+States,Florida,2018,21,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,21,X,1.24434,X,X,X,X,X,X,99,40,7956
+States,Texas,2018,21,X,1.95167,X,X,X,X,X,X,441,94,22596
+States,New York City,2018,21,X,1.65279,X,X,X,X,X,X,1703,67,103038
+States,California,2018,22,X,1.5359,X,X,X,X,X,X,581,91,37828
+States,District of Columbia,2018,22,X,1.42974,X,X,X,X,X,X,175,5,12240
+States,Florida,2018,22,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,22,X,1.40187,X,X,X,X,X,X,99,38,7062
+States,Texas,2018,22,X,1.70382,X,X,X,X,X,X,334,93,19603
+States,New York City,2018,22,X,1.57449,X,X,X,X,X,X,1424,34,90442
+States,California,2018,23,X,1.34495,X,X,X,X,X,X,571,91,42455
+States,District of Columbia,2018,23,X,1.611,X,X,X,X,X,X,218,5,13532
+States,Florida,2018,23,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,23,X,0.0269724,X,X,X,X,X,X,2,39,7415
+States,Texas,2018,23,X,1.57834,X,X,X,X,X,X,316,90,20021
+States,New York City,2018,23,X,1.56583,X,X,X,X,X,X,1573,69,100458
+States,California,2018,24,X,1.33835,X,X,X,X,X,X,548,90,40946
+States,District of Columbia,2018,24,X,0.829155,X,X,X,X,X,X,86,4,10372
+States,Florida,2018,24,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,24,X,0.0407609,X,X,X,X,X,X,3,37,7360
+States,Texas,2018,24,X,1.59816,X,X,X,X,X,X,320,92,20023
+States,New York City,2018,24,X,1.48538,X,X,X,X,X,X,1474,71,99234
+States,California,2018,25,X,1.64565,X,X,X,X,X,X,526,81,31963
+States,District of Columbia,2018,25,X,1.64323,X,X,X,X,X,X,215,5,13084
+States,Florida,2018,25,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,25,X,0,X,X,X,X,X,X,0,37,7529
+States,Texas,2018,25,X,1.32682,X,X,X,X,X,X,250,91,18842
+States,New York City,2018,25,X,1.31214,X,X,X,X,X,X,1301,70,99151
+States,California,2018,26,X,1.53626,X,X,X,X,X,X,493,84,32091
+States,District of Columbia,2018,26,X,1.4592,X,X,X,X,X,X,196,5,13432
+States,Florida,2018,26,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,26,X,0.0150943,X,X,X,X,X,X,1,36,6625
+States,Texas,2018,26,X,1.7444,X,X,X,X,X,X,288,91,16510
+States,New York City,2018,26,X,1.22518,X,X,X,X,X,X,1183,69,96557
+States,California,2018,27,X,1.09491,X,X,X,X,X,X,380,89,34706
+States,District of Columbia,2018,27,X,1.18168,X,X,X,X,X,X,128,5,10832
+States,Florida,2018,27,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,27,X,0.176025,X,X,X,X,X,X,10,35,5681
+States,Texas,2018,27,X,1.27277,X,X,X,X,X,X,211,90,16578
+States,New York City,2018,27,X,1.06748,X,X,X,X,X,X,989,66,92648
+States,California,2018,28,X,0.98471,X,X,X,X,X,X,398,92,40418
+States,District of Columbia,2018,28,X,1.20312,X,X,X,X,X,X,162,5,13465
+States,Florida,2018,28,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,28,X,0,X,X,X,X,X,X,0,36,7055
+States,Texas,2018,28,X,1.35064,X,X,X,X,X,X,256,91,18954
+States,New York City,2018,28,X,1.11572,X,X,X,X,X,X,1097,69,98322
+States,California,2018,29,X,0.933866,X,X,X,X,X,X,379,93,40584
+States,District of Columbia,2018,29,X,1.05352,X,X,X,X,X,X,137,4,13004
+States,Florida,2018,29,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,29,X,0,X,X,X,X,X,X,0,35,6891
+States,Texas,2018,29,X,1.06927,X,X,X,X,X,X,203,90,18985
+States,New York City,2018,29,X,1.04192,X,X,X,X,X,X,1010,68,96936
+States,California,2018,30,X,0.946458,X,X,X,X,X,X,382,90,40361
+States,District of Columbia,2018,30,X,1.03181,X,X,X,X,X,X,133,4,12890
+States,Florida,2018,30,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,30,X,0.0135135,X,X,X,X,X,X,1,34,7400
+States,Texas,2018,30,X,1.02062,X,X,X,X,X,X,197,90,19302
+States,New York City,2018,30,X,0.880769,X,X,X,X,X,X,834,69,94690
+States,California,2018,31,X,0.942208,X,X,X,X,X,X,374,82,39694
+States,District of Columbia,2018,31,X,0.868696,X,X,X,X,X,X,113,4,13008
+States,Florida,2018,31,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,31,X,0.0136836,X,X,X,X,X,X,1,35,7308
+States,Texas,2018,31,X,1.05115,X,X,X,X,X,X,209,90,19883
+States,New York City,2018,31,X,0.957264,X,X,X,X,X,X,926,67,96734
+States,California,2018,32,X,0.954801,X,X,X,X,X,X,387,87,40532
+States,District of Columbia,2018,32,X,0.972733,X,X,X,X,X,X,127,4,13056
+States,Florida,2018,32,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,32,X,0,X,X,X,X,X,X,0,35,7789
+States,Texas,2018,32,X,1.31634,X,X,X,X,X,X,156,52,11851
+States,New York City,2018,32,X,1.0129,X,X,X,X,X,X,983,67,97048
+States,California,2018,33,X,0.947351,X,X,X,X,X,X,391,84,41273
+States,District of Columbia,2018,33,X,1.09916,X,X,X,X,X,X,142,4,12919
+States,Florida,2018,33,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,33,X,0,X,X,X,X,X,X,0,33,8346
+States,Texas,2018,33,X,0.988875,X,X,X,X,X,X,184,88,18607
+States,New York City,2018,33,X,1.02171,X,X,X,X,X,X,958,63,93764
+States,California,2018,34,X,0.85034,X,X,X,X,X,X,335,72,39396
+States,District of Columbia,2018,34,X,1.24419,X,X,X,X,X,X,166,4,13342
+States,Florida,2018,34,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,34,X,0,X,X,X,X,X,X,0,34,8892
+States,Texas,2018,34,X,1.39918,X,X,X,X,X,X,270,88,19297
+States,New York City,2018,34,X,1.01129,X,X,X,X,X,X,923,60,91270
+States,California,2018,35,X,1.01655,X,X,X,X,X,X,435,75,42792
+States,District of Columbia,2018,35,X,1.34153,X,X,X,X,X,X,179,4,13343
+States,Florida,2018,35,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,35,X,0,X,X,X,X,X,X,0,33,9869
+States,Texas,2018,35,X,1.20577,X,X,X,X,X,X,244,78,20236
+States,New York City,2018,35,X,1.03302,X,X,X,X,X,X,966,64,93512
+States,California,2018,36,X,1.35018,X,X,X,X,X,X,515,71,38143
+States,District of Columbia,2018,36,X,1.35528,X,X,X,X,X,X,163,4,12027
+States,Florida,2018,36,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,36,X,0.0857633,X,X,X,X,X,X,2,13,2332
+States,Texas,2018,36,X,1.94818,X,X,X,X,X,X,382,93,19608
+States,New York City,2018,36,X,1.04878,X,X,X,X,X,X,1002,67,95540
+States,California,2018,37,X,1.53784,X,X,X,X,X,X,645,78,41942
+States,District of Columbia,2018,37,X,1.30639,X,X,X,X,X,X,170,4,13013
+States,Florida,2018,37,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,37,X,0.289645,X,X,X,X,X,X,8,14,2762
+States,Texas,2018,37,X,2.13464,X,X,X,X,X,X,449,91,21034
+States,New York City,2018,37,X,1.21375,X,X,X,X,X,X,1184,68,97549
+States,California,2018,38,X,1.36726,X,X,X,X,X,X,555,78,40592
+States,District of Columbia,2018,38,X,1.85339,X,X,X,X,X,X,245,4,13219
+States,Florida,2018,38,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,38,X,0.358657,X,X,X,X,X,X,11,14,3067
+States,Texas,2018,38,X,1.88542,X,X,X,X,X,X,465,93,24663
+States,New York City,2018,38,X,1.60103,X,X,X,X,X,X,1640,65,102434
+States,California,2018,39,X,1.30344,X,X,X,X,X,X,546,79,41889
+States,District of Columbia,2018,39,X,2.09455,X,X,X,X,X,X,280,4,13368
+States,Florida,2018,39,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,39,X,0.228311,X,X,X,X,X,X,26,35,11388
+States,Texas,2018,39,X,2.1767,X,X,X,X,X,X,561,96,25773
+States,New York City,2018,39,X,1.7731,X,X,X,X,X,X,1772,65,99938
+States,California,2018,40,X,1.48079,X,X,X,X,X,X,698,105,47137
+States,District of Columbia,2018,40,X,2.17196,X,X,X,X,X,X,314,5,14457
+States,Florida,2018,40,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,40,X,0.964829,X,X,X,X,X,X,623,132,64571
+States,Texas,2018,40,X,2.57487,X,X,X,X,X,X,730,109,28351
+States,New York City,2018,40,X,1.92353,X,X,X,X,X,X,2037,77,105899
+States,California,2018,41,X,1.27218,X,X,X,X,X,X,598,105,47006
+States,District of Columbia,2018,41,X,2.25308,X,X,X,X,X,X,305,5,13537
+States,Florida,2018,41,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,41,X,0.981513,X,X,X,X,X,X,661,134,67345
+States,Texas,2018,41,X,2.12283,X,X,X,X,X,X,589,108,27746
+States,New York City,2018,41,X,1.93051,X,X,X,X,X,X,2048,76,106086
+States,California,2018,42,X,1.42798,X,X,X,X,X,X,691,103,48390
+States,District of Columbia,2018,42,X,2.02167,X,X,X,X,X,X,293,6,14493
+States,Florida,2018,42,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,42,X,1.1082,X,X,X,X,X,X,706,134,63707
+States,Texas,2018,42,X,2.20848,X,X,X,X,X,X,607,108,27485
+States,New York City,2018,42,X,2.17778,X,X,X,X,X,X,2206,74,101296
+States,California,2018,43,X,1.58346,X,X,X,X,X,X,753,102,47554
+States,District of Columbia,2018,43,X,1.8309,X,X,X,X,X,X,280,6,15293
+States,Florida,2018,43,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,43,X,1.13599,X,X,X,X,X,X,700,134,61620
+States,Texas,2018,43,X,2.63998,X,X,X,X,X,X,761,107,28826
+States,New York City,2018,43,X,2.43232,X,X,X,X,X,X,2399,77,98630
+States,California,2018,44,X,1.76401,X,X,X,X,X,X,875,113,49603
+States,District of Columbia,2018,44,X,2.25685,X,X,X,X,X,X,336,6,14888
+States,Florida,2018,44,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,44,X,1.26905,X,X,X,X,X,X,786,135,61936
+States,Texas,2018,44,X,2.8987,X,X,X,X,X,X,831,109,28668
+States,New York City,2018,44,X,2.16187,X,X,X,X,X,X,2162,73,100006
+States,California,2018,45,X,1.86635,X,X,X,X,X,X,944,118,50580
+States,District of Columbia,2018,45,X,1.94363,X,X,X,X,X,X,291,6,14972
+States,Florida,2018,45,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,45,X,1.09622,X,X,X,X,X,X,710,135,64768
+States,Texas,2018,45,X,3.16233,X,X,X,X,X,X,945,111,29883
+States,New York City,2018,45,X,2.28306,X,X,X,X,X,X,2260,78,98990
+States,California,2018,46,X,2.07476,X,X,X,X,X,X,943,115,45451
+States,District of Columbia,2018,46,X,2.54998,X,X,X,X,X,X,338,6,13255
+States,Florida,2018,46,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,46,X,1.13998,X,X,X,X,X,X,659,136,57808
+States,Texas,2018,46,X,3.38883,X,X,X,X,X,X,973,111,28712
+States,New York City,2018,46,X,2.44287,X,X,X,X,X,X,2324,79,95134
+States,California,2018,47,X,2.07785,X,X,X,X,X,X,719,115,34603
+States,District of Columbia,2018,47,X,2.15529,X,X,X,X,X,X,239,6,11089
+States,Florida,2018,47,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,47,X,1.34015,X,X,X,X,X,X,742,136,55367
+States,Texas,2018,47,X,3.67031,X,X,X,X,X,X,806,111,21960
+States,New York City,2018,47,X,2.74578,X,X,X,X,X,X,2448,77,89155
+States,California,2018,48,X,2.35193,X,X,X,X,X,X,1177,114,50044
+States,District of Columbia,2018,48,X,2.2897,X,X,X,X,X,X,368,6,16072
+States,Florida,2018,48,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,48,X,1.31799,X,X,X,X,X,X,828,136,62823
+States,Texas,2018,48,X,3.58931,X,X,X,X,X,X,1104,110,30758
+States,New York City,2018,48,X,2.51122,X,X,X,X,X,X,2579,78,102699
+States,California,2018,49,X,2.55125,X,X,X,X,X,X,1206,113,47271
+States,District of Columbia,2018,49,X,3.57839,X,X,X,X,X,X,349,6,9753
+States,Florida,2018,49,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,49,X,1.46959,X,X,X,X,X,X,892,134,60697
+States,Texas,2018,49,X,3.57419,X,X,X,X,X,X,1017,110,28454
+States,New York City,2018,49,X,2.79124,X,X,X,X,X,X,2827,76,101281
+States,California,2018,50,X,2.90103,X,X,X,X,X,X,1356,115,46742
+States,District of Columbia,2018,50,X,2.84912,X,X,X,X,X,X,426,5,14952
+States,Florida,2018,50,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,50,X,1.95702,X,X,X,X,X,X,1172,133,59887
+States,Texas,2018,50,X,4.13873,X,X,X,X,X,X,1148,110,27738
+States,New York City,2018,50,X,3.14364,X,X,X,X,X,X,3193,73,101570
+States,California,2018,51,X,3.15841,X,X,X,X,X,X,1288,107,40780
+States,District of Columbia,2018,51,X,2.88832,X,X,X,X,X,X,442,6,15303
+States,Florida,2018,51,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,51,X,2.42423,X,X,X,X,X,X,1427,133,58864
+States,Texas,2018,51,X,4.95303,X,X,X,X,X,X,1255,102,25338
+States,New York City,2018,51,X,3.66378,X,X,X,X,X,X,3623,72,98887
+States,California,2018,52,X,3.35655,X,X,X,X,X,X,935,105,27856
+States,District of Columbia,2018,52,X,2.884,X,X,X,X,X,X,270,6,9362
+States,Florida,2018,52,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2018,52,X,3.02311,X,X,X,X,X,X,1757,134,58119
+States,Texas,2018,52,X,6.40128,X,X,X,X,X,X,1317,102,20574
+States,New York City,2018,52,X,4.38255,X,X,X,X,X,X,4138,66,94420
+States,California,2019,1,X,3.3413,X,X,X,X,X,X,1021,113,30557
+States,District of Columbia,2019,1,X,2.59032,X,X,X,X,X,X,304,6,11736
+States,Florida,2019,1,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,1,X,2.7959,X,X,X,X,X,X,1727,135,61769
+States,Texas,2019,1,X,5.11093,X,X,X,X,X,X,1244,111,24340
+States,New York City,2019,1,X,3.98742,X,X,X,X,X,X,3880,69,97306
+States,California,2019,2,X,3.14047,X,X,X,X,X,X,1415,115,45057
+States,District of Columbia,2019,2,X,2.54653,X,X,X,X,X,X,405,6,15904
+States,Florida,2019,2,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,2,X,2.53648,X,X,X,X,X,X,1514,132,59689
+States,Texas,2019,2,X,4.66314,X,X,X,X,X,X,1331,111,28543
+States,New York City,2019,2,X,3.60217,X,X,X,X,X,X,3536,72,98163
+States,California,2019,3,X,2.87537,X,X,X,X,X,X,1325,117,46081
+States,District of Columbia,2019,3,X,2.57954,X,X,X,X,X,X,330,6,12793
+States,Florida,2019,3,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,3,X,3.08752,X,X,X,X,X,X,1820,135,58947
+States,Texas,2019,3,X,5.57504,X,X,X,X,X,X,1621,114,29076
+States,New York City,2019,3,X,4.02418,X,X,X,X,X,X,4060,72,100890
+States,California,2019,4,X,2.74367,X,X,X,X,X,X,1267,118,46179
+States,District of Columbia,2019,4,X,2.61113,X,X,X,X,X,X,326,6,12485
+States,Florida,2019,4,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,4,X,3.47274,X,X,X,X,X,X,2085,136,60039
+States,Texas,2019,4,X,7.07857,X,X,X,X,X,X,2092,116,29554
+States,New York City,2019,4,X,4.15906,X,X,X,X,X,X,4035,73,97017
+States,California,2019,5,X,3.25349,X,X,X,X,X,X,1657,120,50930
+States,District of Columbia,2019,5,X,3.19029,X,X,X,X,X,X,452,6,14168
+States,Florida,2019,5,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,5,X,3.43565,X,X,X,X,X,X,2158,136,62812
+States,Texas,2019,5,X,8.58413,X,X,X,X,X,X,2684,114,31267
+States,New York City,2019,5,X,4.11805,X,X,X,X,X,X,4013,73,97449
+States,California,2019,6,X,3.26858,X,X,X,X,X,X,1617,119,49471
+States,District of Columbia,2019,6,X,3.33758,X,X,X,X,X,X,524,6,15700
+States,Florida,2019,6,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,6,X,3.87097,X,X,X,X,X,X,2676,135,69130
+States,Texas,2019,6,X,10.165,X,X,X,X,X,X,3363,116,33084
+States,New York City,2019,6,X,4.15394,X,X,X,X,X,X,4285,76,103155
+States,California,2019,7,X,3.77301,X,X,X,X,X,X,1726,113,45746
+States,District of Columbia,2019,7,X,3.50693,X,X,X,X,X,X,534,6,15227
+States,Florida,2019,7,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,7,X,4.53822,X,X,X,X,X,X,3024,134,66634
+States,Texas,2019,7,X,10.203,X,X,X,X,X,X,3277,117,32118
+States,New York City,2019,7,X,4.1483,X,X,X,X,X,X,4122,74,99366
+States,California,2019,8,X,3.40884,X,X,X,X,X,X,1562,118,45822
+States,District of Columbia,2019,8,X,3.24409,X,X,X,X,X,X,372,6,11467
+States,Florida,2019,8,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,8,X,4.04967,X,X,X,X,X,X,2335,135,57659
+States,Texas,2019,8,X,9.24004,X,X,X,X,X,X,2912,117,31515
+States,New York City,2019,8,X,3.84501,X,X,X,X,X,X,3737,77,97191
+States,California,2019,9,X,3.59746,X,X,X,X,X,X,1856,117,51592
+States,District of Columbia,2019,9,X,2.65689,X,X,X,X,X,X,406,6,15281
+States,Florida,2019,9,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,9,X,3.24017,X,X,X,X,X,X,1979,134,61077
+States,Texas,2019,9,X,9.54986,X,X,X,X,X,X,3055,117,31990
+States,New York City,2019,9,X,2.89997,X,X,X,X,X,X,2819,77,97208
+States,California,2019,10,X,3.52475,X,X,X,X,X,X,1804,116,51181
+States,District of Columbia,2019,10,X,2.69138,X,X,X,X,X,X,411,6,15271
+States,Florida,2019,10,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,10,X,3.18586,X,X,X,X,X,X,2035,135,63876
+States,Texas,2019,10,X,8.72284,X,X,X,X,X,X,2734,119,31343
+States,New York City,2019,10,X,2.89249,X,X,X,X,X,X,2801,73,96837
+States,California,2019,11,X,3.36917,X,X,X,X,X,X,1708,114,50695
+States,District of Columbia,2019,11,X,2.83447,X,X,X,X,X,X,443,6,15629
+States,Florida,2019,11,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,11,X,3.2431,X,X,X,X,X,X,2105,138,64907
+States,Texas,2019,11,X,7.81343,X,X,X,X,X,X,2109,116,26992
+States,New York City,2019,11,X,2.80425,X,X,X,X,X,X,2896,78,103272
+States,California,2019,12,X,3.48291,X,X,X,X,X,X,1699,117,48781
+States,District of Columbia,2019,12,X,2.72061,X,X,X,X,X,X,427,6,15695
+States,Florida,2019,12,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,12,X,3.26153,X,X,X,X,X,X,2038,137,62486
+States,Texas,2019,12,X,5.79463,X,X,X,X,X,X,1764,119,30442
+States,New York City,2019,12,X,2.24634,X,X,X,X,X,X,2714,69,120819
+States,California,2019,13,X,2.96381,X,X,X,X,X,X,1371,116,46258
+States,District of Columbia,2019,13,X,2.64005,X,X,X,X,X,X,402,6,15227
+States,Florida,2019,13,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,13,X,2.7518,X,X,X,X,X,X,1751,137,63631
+States,Texas,2019,13,X,4.89506,X,X,X,X,X,X,1411,114,28825
+States,New York City,2019,13,X,2.49381,X,X,X,X,X,X,2537,70,101732
+States,California,2019,14,X,2.9268,X,X,X,X,X,X,1329,114,45408
+States,District of Columbia,2019,14,X,0.88734,X,X,X,X,X,X,112,5,12622
+States,Florida,2019,14,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,14,X,2.74644,X,X,X,X,X,X,1699,136,61862
+States,Texas,2019,14,X,4.40566,X,X,X,X,X,X,1232,116,27964
+States,New York City,2019,14,X,2.48797,X,X,X,X,X,X,2471,71,99318
+States,California,2019,15,X,2.40137,X,X,X,X,X,X,1165,112,48514
+States,District of Columbia,2019,15,X,2.10634,X,X,X,X,X,X,309,6,14670
+States,Florida,2019,15,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,15,X,2.08497,X,X,X,X,X,X,1301,136,62399
+States,Texas,2019,15,X,3.94129,X,X,X,X,X,X,1152,118,29229
+States,New York City,2019,15,X,2.36254,X,X,X,X,X,X,2196,36,92951
+States,California,2019,16,X,2.27985,X,X,X,X,X,X,1084,102,47547
+States,District of Columbia,2019,16,X,1.44346,X,X,X,X,X,X,198,6,13717
+States,Florida,2019,16,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,16,X,1.76591,X,X,X,X,X,X,1027,135,58157
+States,Texas,2019,16,X,3.42261,X,X,X,X,X,X,929,114,27143
+States,New York City,2019,16,X,2.12248,X,X,X,X,X,X,1918,39,90366
+States,California,2019,17,X,2.02365,X,X,X,X,X,X,972,112,48032
+States,District of Columbia,2019,17,X,1.81048,X,X,X,X,X,X,265,6,14637
+States,Florida,2019,17,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,17,X,1.26076,X,X,X,X,X,X,753,136,59726
+States,Texas,2019,17,X,2.70961,X,X,X,X,X,X,657,98,24247
+States,New York City,2019,17,X,1.80067,X,X,X,X,X,X,1554,35,86301
+States,California,2019,18,X,1.62147,X,X,X,X,X,X,702,92,43294
+States,District of Columbia,2019,18,X,1.81989,X,X,X,X,X,X,252,5,13847
+States,Florida,2019,18,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,18,X,1.15328,X,X,X,X,X,X,656,133,56881
+States,Texas,2019,18,X,2.55929,X,X,X,X,X,X,722,114,28211
+States,New York City,2019,18,X,1.69427,X,X,X,X,X,X,1523,38,89891
+States,California,2019,19,X,1.8175,X,X,X,X,X,X,771,88,42421
+States,District of Columbia,2019,19,X,1.79616,X,X,X,X,X,X,258,6,14364
+States,Florida,2019,19,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,19,X,0.897742,X,X,X,X,X,X,512,130,57032
+States,Texas,2019,19,X,2.50535,X,X,X,X,X,X,620,103,24747
+States,New York City,2019,19,X,1.57645,X,X,X,X,X,X,1434,37,90964
+States,California,2019,20,X,1.63414,X,X,X,X,X,X,674,88,41245
+States,District of Columbia,2019,20,X,1.57009,X,X,X,X,X,X,223,6,14203
+States,Florida,2019,20,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,20,X,0.834468,X,X,X,X,X,X,374,130,44819
+States,Texas,2019,20,X,2.50115,X,X,X,X,X,X,597,105,23869
+States,New York City,2019,20,X,1.60226,X,X,X,X,X,X,1437,37,89686
+States,California,2019,21,X,1.54355,X,X,X,X,X,X,616,79,39908
+States,District of Columbia,2019,21,X,1.84905,X,X,X,X,X,X,257,6,13899
+States,Florida,2019,21,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,21,X,0.898427,X,X,X,X,X,X,517,129,57545
+States,Texas,2019,21,X,2.894,X,X,X,X,X,X,507,66,17519
+States,New York City,2019,21,X,1.74797,X,X,X,X,X,X,1592,36,91077
+States,California,2019,22,X,1.68956,X,X,X,X,X,X,620,80,36696
+States,District of Columbia,2019,22,X,1.6144,X,X,X,X,X,X,192,6,11893
+States,Florida,2019,22,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,22,X,0.918154,X,X,X,X,X,X,513,129,55873
+States,Texas,2019,22,X,2.2191,X,X,X,X,X,X,442,99,19918
+States,New York City,2019,22,X,1.70254,X,X,X,X,X,X,1526,35,89631
+States,California,2019,23,X,1.53268,X,X,X,X,X,X,579,76,37777
+States,District of Columbia,2019,23,X,1.71763,X,X,X,X,X,X,232,6,13507
+States,Florida,2019,23,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,23,X,0.799564,X,X,X,X,X,X,455,126,56906
+States,Texas,2019,23,X,2.20845,X,X,X,X,X,X,474,95,21463
+States,New York City,2019,23,X,1.71128,X,X,X,X,X,X,1686,73,98523
+States,California,2019,24,X,1.44924,X,X,X,X,X,X,570,73,39331
+States,District of Columbia,2019,24,X,1.41348,X,X,X,X,X,X,186,6,13159
+States,Florida,2019,24,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,24,X,0.668978,X,X,X,X,X,X,384,124,57401
+States,Texas,2019,24,X,2.25626,X,X,X,X,X,X,461,90,20432
+States,New York City,2019,24,X,1.68487,X,X,X,X,X,X,1658,74,98405
+States,California,2019,25,X,1.24964,X,X,X,X,X,X,474,76,37931
+States,District of Columbia,2019,25,X,4.60551,X,X,X,X,X,X,122,2,2649
+States,Florida,2019,25,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,25,X,0.729279,X,X,X,X,X,X,411,123,56357
+States,Texas,2019,25,X,1.99168,X,X,X,X,X,X,407,96,20435
+States,New York City,2019,25,X,1.39405,X,X,X,X,X,X,1250,35,89667
+States,California,2019,26,X,1.22439,X,X,X,X,X,X,465,74,37978
+States,District of Columbia,2019,26,X,1.32539,X,X,X,X,X,X,178,6,13430
+States,Florida,2019,26,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,26,X,0.692452,X,X,X,X,X,X,420,124,60654
+States,Texas,2019,26,X,1.93911,X,X,X,X,X,X,300,56,15471
+States,New York City,2019,26,X,1.43137,X,X,X,X,X,X,1280,37,89425
+States,California,2019,27,X,1.00449,X,X,X,X,X,X,329,76,32753
+States,District of Columbia,2019,27,X,1.1238,X,X,X,X,X,X,121,6,10767
+States,Florida,2019,27,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,27,X,0.677309,X,X,X,X,X,X,395,124,58319
+States,Texas,2019,27,X,1.80349,X,X,X,X,X,X,328,94,18187
+States,New York City,2019,27,X,1.23829,X,X,X,X,X,X,1081,35,87298
+States,California,2019,28,X,0.899837,X,X,X,X,X,X,343,76,38118
+States,District of Columbia,2019,28,X,1.15414,X,X,X,X,X,X,149,6,12910
+States,Florida,2019,28,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,28,X,0.606159,X,X,X,X,X,X,374,124,61700
+States,Texas,2019,28,X,1.63544,X,X,X,X,X,X,254,58,15531
+States,New York City,2019,28,X,1.06354,X,X,X,X,X,X,951,34,89418
+States,California,2019,29,X,0.911741,X,X,X,X,X,X,344,76,37730
+States,District of Columbia,2019,29,X,1.11538,X,X,X,X,X,X,145,6,13000
+States,Florida,2019,29,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,29,X,0.49329,X,X,X,X,X,X,297,124,60208
+States,Texas,2019,29,X,1.35155,X,X,X,X,X,X,281,96,20791
+States,New York City,2019,29,X,1.06505,X,X,X,X,X,X,929,37,87226
+States,California,2019,30,X,0.898999,X,X,X,X,X,X,345,74,38376
+States,District of Columbia,2019,30,X,0.951294,X,X,X,X,X,X,125,6,13140
+States,Florida,2019,30,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,30,X,0.510265,X,X,X,X,X,X,298,124,58401
+States,Texas,2019,30,X,1.58026,X,X,X,X,X,X,317,94,20060
+States,New York City,2019,30,X,1.01044,X,X,X,X,X,X,863,32,85408
+States,California,2019,31,X,0.834614,X,X,X,X,X,X,315,75,37742
+States,District of Columbia,2019,31,X,0.978261,X,X,X,X,X,X,126,6,12880
+States,Florida,2019,31,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,31,X,0.496411,X,X,X,X,X,X,296,124,59628
+States,Texas,2019,31,X,1.3381,X,X,X,X,X,X,281,94,21000
+States,New York City,2019,31,X,1.14857,X,X,X,X,X,X,973,31,84714
+States,California,2019,32,X,0.99623,X,X,X,X,X,X,370,71,37140
+States,District of Columbia,2019,32,X,0.274387,X,X,X,X,X,X,29,5,10569
+States,Florida,2019,32,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,32,X,0.582389,X,X,X,X,X,X,317,124,54431
+States,Texas,2019,32,X,1.18368,X,X,X,X,X,X,253,93,21374
+States,New York City,2019,32,X,1.08093,X,X,X,X,X,X,906,29,83817
+States,California,2019,33,X,0.816787,X,X,X,X,X,X,311,70,38076
+States,District of Columbia,2019,33,X,1.05589,X,X,X,X,X,X,140,6,13259
+States,Florida,2019,33,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,33,X,0.487924,X,X,X,X,X,X,279,124,57181
+States,Texas,2019,33,X,0.879297,X,X,X,X,X,X,198,89,22518
+States,New York City,2019,33,X,1.15205,X,X,X,X,X,X,1063,66,92270
+States,California,2019,34,X,0.782927,X,X,X,X,X,X,310,73,39595
+States,District of Columbia,2019,34,X,0.997162,X,X,X,X,X,X,130,6,13037
+States,Florida,2019,34,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,34,X,0.492445,X,X,X,X,X,X,278,124,56453
+States,Texas,2019,34,X,1.26906,X,X,X,X,X,X,298,92,23482
+States,New York City,2019,34,X,0.971586,X,X,X,X,X,X,808,27,83163
+States,California,2019,35,X,1.00916,X,X,X,X,X,X,413,70,40925
+States,District of Columbia,2019,35,X,1.12517,X,X,X,X,X,X,153,6,13598
+States,Florida,2019,35,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,35,X,0.51099,X,X,X,X,X,X,282,124,55187
+States,Texas,2019,35,X,1.84147,X,X,X,X,X,X,450,94,24437
+States,New York City,2019,35,X,1.09665,X,X,X,X,X,X,943,57,85989
+States,California,2019,36,X,1.01946,X,X,X,X,X,X,385,73,37765
+States,District of Columbia,2019,36,X,1.03006,X,X,X,X,X,X,122,6,11844
+States,Florida,2019,36,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,36,X,0.53943,X,X,X,X,X,X,302,125,55985
+States,Texas,2019,36,X,1.90786,X,X,X,X,X,X,451,95,23639
+States,New York City,2019,36,X,1.10079,X,X,X,X,X,X,1004,66,91207
+States,California,2019,37,X,1.11862,X,X,X,X,X,X,480,78,42910
+States,District of Columbia,2019,37,X,1.53264,X,X,X,X,X,X,227,6,14811
+States,Florida,2019,37,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,37,X,0.71377,X,X,X,X,X,X,415,125,58142
+States,Texas,2019,37,X,2.14503,X,X,X,X,X,X,549,96,25594
+States,New York City,2019,37,X,1.35163,X,X,X,X,X,X,1317,66,97438
+States,California,2019,38,X,1.14106,X,X,X,X,X,X,480,78,42066
+States,District of Columbia,2019,38,X,1.3764,X,X,X,X,X,X,199,5,14458
+States,Florida,2019,38,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,38,X,0.853393,X,X,X,X,X,X,502,125,58824
+States,Texas,2019,38,X,1.83876,X,X,X,X,X,X,390,81,21210
+States,New York City,2019,38,X,1.81431,X,X,X,X,X,X,1746,67,96235
+States,California,2019,39,X,1.13509,X,X,X,X,X,X,485,78,42728
+States,District of Columbia,2019,39,X,1.83368,X,X,X,X,X,X,271,5,14779
+States,Florida,2019,39,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,39,X,0.952203,X,X,X,X,X,X,561,124,58916
+States,Texas,2019,39,X,2.08464,X,X,X,X,X,X,530,94,25424
+States,New York City,2019,39,X,1.72784,X,X,X,X,X,X,1724,69,99778
+States,California,2019,40,X,1.36062,X,X,X,X,X,X,770,119,56592
+States,District of Columbia,2019,40,X,0.563736,X,X,X,X,X,X,67,4,11885
+States,Florida,2019,40,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,40,X,0.865685,X,X,X,X,X,X,518,131,59837
+States,Texas,2019,40,X,2.1399,X,X,X,X,X,X,640,115,29908
+States,New York City,2019,40,X,1.56645,X,X,X,X,X,X,1543,80,98503
+States,California,2019,41,X,1.51557,X,X,X,X,X,X,830,115,54765
+States,District of Columbia,2019,41,X,1.47099,X,X,X,X,X,X,215,5,14616
+States,Florida,2019,41,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,41,X,1.00583,X,X,X,X,X,X,587,135,58360
+States,Texas,2019,41,X,2.54297,X,X,X,X,X,X,759,116,29847
+States,New York City,2019,41,X,1.49829,X,X,X,X,X,X,1443,76,96310
+States,California,2019,42,X,1.63204,X,X,X,X,X,X,898,119,55023
+States,District of Columbia,2019,42,X,1.60263,X,X,X,X,X,X,224,5,13977
+States,Florida,2019,42,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,42,X,1.09797,X,X,X,X,X,X,622,136,56650
+States,Texas,2019,42,X,2.55285,X,X,X,X,X,X,768,119,30084
+States,New York City,2019,42,X,1.61493,X,X,X,X,X,X,1569,75,97156
+States,California,2019,43,X,1.73687,X,X,X,X,X,X,988,117,56884
+States,District of Columbia,2019,43,X,1.66477,X,X,X,X,X,X,234,5,14056
+States,Florida,2019,43,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,43,X,1.03963,X,X,X,X,X,X,626,138,60214
+States,Texas,2019,43,X,3.23872,X,X,X,X,X,X,987,117,30475
+States,New York City,2019,43,X,1.81585,X,X,X,X,X,X,1798,74,99017
+States,California,2019,44,X,1.86748,X,X,X,X,X,X,1016,120,54405
+States,District of Columbia,2019,44,X,1.75464,X,X,X,X,X,X,246,5,14020
+States,Florida,2019,44,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,44,X,1.23284,X,X,X,X,X,X,712,138,57753
+States,Texas,2019,44,X,3.70212,X,X,X,X,X,X,1124,121,30361
+States,New York City,2019,44,X,2.00445,X,X,X,X,X,X,1965,73,98032
+States,California,2019,45,X,2.19393,X,X,X,X,X,X,1258,124,57340
+States,District of Columbia,2019,45,X,1.87777,X,X,X,X,X,X,275,5,14645
+States,Florida,2019,45,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,45,X,1.29974,X,X,X,X,X,X,734,137,56473
+States,Texas,2019,45,X,4.73487,X,X,X,X,X,X,1501,116,31701
+States,New York City,2019,45,X,2.31827,X,X,X,X,X,X,2302,76,99298
+States,California,2019,46,X,2.44212,X,X,X,X,X,X,1481,125,60644
+States,District of Columbia,2019,46,X,1.79881,X,X,X,X,X,X,238,5,13231
+States,Florida,2019,46,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,46,X,1.37191,X,X,X,X,X,X,763,136,55616
+States,Texas,2019,46,X,4.78979,X,X,X,X,X,X,1456,111,30398
+States,New York City,2019,46,X,2.37719,X,X,X,X,X,X,2318,71,97510
+States,California,2019,47,X,2.39551,X,X,X,X,X,X,1536,122,64120
+States,District of Columbia,2019,47,X,2.14897,X,X,X,X,X,X,324,5,15077
+States,Florida,2019,47,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,47,X,1.44615,X,X,X,X,X,X,826,135,57117
+States,Texas,2019,47,X,6.49962,X,X,X,X,X,X,2114,114,32525
+States,New York City,2019,47,X,2.52914,X,X,X,X,X,X,2602,74,102881
+States,California,2019,48,X,2.74306,X,X,X,X,X,X,1205,122,43929
+States,District of Columbia,2019,48,X,2.63357,X,X,X,X,X,X,279,5,10594
+States,Florida,2019,48,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,48,X,1.97264,X,X,X,X,X,X,998,135,50592
+States,Texas,2019,48,X,7.33775,X,X,X,X,X,X,1783,117,24299
+States,New York City,2019,48,X,3.12113,X,X,X,X,X,X,2895,76,92755
+States,California,2019,49,X,2.71881,X,X,X,X,X,X,1697,125,62417
+States,District of Columbia,2019,49,X,1.56758,X,X,X,X,X,X,193,4,12312
+States,Florida,2019,49,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,49,X,1.94173,X,X,X,X,X,X,1025,136,52788
+States,Texas,2019,49,X,6.06795,X,X,X,X,X,X,1902,111,31345
+States,New York City,2019,49,X,3.39352,X,X,X,X,X,X,3496,75,103020
+States,California,2019,50,X,2.76788,X,X,X,X,X,X,1678,122,60624
+States,District of Columbia,2019,50,X,3.20978,X,X,X,X,X,X,478,5,14892
+States,Florida,2019,50,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,50,X,2.28183,X,X,X,X,X,X,1328,136,58199
+States,Texas,2019,50,X,8.66833,X,X,X,X,X,X,2124,98,24503
+States,New York City,2019,50,X,4.12511,X,X,X,X,X,X,4260,72,103270
+States,California,2019,51,X,3.2334,X,X,X,X,X,X,1854,124,57339
+States,District of Columbia,2019,51,X,4.49323,X,X,X,X,X,X,700,5,15579
+States,Florida,2019,51,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,51,X,3.35442,X,X,X,X,X,X,1898,135,56582
+States,Texas,2019,51,X,11.7639,X,X,X,X,X,X,2605,93,22144
+States,New York City,2019,51,X,5.05717,X,X,X,X,X,X,5179,76,102409
+States,California,2019,52,X,4.69895,X,X,X,X,X,X,2040,124,43414
+States,District of Columbia,2019,52,X,5.74943,X,X,X,X,X,X,603,5,10488
+States,Florida,2019,52,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2019,52,X,5.17193,X,X,X,X,X,X,2939,135,56826
+States,Texas,2019,52,X,15.2711,X,X,X,X,X,X,2349,91,15382
+States,New York City,2019,52,X,7.10479,X,X,X,X,X,X,6853,69,96456
+States,California,2020,1,X,4.86718,X,X,X,X,X,X,2217,126,45550
+States,District of Columbia,2020,1,X,4.25474,X,X,X,X,X,X,469,5,11023
+States,Florida,2020,1,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,1,X,5.15841,X,X,X,X,X,X,2986,132,57886
+States,Texas,2020,1,X,11.1836,X,X,X,X,X,X,2933,114,26226
+States,New York City,2020,1,X,7.0989,X,X,X,X,X,X,7106,72,100100
+States,California,2020,2,X,4.15263,X,X,X,X,X,X,2601,126,62635
+States,District of Columbia,2020,2,X,2.9592,X,X,X,X,X,X,425,5,14362
+States,Florida,2020,2,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,2,X,3.84268,X,X,X,X,X,X,1916,133,49861
+States,Texas,2020,2,X,10.007,X,X,X,X,X,X,3008,116,30059
+States,New York City,2020,2,X,6.31046,X,X,X,X,X,X,6530,70,103479
+States,California,2020,3,X,4.3026,X,X,X,X,X,X,2738,123,63636
+States,District of Columbia,2020,3,X,2.89747,X,X,X,X,X,X,427,5,14737
+States,Florida,2020,3,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,3,X,4.98993,X,X,X,X,X,X,2824,135,56594
+States,Texas,2020,3,X,10.6001,X,X,X,X,X,X,3100,114,29245
+States,New York City,2020,3,X,6.92656,X,X,X,X,X,X,7155,72,103298
+States,California,2020,4,X,4.80273,X,X,X,X,X,X,3087,126,64276
+States,District of Columbia,2020,4,X,3.46875,X,X,X,X,X,X,444,5,12800
+States,Florida,2020,4,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,4,X,6.26962,X,X,X,X,X,X,3755,135,59892
+States,Texas,2020,4,X,10.8121,X,X,X,X,X,X,3459,114,31992
+States,New York City,2020,4,X,7.67208,X,X,X,X,X,X,8228,69,107246
+States,California,2020,5,X,4.98209,X,X,X,X,X,X,3365,127,67542
+States,District of Columbia,2020,5,X,3.40572,X,X,X,X,X,X,505,5,14828
+States,Florida,2020,5,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,5,X,6.96812,X,X,X,X,X,X,4361,134,62585
+States,Texas,2020,5,X,11.2149,X,X,X,X,X,X,3818,117,34044
+States,New York City,2020,5,X,7.87635,X,X,X,X,X,X,8398,71,106623
+States,California,2020,6,X,5.05518,X,X,X,X,X,X,3394,123,67139
+States,District of Columbia,2020,6,X,2.76205,X,X,X,X,X,X,405,5,14663
+States,Florida,2020,6,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,6,X,7.51562,X,X,X,X,X,X,4535,135,60341
+States,Texas,2020,6,X,10.7991,X,X,X,X,X,X,3100,118,28706
+States,New York City,2020,6,X,7.14442,X,X,X,X,X,X,7860,77,110016
+States,California,2020,7,X,4.80201,X,X,X,X,X,X,2885,125,60079
+States,District of Columbia,2020,7,X,3.33883,X,X,X,X,X,X,466,4,13957
+States,Florida,2020,7,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,7,X,6.25291,X,X,X,X,X,X,3631,134,58069
+States,Texas,2020,7,X,9.67974,X,X,X,X,X,X,3098,115,32005
+States,New York City,2020,7,X,6.00549,X,X,X,X,X,X,6013,65,100125
+States,California,2020,8,X,4.5141,X,X,X,X,X,X,2762,128,61186
+States,District of Columbia,2020,8,X,2.41262,X,X,X,X,X,X,283,4,11730
+States,Florida,2020,8,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,8,X,4.85567,X,X,X,X,X,X,2577,133,53072
+States,Texas,2020,8,X,8.9848,X,X,X,X,X,X,2902,116,32299
+States,New York City,2020,8,X,4.71153,X,X,X,X,X,X,4325,69,91796
+States,California,2020,9,X,4.22932,X,X,X,X,X,X,2765,124,65377
+States,District of Columbia,2020,9,X,2.52398,X,X,X,X,X,X,350,4,13867
+States,Florida,2020,9,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,9,X,3.78471,X,X,X,X,X,X,1926,131,50889
+States,Texas,2020,9,X,7.76767,X,X,X,X,X,X,2458,112,31644
+States,New York City,2020,9,X,3.81761,X,X,X,X,X,X,3591,67,94064
+States,California,2020,10,X,3.99147,X,X,X,X,X,X,2395,109,60003
+States,District of Columbia,2020,10,X,2.74144,X,X,X,X,X,X,373,4,13606
+States,Florida,2020,10,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,10,X,3.69374,X,X,X,X,X,X,1813,133,49083
+States,Texas,2020,10,X,8.06613,X,X,X,X,X,X,2415,106,29940
+States,New York City,2020,10,X,4.88147,X,X,X,X,X,X,4623,68,94705
+States,California,2020,11,X,4.27011,X,X,X,X,X,X,2322,104,54378
+States,District of Columbia,2020,11,X,3.92842,X,X,X,X,X,X,551,4,14026
+States,Florida,2020,11,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,11,X,6.12276,X,X,X,X,X,X,3200,130,52264
+States,Texas,2020,11,X,6.97331,X,X,X,X,X,X,1792,109,25698
+States,New York City,2020,11,X,7.22505,X,X,X,X,X,X,7258,68,100456
+States,California,2020,12,X,4.92236,X,X,X,X,X,X,1474,100,29945
+States,District of Columbia,2020,12,X,4.89374,X,X,X,X,X,X,426,4,8705
+States,Florida,2020,12,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,12,X,7.90347,X,X,X,X,X,X,3288,131,41602
+States,Texas,2020,12,X,8.17899,X,X,X,X,X,X,1921,102,23487
+States,New York City,2020,12,X,12.0428,X,X,X,X,X,X,9900,60,82207
+States,California,2020,13,X,3.62004,X,X,X,X,X,X,1101,99,30414
+States,District of Columbia,2020,13,X,5.2833,X,X,X,X,X,X,428,4,8101
+States,Florida,2020,13,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,13,X,7.98081,X,X,X,X,X,X,2894,130,36262
+States,Texas,2020,13,X,4.73626,X,X,X,X,X,X,730,102,15413
+States,New York City,2020,13,X,14.0904,X,X,X,X,X,X,9906,50,70303
+States,California,2020,14,X,2.59626,X,X,X,X,X,X,739,95,28464
+States,District of Columbia,2020,14,X,4.43076,X,X,X,X,X,X,367,4,8283
+States,Florida,2020,14,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,14,X,7.09741,X,X,X,X,X,X,2365,130,33322
+States,Texas,2020,14,X,3.40379,X,X,X,X,X,X,401,94,11781
+States,New York City,2020,14,X,11.3272,X,X,X,X,X,X,7146,63,63087
+States,California,2020,15,X,2.07578,X,X,X,X,X,X,567,95,27315
+States,District of Columbia,2020,15,X,4.11457,X,X,X,X,X,X,362,4,8798
+States,Florida,2020,15,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,15,X,4.76863,X,X,X,X,X,X,1452,129,30449
+States,Texas,2020,15,X,2.95355,X,X,X,X,X,X,344,101,11647
+States,New York City,2020,15,X,7.60593,X,X,X,X,X,X,3949,68,51920
+States,California,2020,16,X,1.55867,X,X,X,X,X,X,452,97,28999
+States,District of Columbia,2020,16,X,3.93013,X,X,X,X,X,X,351,5,8931
+States,Florida,2020,16,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,16,X,3.30446,X,X,X,X,X,X,946,130,28628
+States,Texas,2020,16,X,2.11486,X,X,X,X,X,X,232,96,10970
+States,New York City,2020,16,X,4.88259,X,X,X,X,X,X,2227,70,45611
+States,California,2020,17,X,1.28651,X,X,X,X,X,X,388,95,30159
+States,District of Columbia,2020,17,X,3.67495,X,X,X,X,X,X,355,4,9660
+States,Florida,2020,17,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,17,X,2.00144,X,X,X,X,X,X,583,129,29129
+States,Texas,2020,17,X,2.01192,X,X,X,X,X,X,216,94,10736
+States,New York City,2020,17,X,2.98157,X,X,X,X,X,X,1335,70,44775
+States,California,2020,18,X,1.25852,X,X,X,X,X,X,406,96,32260
+States,District of Columbia,2020,18,X,3.96684,X,X,X,X,X,X,402,5,10134
+States,Florida,2020,18,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,18,X,1.27955,X,X,X,X,X,X,393,130,30714
+States,Texas,2020,18,X,1.50659,X,X,X,X,X,X,128,78,8496
+States,New York City,2020,18,X,1.95936,X,X,X,X,X,X,890,66,45423
+States,California,2020,19,X,1.11124,X,X,X,X,X,X,394,96,35456
+States,District of Columbia,2020,19,X,3.33024,X,X,X,X,X,X,359,4,10780
+States,Florida,2020,19,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,19,X,0.96626,X,X,X,X,X,X,305,127,31565
+States,Texas,2020,19,X,1.28713,X,X,X,X,X,X,156,91,12120
+States,New York City,2020,19,X,1.18229,X,X,X,X,X,X,514,68,43475
+States,California,2020,20,X,1.13358,X,X,X,X,X,X,379,95,33434
+States,District of Columbia,2020,20,X,2.40997,X,X,X,X,X,X,259,4,10747
+States,Florida,2020,20,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,20,X,0.773351,X,X,X,X,X,X,257,127,33232
+States,Texas,2020,20,X,1.15489,X,X,X,X,X,X,153,92,13248
+States,New York City,2020,20,X,1.08679,X,X,X,X,X,X,565,74,51988
+States,California,2020,21,X,1.06059,X,X,X,X,X,X,387,93,36489
+States,District of Columbia,2020,21,X,2.02245,X,X,X,X,X,X,227,4,11224
+States,Florida,2020,21,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,21,X,0.683416,X,X,X,X,X,X,244,127,35703
+States,Texas,2020,21,X,1.17085,X,X,X,X,X,X,152,88,12982
+States,New York City,2020,21,X,0.927738,X,X,X,X,X,X,512,75,55188
+States,California,2020,22,X,1.03612,X,X,X,X,X,X,364,91,35131
+States,District of Columbia,2020,22,X,0.436855,X,X,X,X,X,X,33,3,7554
+States,Florida,2020,22,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,22,X,0.481247,X,X,X,X,X,X,189,127,39273
+States,Texas,2020,22,X,1.17903,X,X,X,X,X,X,141,82,11959
+States,New York City,2020,22,X,0.741422,X,X,X,X,X,X,403,70,54355
+States,California,2020,23,X,0.841184,X,X,X,X,X,X,325,94,38636
+States,District of Columbia,2020,23,X,1.49609,X,X,X,X,X,X,176,4,11764
+States,Florida,2020,23,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,23,X,0.428651,X,X,X,X,X,X,162,124,37793
+States,Texas,2020,23,X,1.29584,X,X,X,X,X,X,188,84,14508
+States,New York City,2020,23,X,0.647156,X,X,X,X,X,X,383,70,59182
+States,California,2020,24,X,0.86893,X,X,X,X,X,X,345,90,39704
+States,District of Columbia,2020,24,X,1.48099,X,X,X,X,X,X,180,4,12154
+States,Florida,2020,24,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,24,X,0.400707,X,X,X,X,X,X,161,126,40179
+States,Texas,2020,24,X,1.48445,X,X,X,X,X,X,178,72,11991
+States,New York City,2020,24,X,0.577914,X,X,X,X,X,X,331,73,57275
+States,California,2020,25,X,0.990463,X,X,X,X,X,X,404,84,40789
+States,District of Columbia,2020,25,X,1.23246,X,X,X,X,X,X,159,4,12901
+States,Florida,2020,25,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,25,X,0.458804,X,X,X,X,X,X,190,126,41412
+States,Texas,2020,25,X,1.57013,X,X,X,X,X,X,267,81,17005
+States,New York City,2020,25,X,0.525877,X,X,X,X,X,X,328,67,62372
+States,California,2020,26,X,1.32841,X,X,X,X,X,X,550,86,41403
+States,District of Columbia,2020,26,X,1.43996,X,X,X,X,X,X,186,4,12917
+States,Florida,2020,26,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,26,X,0.360199,X,X,X,X,X,X,165,125,45808
+States,Texas,2020,26,X,2.00472,X,X,X,X,X,X,348,78,17359
+States,New York City,2020,26,X,0.564805,X,X,X,X,X,X,325,37,57542
+States,California,2020,27,X,1.52444,X,X,X,X,X,X,592,82,38834
+States,District of Columbia,2020,27,X,1.0079,X,X,X,X,X,X,97,4,9624
+States,Florida,2020,27,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,27,X,0.424689,X,X,X,X,X,X,193,122,45445
+States,Texas,2020,27,X,2.30817,X,X,X,X,X,X,185,67,8015
+States,New York City,2020,27,X,0.533798,X,X,X,X,X,X,300,37,56201
+States,California,2020,28,X,1.62359,X,X,X,X,X,X,691,84,42560
+States,District of Columbia,2020,28,X,0.791073,X,X,X,X,X,X,95,4,12009
+States,Florida,2020,28,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,28,X,0.465711,X,X,X,X,X,X,222,123,47669
+States,Texas,2020,28,X,2.00485,X,X,X,X,X,X,339,79,16909
+States,New York City,2020,28,X,0.55759,X,X,X,X,X,X,332,32,59542
+States,California,2020,29,X,1.55256,X,X,X,X,X,X,649,84,41802
+States,District of Columbia,2020,29,X,0.847663,X,X,X,X,X,X,105,4,12387
+States,Florida,2020,29,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,29,X,0.509557,X,X,X,X,X,X,233,123,45726
+States,Texas,2020,29,X,1.93511,X,X,X,X,X,X,300,77,15503
+States,New York City,2020,29,X,0.663214,X,X,X,X,X,X,397,29,59860
+States,California,2020,30,X,1.38562,X,X,X,X,X,X,731,99,52756
+States,District of Columbia,2020,30,X,0.670003,X,X,X,X,X,X,83,4,12388
+States,Florida,2020,30,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,30,X,0.523225,X,X,X,X,X,X,237,123,45296
+States,Texas,2020,30,X,1.75671,X,X,X,X,X,X,279,77,15882
+States,New York City,2020,30,X,0.649297,X,X,X,X,X,X,391,30,60219
+States,California,2020,31,X,1.41758,X,X,X,X,X,X,724,97,51073
+States,District of Columbia,2020,31,X,0.947343,X,X,X,X,X,X,120,4,12667
+States,Florida,2020,31,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,31,X,0.522652,X,X,X,X,X,X,232,123,44389
+States,Texas,2020,31,X,1.29616,X,X,X,X,X,X,192,79,14813
+States,New York City,2020,31,X,0.84472,X,X,X,X,X,X,612,69,72450
+States,California,2020,32,X,1.18426,X,X,X,X,X,X,603,97,50918
+States,District of Columbia,2020,32,X,0.917722,X,X,X,X,X,X,116,4,12640
+States,Florida,2020,32,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,32,X,0.483196,X,X,X,X,X,X,224,123,46358
+States,Texas,2020,32,X,1.29878,X,X,X,X,X,X,225,80,17324
+States,New York City,2020,32,X,0.7923,X,X,X,X,X,X,484,30,61088
+States,California,2020,33,X,1.00087,X,X,X,X,X,X,528,95,52754
+States,District of Columbia,2020,33,X,0.785198,X,X,X,X,X,X,101,4,12863
+States,Florida,2020,33,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,33,X,0.52421,X,X,X,X,X,X,228,122,43494
+States,Texas,2020,33,X,1.13144,X,X,X,X,X,X,180,79,15909
+States,New York City,2020,33,X,0.858983,X,X,X,X,X,X,643,70,74856
+States,California,2020,34,X,0.799416,X,X,X,X,X,X,427,97,53414
+States,District of Columbia,2020,34,X,0.670827,X,X,X,X,X,X,86,4,12820
+States,Florida,2020,34,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,34,X,0.739927,X,X,X,X,X,X,330,122,44599
+States,Texas,2020,34,X,1.11167,X,X,X,X,X,X,89,30,8006
+States,New York City,2020,34,X,0.883883,X,X,X,X,X,X,656,65,74218
+States,California,2020,35,X,0.810917,X,X,X,X,X,X,435,98,53643
+States,District of Columbia,2020,35,X,0.716355,X,X,X,X,X,X,89,4,12424
+States,Florida,2020,35,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,35,X,0.724231,X,X,X,X,X,X,323,121,44599
+States,Texas,2020,35,X,0.811312,X,X,X,X,X,X,70,65,8628
+States,New York City,2020,35,X,0.895276,X,X,X,X,X,X,684,69,76401
+States,California,2020,36,X,0.800522,X,X,X,X,X,X,429,98,53590
+States,District of Columbia,2020,36,X,0.999839,X,X,X,X,X,X,124,4,12402
+States,Florida,2020,36,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,36,X,0.62686,X,X,X,X,X,X,278,122,44348
+States,Texas,2020,36,X,0.956881,X,X,X,X,X,X,81,30,8465
+States,New York City,2020,36,X,0.79162,X,X,X,X,X,X,591,66,74657
+States,California,2020,37,X,0.84862,X,X,X,X,X,X,427,93,50317
+States,District of Columbia,2020,37,X,0.786296,X,X,X,X,X,X,84,4,10683
+States,Florida,2020,37,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,37,X,0.673425,X,X,X,X,X,X,285,123,42321
+States,Texas,2020,37,X,1.38769,X,X,X,X,X,X,177,43,12755
+States,New York City,2020,37,X,0.826616,X,X,X,X,X,X,604,66,73069
+States,California,2020,38,X,0.7842,X,X,X,X,X,X,432,102,55088
+States,District of Columbia,2020,38,X,0.614314,X,X,X,X,X,X,83,4,13511
+States,Florida,2020,38,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,38,X,0.781319,X,X,X,X,X,X,353,122,45180
+States,Texas,2020,38,X,1.20619,X,X,X,X,X,X,106,30,8788
+States,New York City,2020,38,X,0.83487,X,X,X,X,X,X,643,68,77018
+States,California,2020,39,X,0.879811,X,X,X,X,X,X,457,88,51943
+States,District of Columbia,2020,39,X,4.0396,X,X,X,X,X,X,102,1,2525
+States,Florida,2020,39,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,39,X,0.86619,X,X,X,X,X,X,395,121,45602
+States,Texas,2020,39,X,1.26102,X,X,X,X,X,X,505,56,40047
+States,New York City,2020,39,X,0.846627,X,X,X,X,X,X,648,67,76539
+States,California,2020,40,X,0.856969,X,X,X,X,X,X,494,111,57645
+States,District of Columbia,2020,40,X,1.10059,X,X,X,X,X,X,100,4,9086
+States,Florida,2020,40,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,40,X,0.892406,X,X,X,X,X,X,406,125,45495
+States,Texas,2020,40,X,1.35716,X,X,X,X,X,X,565,62,41631
+States,New York City,2020,40,X,0.930766,X,X,X,X,X,X,739,72,79397
+States,California,2020,41,X,1.04955,X,X,X,X,X,X,673,119,64123
+States,District of Columbia,2020,41,X,2.38447,X,X,X,X,X,X,129,4,5410
+States,Florida,2020,41,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,41,X,0.933274,X,X,X,X,X,X,461,127,49396
+States,Texas,2020,41,X,1.48786,X,X,X,X,X,X,741,76,49803
+States,New York City,2020,41,X,0.96852,X,X,X,X,X,X,739,70,76302
+States,California,2020,42,X,0.988032,X,X,X,X,X,X,639,121,64674
+States,District of Columbia,2020,42,X,2.42651,X,X,X,X,X,X,123,4,5069
+States,Florida,2020,42,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,42,X,0.862433,X,X,X,X,X,X,408,125,47308
+States,Texas,2020,42,X,1.52946,X,X,X,X,X,X,745,74,48710
+States,New York City,2020,42,X,0.797397,X,X,X,X,X,X,620,73,77753
+States,California,2020,43,X,1.00009,X,X,X,X,X,X,636,119,63594
+States,District of Columbia,2020,43,X,2.2123,X,X,X,X,X,X,109,4,4927
+States,Florida,2020,43,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,43,X,0.850983,X,X,X,X,X,X,401,125,47122
+States,Texas,2020,43,X,1.43192,X,X,X,X,X,X,604,61,42181
+States,New York City,2020,43,X,0.918325,X,X,X,X,X,X,669,70,72850
+States,California,2020,44,X,1.13457,X,X,X,X,X,X,726,118,63989
+States,District of Columbia,2020,44,X,2.23375,X,X,X,X,X,X,99,4,4432
+States,Florida,2020,44,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,44,X,0.885258,X,X,X,X,X,X,389,126,43942
+States,Texas,2020,44,X,1.56685,X,X,X,X,X,X,720,74,45952
+States,New York City,2020,44,X,0.848231,X,X,X,X,X,X,623,69,73447
+States,California,2020,45,X,1.24952,X,X,X,X,X,X,851,119,68106
+States,District of Columbia,2020,45,X,2.49132,X,X,X,X,X,X,122,4,4897
+States,Florida,2020,45,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,45,X,1.04023,X,X,X,X,X,X,476,124,45759
+States,Texas,2020,45,X,1.79109,X,X,X,X,X,X,904,79,50472
+States,New York City,2020,45,X,0.88259,X,X,X,X,X,X,680,71,77046
+States,California,2020,46,X,1.38192,X,X,X,X,X,X,835,118,60423
+States,District of Columbia,2020,46,X,2.47243,X,X,X,X,X,X,139,4,5622
+States,Florida,2020,46,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,46,X,1.17081,X,X,X,X,X,X,562,125,48001
+States,Texas,2020,46,X,1.96101,X,X,X,X,X,X,1037,76,52881
+States,New York City,2020,46,X,0.937274,X,X,X,X,X,X,751,70,80126
+States,California,2020,47,X,1.45327,X,X,X,X,X,X,1050,117,72251
+States,District of Columbia,2020,47,X,2.45089,X,X,X,X,X,X,131,4,5345
+States,Florida,2020,47,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,47,X,1.23317,X,X,X,X,X,X,577,125,46790
+States,Texas,2020,47,X,1.84988,X,X,X,X,X,X,936,75,50598
+States,New York City,2020,47,X,0.919554,X,X,X,X,X,X,596,33,64814
+States,California,2020,48,X,1.79873,X,X,X,X,X,X,1064,113,59153
+States,District of Columbia,2020,48,X,2.69151,X,X,X,X,X,X,104,4,3864
+States,Florida,2020,48,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,48,X,1.21824,X,X,X,X,X,X,539,125,44244
+States,Texas,2020,48,X,1.88888,X,X,X,X,X,X,801,78,42406
+States,New York City,2020,48,X,0.994968,X,X,X,X,X,X,613,33,61610
+States,California,2020,49,X,1.61388,X,X,X,X,X,X,1175,113,72806
+States,District of Columbia,2020,49,X,2.83991,X,X,X,X,X,X,146,4,5141
+States,Florida,2020,49,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,49,X,1.41764,X,X,X,X,X,X,589,125,41548
+States,Texas,2020,49,X,1.76688,X,X,X,X,X,X,794,69,44938
+States,New York City,2020,49,X,0.951539,X,X,X,X,X,X,624,34,65578
+States,California,2020,50,X,1.90242,X,X,X,X,X,X,1307,112,68702
+States,District of Columbia,2020,50,X,2.93153,X,X,X,X,X,X,152,4,5185
+States,Florida,2020,50,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,50,X,1.65522,X,X,X,X,X,X,747,124,45130
+States,Texas,2020,50,X,1.68186,X,X,X,X,X,X,834,78,49588
+States,New York City,2020,50,X,1.11195,X,X,X,X,X,X,704,33,63312
+States,California,2020,51,X,1.95488,X,X,X,X,X,X,1221,112,62459
+States,District of Columbia,2020,51,X,2.92363,X,X,X,X,X,X,147,4,5028
+States,Florida,2020,51,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,51,X,1.44781,X,X,X,X,X,X,614,125,42409
+States,Texas,2020,51,X,1.70327,X,X,X,X,X,X,636,63,37340
+States,New York City,2020,51,X,1.07107,X,X,X,X,X,X,667,33,62274
+States,California,2020,52,X,2.16056,X,X,X,X,X,X,1045,109,48367
+States,District of Columbia,2020,52,X,2.64188,X,X,X,X,X,X,108,4,4088
+States,Florida,2020,52,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,52,X,1.51156,X,X,X,X,X,X,638,124,42208
+States,Texas,2020,52,X,1.77187,X,X,X,X,X,X,722,75,40748
+States,New York City,2020,52,X,1.13255,X,X,X,X,X,X,708,31,62514
+States,California,2020,53,X,2.00587,X,X,X,X,X,X,1025,112,51100
+States,District of Columbia,2020,53,X,2.62554,X,X,X,X,X,X,103,4,3923
+States,Florida,2020,53,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2020,53,X,1.68661,X,X,X,X,X,X,774,124,45891
+States,Texas,2020,53,X,1.89614,X,X,X,X,X,X,739,64,38974
+States,New York City,2020,53,X,1.14465,X,X,X,X,X,X,724,22,63251
+States,California,2021,1,X,1.85489,X,X,X,X,X,X,1109,116,59788
+States,District of Columbia,2021,1,X,2.26914,X,X,X,X,X,X,115,4,5068
+States,Florida,2021,1,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2021,1,X,1.70501,X,X,X,X,X,X,816,125,47859
+States,Texas,2021,1,X,1.67473,X,X,X,X,X,X,872,77,52068
+States,New York City,2021,1,X,1.19101,X,X,X,X,X,X,819,30,68765
+States,California,2021,2,X,1.56271,X,X,X,X,X,X,947,115,60600
+States,District of Columbia,2021,2,X,2.36663,X,X,X,X,X,X,122,4,5155
+States,Florida,2021,2,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2021,2,X,1.29005,X,X,X,X,X,X,697,125,54029
+States,Texas,2021,2,X,1.32533,X,X,X,X,X,X,539,64,40669
+States,New York City,2021,2,X,1.17767,X,X,X,X,X,X,808,33,68610
+States,California,2021,3,X,1.25345,X,X,X,X,X,X,714,114,56963
+States,District of Columbia,2021,3,X,3.54773,X,X,X,X,X,X,139,4,3918
+States,Florida,2021,3,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2021,3,X,1.48524,X,X,X,X,X,X,647,125,43562
+States,Texas,2021,3,X,1.58412,X,X,X,X,X,X,766,75,48355
+States,New York City,2021,3,X,1.20903,X,X,X,X,X,X,800,29,66169
+States,California,2021,4,X,1.12155,X,X,X,X,X,X,633,114,56440
+States,District of Columbia,2021,4,X,2.8474,X,X,X,X,X,X,142,4,4987
+States,Florida,2021,4,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2021,4,X,1.15118,X,X,X,X,X,X,499,126,43347
+States,Texas,2021,4,X,1.40992,X,X,X,X,X,X,594,73,42130
+States,New York City,2021,4,X,1.12996,X,X,X,X,X,X,748,30,66197
+States,California,2021,5,X,1.00568,X,X,X,X,X,X,600,114,59661
+States,District of Columbia,2021,5,X,2.14442,X,X,X,X,X,X,98,4,4570
+States,Florida,2021,5,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2021,5,X,1.06779,X,X,X,X,X,X,447,124,41862
+States,Texas,2021,5,X,2.5098,X,X,X,X,X,X,1152,78,45900
+States,New York City,2021,5,X,1.10232,X,X,X,X,X,X,690,29,62595
+States,California,2021,6,X,0.860308,X,X,X,X,X,X,497,112,57770
+States,District of Columbia,2021,6,X,3.03986,X,X,X,X,X,X,135,4,4441
+States,Florida,2021,6,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2021,6,X,1.03274,X,X,X,X,X,X,447,125,43283
+States,Texas,2021,6,X,1.86428,X,X,X,X,X,X,150,37,8046
+States,New York City,2021,6,X,1.12537,X,X,X,X,X,X,754,29,67000
+States,California,2021,7,X,0.762594,X,X,X,X,X,X,411,110,53895
+States,District of Columbia,2021,7,X,1.67816,X,X,X,X,X,X,73,4,4350
+States,Florida,2021,7,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2021,7,X,0.879121,X,X,X,X,X,X,368,124,41860
+States,Texas,2021,7,X,2.15475,X,X,X,X,X,X,44,37,2042
+States,New York City,2021,7,X,0.991988,X,X,X,X,X,X,650,28,65525
+States,California,2021,8,X,0.779683,X,X,X,X,X,X,447,105,57331
+States,District of Columbia,2021,8,X,2.03891,X,X,X,X,X,X,109,4,5346
+States,Florida,2021,8,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2021,8,X,0.810203,X,X,X,X,X,X,371,124,45791
+States,Texas,2021,8,X,0.996214,X,X,X,X,X,X,400,56,40152
+States,New York City,2021,8,X,0.970413,X,X,X,X,X,X,695,28,71619
+States,California,2021,9,X,0.786365,X,X,X,X,X,X,418,100,53156
+States,District of Columbia,2021,9,X,1.97054,X,X,X,X,X,X,103,4,5227
+States,Florida,2021,9,X,X,X,X,X,X,X,X,X,X,X
+States,New York,2021,9,X,0.823538,X,X,X,X,X,X,358,120,43471
+States,Texas,2021,9,X,0.835264,X,X,X,X,X,X,328,54,39269
+States,New York City,2021,9,X,0.952294,X,X,X,X,X,X,628,27,65946

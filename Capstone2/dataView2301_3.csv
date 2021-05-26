@@ -1,0 +1,151 @@
+﻿Age group,State,Season,numvaccinated
+0-4,California,2011,1298
+0-4,California,2012,499
+0-4,California,2013,672
+0-4,California,2014,858
+0-4,California,2015,909
+0-4,California,2016,834
+0-4,California,2017,1059
+0-4,California,2018,809
+0-4,California,2019,893
+0-4,California,2020,1164
+0-4,District of Columbia,2011,662
+0-4,District of Columbia,2012,500
+0-4,District of Columbia,2013,576
+0-4,District of Columbia,2014,710
+0-4,District of Columbia,2015,895
+0-4,District of Columbia,2016,833
+0-4,District of Columbia,2017,862
+0-4,District of Columbia,2018,807
+0-4,District of Columbia,2019,1240
+0-4,District of Columbia,2020,1073
+0-4,Florida,2011,882
+0-4,Florida,2012,383
+0-4,Florida,2013,447
+0-4,Florida,2014,640
+0-4,Florida,2015,740
+0-4,Florida,2016,725
+0-4,Florida,2017,991
+0-4,Florida,2018,912
+0-4,Florida,2019,1120
+0-4,Florida,2020,1189
+0-4,New York,2011,1166
+0-4,New York,2012,889
+0-4,New York,2013,1069
+0-4,New York,2014,1379
+0-4,New York,2015,1429
+0-4,New York,2016,1732
+0-4,New York,2017,1841
+0-4,New York,2018,1444
+0-4,New York,2019,1762
+0-4,New York,2020,2192
+0-4,Texas,2011,2705
+0-4,Texas,2012,2548
+0-4,Texas,2013,2542
+0-4,Texas,2014,2924
+0-4,Texas,2015,3398
+0-4,Texas,2016,3560
+0-4,Texas,2017,4408
+0-4,Texas,2018,3588
+0-4,Texas,2019,3758
+0-4,Texas,2020,2902
+≥65,California,2011,4390
+≥65,California,2012,2454
+≥65,California,2013,2095
+≥65,California,2014,905
+≥65,California,2015,2241
+≥65,California,2016,1897
+≥65,California,2017,1290
+≥65,California,2018,2263
+≥65,California,2019,1985
+≥65,California,2020,1240
+≥65,District of Columbia,2011,1101
+≥65,District of Columbia,2012,1189
+≥65,District of Columbia,2013,936
+≥65,District of Columbia,2014,1081
+≥65,District of Columbia,2015,539
+≥65,District of Columbia,2016,713
+≥65,District of Columbia,2017,763
+≥65,District of Columbia,2018,423
+≥65,District of Columbia,2019,327.5
+≥65,District of Columbia,2020,232
+≥65,Florida,2011,6415
+≥65,Florida,2012,1777
+≥65,Florida,2013,4404
+≥65,Florida,2014,4717
+≥65,Florida,2015,1966
+≥65,Florida,2016,3769
+≥65,Florida,2017,7328
+≥65,Florida,2018,2775
+≥65,Florida,2019,4169
+≥65,Florida,2020,1629
+≥65,New York,2011,2588
+≥65,New York,2012,1526
+≥65,New York,2013,1754
+≥65,New York,2014,1854
+≥65,New York,2015,2752
+≥65,New York,2016,5505
+≥65,New York,2017,4795
+≥65,New York,2018,5415
+≥65,New York,2019,5472
+≥65,New York,2020,3243
+≥65,Texas,2011,4398
+≥65,Texas,2012,2663
+≥65,Texas,2013,2184
+≥65,Texas,2014,3052
+≥65,Texas,2015,3093
+≥65,Texas,2016,2615
+≥65,Texas,2017,2455
+≥65,Texas,2018,2168
+≥65,Texas,2019,2476
+≥65,Texas,2020,2150
+5_64,California,2011,12051
+5_64,California,2012,7325
+5_64,California,2013,6600
+5_64,California,2014,4069
+5_64,California,2015,7626
+5_64,California,2016,6952
+5_64,California,2017,5762
+5_64,California,2018,8189
+5_64,California,2019,7021
+5_64,California,2020,5478
+5_64,District of Columbia,2011,3369
+5_64,District of Columbia,2012,3478
+5_64,District of Columbia,2013,3065
+5_64,District of Columbia,2014,3464
+5_64,District of Columbia,2015,3050
+5_64,District of Columbia,2016,2847
+5_64,District of Columbia,2017,3708
+5_64,District of Columbia,2018,2847
+5_64,District of Columbia,2019,2898
+5_64,District of Columbia,2020,2807
+5_64,Florida,2011,13533
+5_64,Florida,2012,4842
+5_64,Florida,2013,9452
+5_64,Florida,2014,10658
+5_64,Florida,2015,5468
+5_64,Florida,2016,9327
+5_64,Florida,2017,17651
+5_64,Florida,2018,8005
+5_64,Florida,2019,11212
+5_64,Florida,2020,5609
+5_64,New York,2011,7705
+5_64,New York,2012,6047
+5_64,New York,2013,6783
+5_64,New York,2014,7271
+5_64,New York,2015,8972
+5_64,New York,2016,14807
+5_64,New York,2017,13823
+5_64,New York,2018,15247
+5_64,New York,2019,15273
+5_64,New York,2020,10895
+5_64,Texas,2011,14518
+5_64,Texas,2012,12836
+5_64,Texas,2013,11119
+5_64,Texas,2014,14298
+5_64,Texas,2015,15648
+5_64,Texas,2016,14375
+5_64,Texas,2017,15210
+5_64,Texas,2018,12278
+5_64,Texas,2019,13114
+5_64,Texas,2020,11785
